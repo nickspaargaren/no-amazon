@@ -1,3 +1,36 @@
+#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+#Last updated: 14-02-2020
+ec2-46-51-216-0.ap-southeast-1.compute.amazonaws.com
+ns-intl-1024.awsdns-cn-00.net
+ns-intl-0.awsdns-cn-00.com
+ns-0.awsdns-cn-00.com
+ns-1024.awsdns-cn-00.net
+s3-deprecated-sa-east-1.amazonaws.com
+s3-sa-east-1-w.amazonaws.com
+s3-w.ap-south-1.amazonaws.com
+s3-us-gov-west-1.amazonaws.com
+s3-ap-southeast-2-w.amazonaws.com
+s3-website-ap-northeast-1.amazonaws.com
+s3-us-west-1-r-w.amazonaws.com
+s3-ap-southeast-1-w.amazonaws.com
+s3.ap-northeast-2.amazonaws.com
+s3.eu-central-1.amazonaws.com
+ns-2048.awsdns-cn-00.biz
+ns-3072.awsdns-cn-00.top
+s3-w.cn-north-1.amazonaws.com.cn
+s3-ap-northeast-1.amazonaws.com
+s3-us-west-1.amazonaws.com
+s3-2.amazonaws.com
+pdx1-br-rrr-r1.amazon.com
+ec2-103-4-8-0.ap-northeast-1.compute.amazonaws.com
+www.amazon.co.jp
+server-204-246-164-0.sin2.r.cloudfront.net
+server-204-246-168-0.jfk1.r.cloudfront.net
+ns-0.awsdns-00.com
+restore.menlosecurity.com
+89-194-231-18.gsurfnet.com.br
+ec2-177-71-207-169.sa-east-1.compute.amazonaws.com
+
 #[Amazon.com][AS14618][13.32.0.0-13.35.255.255]
 sjs.bizographics.com
 intljs.rmtag.com
