@@ -1,4 +1,4 @@
-#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+#This blocklist helps Pi-hole's admin restrict access to Amazon and its domains.
 #Last updated: 14-02-2020
 ec2-46-51-216-0.ap-southeast-1.compute.amazonaws.com
 ns-intl-1024.awsdns-cn-00.net
