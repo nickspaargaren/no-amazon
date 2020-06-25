@@ -288,7 +288,7 @@ www.ytdownloader.com
 #[Amazon.com][AS14618][143.204.0.0-143.204.255.255]
 static.trackedweb.net
 
-[Amazon.com][AS14618][174.129.0.0-174.129.255.255]
+#[Amazon.com][AS14618][174.129.0.0-174.129.255.255]
 engine.4chan-ads.org
 ads20.adcolony.com
 insight.adsrvr.org
