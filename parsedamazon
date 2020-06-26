@@ -1,5 +1,5 @@
 #This blocklist helps Pi-hole's admin restrict access to Amazon and its domains.
-#Last updated: 24-03-2020
+#Last updated: 26-06-2020
 transifex.s3.amazonaws.com
 pixel-vault.s3-accelerate.amazonaws.com
 device-metrics-us.amazon.com
@@ -37,9 +37,6 @@ pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com
 ace-ugc-pc-lnch.s3.amazonaws.com
 ubisoft-uplay-savegames.s3.amazonaws.com
 39ce87f4-minecraftapi-mine-f953-1806246087.us-east-1.elb.amazonaws.com
-ocsp.sca1b.amazontrust.com
-ocsp.rootg2.amazontrust.com
-ocsp.rootca1.amazontrust.com
 cneapi-production-1065237446.us-east-1.elb.amazonaws.com
 journey-service-assets-prod.s3.amazonaws.com
 elb097307-934924932.us-east-1.elb.amazonaws.com

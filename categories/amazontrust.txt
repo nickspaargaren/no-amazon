@@ -1,0 +1,5 @@
+#This blocklist helps Pi-hole's admin restrict access to Amazon and its domains.
+#Last updated: 26-06-2020
+0.0.0.0 ocsp.sca1b.amazontrust.com
+0.0.0.0 ocsp.rootg2.amazontrust.com
+0.0.0.0 ocsp.rootca1.amazontrust.com

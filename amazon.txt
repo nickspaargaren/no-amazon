@@ -1,1241 +1,1201 @@
 #This blocklist helps Pi-hole's admin restrict access to Amazon and its domains.
-#Last updated: 24-03-2020
-transifex.s3.amazonaws.com
-pixel-vault.s3-accelerate.amazonaws.com
-device-metrics-us.amazon.com
-cloudfront-labs.amazonaws.com
-ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com
-det-ta-g7g.amazon.com
-atv-ext-eu.amazon.com
-eu.api.amazonvideo.com
-gh-contractor-zcbenz.s3.amazonaws.com
-ir-fr.amazon-adsystem.com
-cdn-alliancegravity.s3.amazonaws.com
-a2uowfjvhio0fa.iot.us-east-1.amazonaws.com
-wooting-update.s3.amazonaws.com
-96gjjs0zuh.execute-api.us-east-1.amazonaws.com
-dynamodb.us-west-2.amazonaws.com
-web-prod-3fab4a-1499954829-1392918184.eu-west-1.elb.amazonaws.com
-a-prod-1469611339-2101282857.eu-west-1.elb.amazonaws.com
-andr-59e19706d5-968e2d5b08687bf4-a86b2c24f191cc7b6b-2610163.eu.api.amazonvideo.com
-cognito-identity.us-east-1.amazonaws.com
-pinpoint.us-east-1.amazonaws.com
-opfcaptcha-prod.s3.amazonaws.com
-firs-ta-g7g.amazon.com
-dcape-na.amazon.com
-msh.amazon.co.uk
-mads.amazon-adsystem.com
-arcus-uswest.amazon.com
-dp-gw-na.amazon.com
-api.amazon.com
-spectrum.s3.amazonaws.com
-andr.eu.ec.api.amazonvideo.com
-checkip.amazonaws.com
-bi-flogger-alb-ext-343643057.us-east-1.elb.amazonaws.com
-balancers-500771366.us-east-1.elb.amazonaws.com
-pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com
-ace-ugc-pc-lnch.s3.amazonaws.com
-ubisoft-uplay-savegames.s3.amazonaws.com
-39ce87f4-minecraftapi-mine-f953-1806246087.us-east-1.elb.amazonaws.com
-ocsp.sca1b.amazontrust.com
-ocsp.rootg2.amazontrust.com
-ocsp.rootca1.amazontrust.com
-cneapi-production-1065237446.us-east-1.elb.amazonaws.com
-journey-service-assets-prod.s3.amazonaws.com
-elb097307-934924932.us-east-1.elb.amazonaws.com
-techvalidateproduction0-744364824.us-west-2.elb.amazonaws.com
-speedhunters-wp-production.s3.amazonaws.com
-ec2-3-213-70-200.compute-1.amazonaws.com
-prod-0-dailykos-routing-lb-1067863233.us-west-2.elb.amazonaws.com
-voice-prod-clips-393eefd0cba28c270ced0f9587a4f6ae601ca91e.s3.dualstack.us-west-2.amazonaws.com
-productio-elasticl-35189evuisr9-1896115268.us-west-2.elb.amazonaws.com
-wiki-prod-1394614349.us-west-2.elb.amazonaws.com
-voice-prod-78694282.us-west-2.elb.amazonaws.com
-www.assoc-amazon.com
-www.assoc-amazon.co.uk
-www.assoc-amazon.ca
-nzxt-main-site-1987901289.us-west-2.elb.amazonaws.com
-trello-members.s3.amazonaws.com
-6i1bamfxoi.execute-api.us-east-1.amazonaws.com
-loadbee-production-981938583.eu-central-1.elb.amazonaws.com
-fls-eu.amazon.fr
-fls-eu.amazon.com
-c.media-amazon.com
-www.aboutamazon.fr
-advertising.amazon.fr
-aws.amazon.com
-www.amazon.com.mx.edgekey.net
-tp.abe2c2f23-frontier.amazon.de
-cache.prod.amazon-blogs.psdops.com
-m.media-amazon.com
-assoc-eu.associates-amazon.com
-aan.amazon.fr
-unagi-eu.amazon.com
-completion.amazon.com
-services.amazon.fr
-catalog-retail.amazon.fr
-accelerator.amazon.fr
-partenaires.amazon.fr
-kdp.amazon.com
-pay.amazon.com
-music.amazon.fr
-tp.47cf2c8c9-frontier.amazon.com
-accelerator.amazon.co.uk
-tp.1fe6d5bb2-frontier.amazon.es
-tp.04788557e-frontier.amazon.sg
-tp.c9a5976c7-frontier.amazon.ae
-tp.8e49140c2-frontier.amazon.com
-tp.3a3674792-frontier.amazon.ca
-tp.c95e7e602-frontier.amazon.in
-tp.252df37b2-frontier.amazon.nl
-tp.8fb1e192f-frontier.amazon.com.tr
-www.amazon.com.edgekey.net
-www.amazon.ca.edgekey.net
-www.amazon.es.edgekey.net
-www.amazon.com.tr.edgekey.net
-www.amazon.in.edgekey.net
-www.amazon.nl.edgekey.net
-gio-catalog-eu.amazon.com
-tp.252df37b2-frontier.amazon.nl
-aan.amazon.fr
-unagi-eu.amazon.com
-dualstack.unrealengine-web-gateway-prod-1091263071.us-east-1.elb.amazonaws.com
-images-eu.ssl-images-amazon.com
-images-na.ssl-images-amazon.com
-f.media-amazon.com
-codingame-work-webapp-app-lb-1764834128.us-east-1.elb.amazonaws.com
-www.amazon.fr.edgekey.net
-a5d693d334f9f11e9bd370659f4f1e30-423261162.eu-west-3.elb.amazonaws.com
-logging-vpc-new-1656974903.us-east-1.elb.amazonaws.com
-ec2-18-216-208-225.us-east-2.compute.amazonaws.com
-tp.f0c2e5164-frontier.amazon.fr
-drmalb-677588359.eu-west-3.elb.amazonaws.com
-github-cloud.s3.amazonaws.com
-ec2-46-51-216-0.ap-southeast-1.compute.amazonaws.com
-ns-intl-1024.awsdns-cn-00.net
-ns-intl-0.awsdns-cn-00.com
-ns-0.awsdns-cn-00.com
-ns-1024.awsdns-cn-00.net
-s3-deprecated-sa-east-1.amazonaws.com
-s3-sa-east-1-w.amazonaws.com
-s3-w.ap-south-1.amazonaws.com
-s3-us-gov-west-1.amazonaws.com
-s3-ap-southeast-2-w.amazonaws.com
-s3-website-ap-northeast-1.amazonaws.com
-s3-us-west-1-r-w.amazonaws.com
-s3-ap-southeast-1-w.amazonaws.com
-s3.ap-northeast-2.amazonaws.com
-s3.eu-central-1.amazonaws.com
-ns-2048.awsdns-cn-00.biz
-ns-3072.awsdns-cn-00.top
-s3-w.cn-north-1.amazonaws.com.cn
-s3-ap-northeast-1.amazonaws.com
-s3-us-west-1.amazonaws.com
-s3-2.amazonaws.com
-pdx1-br-rrr-r1.amazon.com
-ec2-103-4-8-0.ap-northeast-1.compute.amazonaws.com
-server-204-246-164-0.sin2.r.cloudfront.net
-server-204-246-168-0.jfk1.r.cloudfront.net
-ns-0.awsdns-00.com
-restore.menlosecurity.com
-89-194-231-18.gsurfnet.com.br
-ec2-177-71-207-169.sa-east-1.compute.amazonaws.com
-aiv-cdn.net
-aiv-delivery.net
-alexa.com
-amazon.ae
-amazon.au
-amazon.ca
-amazon.cn
-amazon.co.jp
-amazon.co.uk
-amazon.com
-amazon.com.au
-amazon.com.br
-amazon.com.mx
-amazon.de
-amazon.es
-amazon.eu
-amazon.fr
-amazon.in
-amazon.it
-amazon.nl
-amazon.sg
-amazon-adsystem.com
-amazonalexa.com
-amazonaws.cn
-amazonaws.com
-amazonaws.com.cn
-amazonvideo.com
-awsstatic.com
-cloudfront.net
-elasticbeanstalk.com
-ext-twitch.tv
-imdb.com
-jtvnw.net
-media-amazon.com
-media-imdb.com
-ssl-images-amazon.com
-ttvnw.net
-twitch.tv
-twitchcdn.net
-wholefoodsmarket.co.uk
-wholefoodsmarket.com
-zappos.com
-cliqz-browser-services-186937543.us-east-1.elb.amazonaws.com
-github-production-release-asset-2e65be.s3.amazonaws.com
-balrog-public-v2-lb-450722629.us-east-1.elb.amazonaws.com
-s3-1-w.amazonaws.com
-gtmlivelive-eu-c-1nlbwwwcom-8168f86a0c0d146f.elb.eu-central-1.amazonaws.com
-ec2-18-195-48-238.eu-central-1.compute.amazonaws.com
-rtd-twilsock-239837944.us-east-1.elb.amazonaws.com
-ambassador-production-v2-elb-506154624.eu-central-1.elb.amazonaws.com
-ec2-18-195-48-252.eu-central-1.compute.amazonaws.com
-ec2-18-195-48-248.eu-central-1.compute.amazonaws.com
-ec2-18-195-48-237.eu-central-1.compute.amazonaws.com
-ec2-18-195-48-253.eu-central-1.compute.amazonaws.com
-ec2-18-195-48-242.eu-central-1.compute.amazonaws.com
-ec2-18-195-48-255.eu-central-1.compute.amazonaws.com
-tf-lb-20171109165411125400000001-440806643.us-east-1.elb.amazonaws.com
-dev-to.s3.us-east-2.amazonaws.com
-steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com
-steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com
-7a0qo1zj1m.execute-api.us-west-1.amazonaws.com
-surveygizmobeacon.s3.amazonaws.com
-chrooma-us.s3.amazonaws.com
-unreadit.s3.us-east-1.amazonaws.com
-teachingcomemail.s3.amazonaws.com
-repository.cliqz.com.s3.amazonaws.com
-
+#Last updated: 26-06-2020
+0.0.0.0 transifex.s3.amazonaws.com
+0.0.0.0 pixel-vault.s3-accelerate.amazonaws.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 cloudfront-labs.amazonaws.com
+0.0.0.0 ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com
+0.0.0.0 det-ta-g7g.amazon.com
+0.0.0.0 atv-ext-eu.amazon.com
+0.0.0.0 eu.api.amazonvideo.com
+0.0.0.0 gh-contractor-zcbenz.s3.amazonaws.com
+0.0.0.0 ir-fr.amazon-adsystem.com
+0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
+0.0.0.0 a2uowfjvhio0fa.iot.us-east-1.amazonaws.com
+0.0.0.0 wooting-update.s3.amazonaws.com
+0.0.0.0 96gjjs0zuh.execute-api.us-east-1.amazonaws.com
+0.0.0.0 dynamodb.us-west-2.amazonaws.com
+0.0.0.0 web-prod-3fab4a-1499954829-1392918184.eu-west-1.elb.amazonaws.com
+0.0.0.0 a-prod-1469611339-2101282857.eu-west-1.elb.amazonaws.com
+0.0.0.0 andr-59e19706d5-968e2d5b08687bf4-a86b2c24f191cc7b6b-2610163.eu.api.amazonvideo.com
+0.0.0.0 cognito-identity.us-east-1.amazonaws.com
+0.0.0.0 pinpoint.us-east-1.amazonaws.com
+0.0.0.0 opfcaptcha-prod.s3.amazonaws.com
+0.0.0.0 firs-ta-g7g.amazon.com
+0.0.0.0 dcape-na.amazon.com
+0.0.0.0 msh.amazon.co.uk
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 arcus-uswest.amazon.com
+0.0.0.0 dp-gw-na.amazon.com
+0.0.0.0 api.amazon.com
+0.0.0.0 spectrum.s3.amazonaws.com
+0.0.0.0 andr.eu.ec.api.amazonvideo.com
+0.0.0.0 checkip.amazonaws.com
+0.0.0.0 bi-flogger-alb-ext-343643057.us-east-1.elb.amazonaws.com
+0.0.0.0 balancers-500771366.us-east-1.elb.amazonaws.com
+0.0.0.0 pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com
+0.0.0.0 ace-ugc-pc-lnch.s3.amazonaws.com
+0.0.0.0 ubisoft-uplay-savegames.s3.amazonaws.com
+0.0.0.0 39ce87f4-minecraftapi-mine-f953-1806246087.us-east-1.elb.amazonaws.com
+0.0.0.0 ocsp.sca1b.amazontrust.com
+0.0.0.0 ocsp.rootg2.amazontrust.com
+0.0.0.0 ocsp.rootca1.amazontrust.com
+0.0.0.0 cneapi-production-1065237446.us-east-1.elb.amazonaws.com
+0.0.0.0 journey-service-assets-prod.s3.amazonaws.com
+0.0.0.0 elb097307-934924932.us-east-1.elb.amazonaws.com
+0.0.0.0 techvalidateproduction0-744364824.us-west-2.elb.amazonaws.com
+0.0.0.0 speedhunters-wp-production.s3.amazonaws.com
+0.0.0.0 ec2-3-213-70-200.compute-1.amazonaws.com
+0.0.0.0 prod-0-dailykos-routing-lb-1067863233.us-west-2.elb.amazonaws.com
+0.0.0.0 voice-prod-clips-393eefd0cba28c270ced0f9587a4f6ae601ca91e.s3.dualstack.us-west-2.amazonaws.com
+0.0.0.0 productio-elasticl-35189evuisr9-1896115268.us-west-2.elb.amazonaws.com
+0.0.0.0 wiki-prod-1394614349.us-west-2.elb.amazonaws.com
+0.0.0.0 voice-prod-78694282.us-west-2.elb.amazonaws.com
+0.0.0.0 www.assoc-amazon.com
+0.0.0.0 www.assoc-amazon.co.uk
+0.0.0.0 www.assoc-amazon.ca
+0.0.0.0 nzxt-main-site-1987901289.us-west-2.elb.amazonaws.com
+0.0.0.0 trello-members.s3.amazonaws.com
+0.0.0.0 6i1bamfxoi.execute-api.us-east-1.amazonaws.com
+0.0.0.0 loadbee-production-981938583.eu-central-1.elb.amazonaws.com
+0.0.0.0 fls-eu.amazon.fr
+0.0.0.0 fls-eu.amazon.com
+0.0.0.0 c.media-amazon.com
+0.0.0.0 www.aboutamazon.fr
+0.0.0.0 advertising.amazon.fr
+0.0.0.0 aws.amazon.com
+0.0.0.0 www.amazon.com.mx.edgekey.net
+0.0.0.0 tp.abe2c2f23-frontier.amazon.de
+0.0.0.0 cache.prod.amazon-blogs.psdops.com
+0.0.0.0 m.media-amazon.com
+0.0.0.0 assoc-eu.associates-amazon.com
+0.0.0.0 aan.amazon.fr
+0.0.0.0 unagi-eu.amazon.com
+0.0.0.0 completion.amazon.com
+0.0.0.0 services.amazon.fr
+0.0.0.0 catalog-retail.amazon.fr
+0.0.0.0 accelerator.amazon.fr
+0.0.0.0 partenaires.amazon.fr
+0.0.0.0 kdp.amazon.com
+0.0.0.0 pay.amazon.com
+0.0.0.0 music.amazon.fr
+0.0.0.0 tp.47cf2c8c9-frontier.amazon.com
+0.0.0.0 accelerator.amazon.co.uk
+0.0.0.0 tp.1fe6d5bb2-frontier.amazon.es
+0.0.0.0 tp.04788557e-frontier.amazon.sg
+0.0.0.0 tp.c9a5976c7-frontier.amazon.ae
+0.0.0.0 tp.8e49140c2-frontier.amazon.com
+0.0.0.0 tp.3a3674792-frontier.amazon.ca
+0.0.0.0 tp.c95e7e602-frontier.amazon.in
+0.0.0.0 tp.252df37b2-frontier.amazon.nl
+0.0.0.0 tp.8fb1e192f-frontier.amazon.com.tr
+0.0.0.0 www.amazon.com.edgekey.net
+0.0.0.0 www.amazon.ca.edgekey.net
+0.0.0.0 www.amazon.es.edgekey.net
+0.0.0.0 www.amazon.com.tr.edgekey.net
+0.0.0.0 www.amazon.in.edgekey.net
+0.0.0.0 www.amazon.nl.edgekey.net
+0.0.0.0 gio-catalog-eu.amazon.com
+0.0.0.0 tp.252df37b2-frontier.amazon.nl
+0.0.0.0 aan.amazon.fr
+0.0.0.0 unagi-eu.amazon.com
+0.0.0.0 dualstack.unrealengine-web-gateway-prod-1091263071.us-east-1.elb.amazonaws.com
+0.0.0.0 images-eu.ssl-images-amazon.com
+0.0.0.0 images-na.ssl-images-amazon.com
+0.0.0.0 f.media-amazon.com
+0.0.0.0 codingame-work-webapp-app-lb-1764834128.us-east-1.elb.amazonaws.com
+0.0.0.0 www.amazon.fr.edgekey.net
+0.0.0.0 a5d693d334f9f11e9bd370659f4f1e30-423261162.eu-west-3.elb.amazonaws.com
+0.0.0.0 logging-vpc-new-1656974903.us-east-1.elb.amazonaws.com
+0.0.0.0 ec2-18-216-208-225.us-east-2.compute.amazonaws.com
+0.0.0.0 tp.f0c2e5164-frontier.amazon.fr
+0.0.0.0 drmalb-677588359.eu-west-3.elb.amazonaws.com
+0.0.0.0 github-cloud.s3.amazonaws.com
+0.0.0.0 ec2-46-51-216-0.ap-southeast-1.compute.amazonaws.com
+0.0.0.0 ns-intl-1024.awsdns-cn-00.net
+0.0.0.0 ns-intl-0.awsdns-cn-00.com
+0.0.0.0 ns-0.awsdns-cn-00.com
+0.0.0.0 ns-1024.awsdns-cn-00.net
+0.0.0.0 s3-deprecated-sa-east-1.amazonaws.com
+0.0.0.0 s3-sa-east-1-w.amazonaws.com
+0.0.0.0 s3-w.ap-south-1.amazonaws.com
+0.0.0.0 s3-us-gov-west-1.amazonaws.com
+0.0.0.0 s3-ap-southeast-2-w.amazonaws.com
+0.0.0.0 s3-website-ap-northeast-1.amazonaws.com
+0.0.0.0 s3-us-west-1-r-w.amazonaws.com
+0.0.0.0 s3-ap-southeast-1-w.amazonaws.com
+0.0.0.0 s3.ap-northeast-2.amazonaws.com
+0.0.0.0 s3.eu-central-1.amazonaws.com
+0.0.0.0 ns-2048.awsdns-cn-00.biz
+0.0.0.0 ns-3072.awsdns-cn-00.top
+0.0.0.0 s3-w.cn-north-1.amazonaws.com.cn
+0.0.0.0 s3-ap-northeast-1.amazonaws.com
+0.0.0.0 s3-us-west-1.amazonaws.com
+0.0.0.0 s3-2.amazonaws.com
+0.0.0.0 pdx1-br-rrr-r1.amazon.com
+0.0.0.0 ec2-103-4-8-0.ap-northeast-1.compute.amazonaws.com
+0.0.0.0 server-204-246-164-0.sin2.r.cloudfront.net
+0.0.0.0 server-204-246-168-0.jfk1.r.cloudfront.net
+0.0.0.0 ns-0.awsdns-00.com
+0.0.0.0 restore.menlosecurity.com
+0.0.0.0 89-194-231-18.gsurfnet.com.br
+0.0.0.0 ec2-177-71-207-169.sa-east-1.compute.amazonaws.com
+0.0.0.0 aiv-cdn.net
+0.0.0.0 aiv-delivery.net
+0.0.0.0 alexa.com
+0.0.0.0 amazon.ae
+0.0.0.0 amazon.au
+0.0.0.0 amazon.ca
+0.0.0.0 amazon.cn
+0.0.0.0 amazon.co.jp
+0.0.0.0 amazon.co.uk
+0.0.0.0 amazon.com
+0.0.0.0 amazon.com.au
+0.0.0.0 amazon.com.br
+0.0.0.0 amazon.com.mx
+0.0.0.0 amazon.de
+0.0.0.0 amazon.es
+0.0.0.0 amazon.eu
+0.0.0.0 amazon.fr
+0.0.0.0 amazon.in
+0.0.0.0 amazon.it
+0.0.0.0 amazon.nl
+0.0.0.0 amazon.sg
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 amazonalexa.com
+0.0.0.0 amazonaws.cn
+0.0.0.0 amazonaws.com
+0.0.0.0 amazonaws.com.cn
+0.0.0.0 amazonvideo.com
+0.0.0.0 awsstatic.com
+0.0.0.0 cloudfront.net
+0.0.0.0 elasticbeanstalk.com
+0.0.0.0 ext-twitch.tv
+0.0.0.0 imdb.com
+0.0.0.0 jtvnw.net
+0.0.0.0 media-amazon.com
+0.0.0.0 media-imdb.com
+0.0.0.0 ssl-images-amazon.com
+0.0.0.0 ttvnw.net
+0.0.0.0 twitch.tv
+0.0.0.0 twitchcdn.net
+0.0.0.0 wholefoodsmarket.co.uk
+0.0.0.0 wholefoodsmarket.com
+0.0.0.0 zappos.com
+0.0.0.0 cliqz-browser-services-186937543.us-east-1.elb.amazonaws.com
+0.0.0.0 github-production-release-asset-2e65be.s3.amazonaws.com
+0.0.0.0 balrog-public-v2-lb-450722629.us-east-1.elb.amazonaws.com
+0.0.0.0 s3-1-w.amazonaws.com
+0.0.0.0 gtmlivelive-eu-c-1nlbwwwcom-8168f86a0c0d146f.elb.eu-central-1.amazonaws.com
+0.0.0.0 ec2-18-195-48-238.eu-central-1.compute.amazonaws.com
+0.0.0.0 rtd-twilsock-239837944.us-east-1.elb.amazonaws.com
+0.0.0.0 ambassador-production-v2-elb-506154624.eu-central-1.elb.amazonaws.com
+0.0.0.0 ec2-18-195-48-252.eu-central-1.compute.amazonaws.com
+0.0.0.0 ec2-18-195-48-248.eu-central-1.compute.amazonaws.com
+0.0.0.0 ec2-18-195-48-237.eu-central-1.compute.amazonaws.com
+0.0.0.0 ec2-18-195-48-253.eu-central-1.compute.amazonaws.com
+0.0.0.0 ec2-18-195-48-242.eu-central-1.compute.amazonaws.com
+0.0.0.0 ec2-18-195-48-255.eu-central-1.compute.amazonaws.com
+0.0.0.0 tf-lb-20171109165411125400000001-440806643.us-east-1.elb.amazonaws.com
+0.0.0.0 dev-to.s3.us-east-2.amazonaws.com
+0.0.0.0 steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com
+0.0.0.0 steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com
+0.0.0.0 7a0qo1zj1m.execute-api.us-west-1.amazonaws.com
+0.0.0.0 surveygizmobeacon.s3.amazonaws.com
+0.0.0.0 chrooma-us.s3.amazonaws.com
+0.0.0.0 unreadit.s3.us-east-1.amazonaws.com
+0.0.0.0 teachingcomemail.s3.amazonaws.com
+0.0.0.0 repository.cliqz.com.s3.amazonaws.com
 #[Amazon.com][AS14618][13.32.0.0-13.35.255.255]
-sjs.bizographics.com
-intljs.rmtag.com
-
+0.0.0.0 sjs.bizographics.com
+0.0.0.0 intljs.rmtag.com
 #[Amazon.com][AS14618][107.20.0.0-107.23.255.255]
-ad.360yield.com
-fw.adsafeprotected.com
-s.arclk.net
-l.betrad.com
-pixel.captora.com
-statstracker.celebrity-gossip.net
-tracking.clickmeter.com
-www.clickmeter.com
-script.crsspxl.com
-tag.crsspxl.com
-cam.demdex.net
-dpm.demdex.net
-everydayhealth.demdex.net
-fairfaxau.demdex.net
-gm.demdex.net
-nfl.demdex.net
-philly.demdex.net
-postmedia.demdex.net
-swa.demdex.net
-torontostar.demdex.net
-toyota.demdex.net
-ads.domainoptions.net
-parkcloud.dynadot.com#[ParkingService]
-st.dynamicyield.com
-ads.ehealthcaresolutions.com
-track.eyeviewads.com
-click.gospect.com
-a.idio.co
-dts.innovid.com
-bootstrap.livefyre.com
-stream1.livefyre.com
-stream1.marketwatch.fyre.co
-heapanalytics.com
-track.hubspot.com#[WebBug]
-geo.jetpackdigital.com
-trk.kissmetrics.com
-services.krxd.net
-api.lanistaads.com
-lc.livefyre.com
-logs.loggly.com#[WebBug]
-cmi.netseer.com
-h.nexac.com
-tracking.optimatic.com
-log3.optimizely.com
-config.parsely.com
-log.pinion.gg
-motd.pinion.gg
-wiki.pinion.gg
-www.pinion.gg
-statdb.pressflex.com
-js4.ringrevenue.com
-json4.ringrevenue.com
-rc.rlcdn.com
-counter.scribblelive.com
-d.shareaholic.com
-s.shopify.com
-pix.silverpush.co
-ads.skinected.com
-ads.supplyframe.com
-analytics.supplyframe.com
-images.ads.supplyframe.com
-b.t.tailtarget.com
-ws.tapjoyads.com
-21750.tctm.co
-ads.tracking202.com
-rtd.tubemogul.com
-w.usabilla.com
-pixel.watch
-tracking.websitealive.com
-pixel.yabidos.com
-download.ytdownloader.com
-www.ytdownloader.com
-
+0.0.0.0 ad.360yield.com
+0.0.0.0 fw.adsafeprotected.com
+0.0.0.0 s.arclk.net
+0.0.0.0 l.betrad.com
+0.0.0.0 pixel.captora.com
+0.0.0.0 statstracker.celebrity-gossip.net
+0.0.0.0 tracking.clickmeter.com
+0.0.0.0 www.clickmeter.com
+0.0.0.0 script.crsspxl.com
+0.0.0.0 tag.crsspxl.com
+0.0.0.0 cam.demdex.net
+0.0.0.0 dpm.demdex.net
+0.0.0.0 everydayhealth.demdex.net
+0.0.0.0 fairfaxau.demdex.net
+0.0.0.0 gm.demdex.net
+0.0.0.0 nfl.demdex.net
+0.0.0.0 philly.demdex.net
+0.0.0.0 postmedia.demdex.net
+0.0.0.0 swa.demdex.net
+0.0.0.0 torontostar.demdex.net
+0.0.0.0 toyota.demdex.net
+0.0.0.0 ads.domainoptions.net
+0.0.0.0 parkcloud.dynadot.com
+0.0.0.0 st.dynamicyield.com
+0.0.0.0 ads.ehealthcaresolutions.com
+0.0.0.0 track.eyeviewads.com
+0.0.0.0 click.gospect.com
+0.0.0.0 a.idio.co
+0.0.0.0 dts.innovid.com
+0.0.0.0 bootstrap.livefyre.com
+0.0.0.0 stream1.livefyre.com
+0.0.0.0 stream1.marketwatch.fyre.co
+0.0.0.0 heapanalytics.com
+0.0.0.0 track.hubspot.com
+0.0.0.0 geo.jetpackdigital.com
+0.0.0.0 trk.kissmetrics.com
+0.0.0.0 services.krxd.net
+0.0.0.0 api.lanistaads.com
+0.0.0.0 lc.livefyre.com
+0.0.0.0 logs.loggly.com
+0.0.0.0 cmi.netseer.com
+0.0.0.0 h.nexac.com
+0.0.0.0 tracking.optimatic.com
+0.0.0.0 log3.optimizely.com
+0.0.0.0 config.parsely.com
+0.0.0.0 log.pinion.gg
+0.0.0.0 motd.pinion.gg
+0.0.0.0 wiki.pinion.gg
+0.0.0.0 www.pinion.gg
+0.0.0.0 statdb.pressflex.com
+0.0.0.0 js4.ringrevenue.com
+0.0.0.0 json4.ringrevenue.com
+0.0.0.0 rc.rlcdn.com
+0.0.0.0 counter.scribblelive.com
+0.0.0.0 d.shareaholic.com
+0.0.0.0 s.shopify.com
+0.0.0.0 pix.silverpush.co
+0.0.0.0 ads.skinected.com
+0.0.0.0 ads.supplyframe.com
+0.0.0.0 analytics.supplyframe.com
+0.0.0.0 images.ads.supplyframe.com
+0.0.0.0 b.t.tailtarget.com
+0.0.0.0 ws.tapjoyads.com
+0.0.0.0 21750.tctm.co
+0.0.0.0 ads.tracking202.com
+0.0.0.0 rtd.tubemogul.com
+0.0.0.0 w.usabilla.com
+0.0.0.0 pixel.watch
+0.0.0.0 tracking.websitealive.com
+0.0.0.0 pixel.yabidos.com
+0.0.0.0 download.ytdownloader.com
+0.0.0.0 www.ytdownloader.com
 #[Amazon.com][AS14618][143.204.0.0-143.204.255.255]
-static.trackedweb.net
-
+0.0.0.0 static.trackedweb.net
 #[Amazon.com][AS14618][174.129.0.0-174.129.255.255]
-engine.4chan-ads.org
-ads20.adcolony.com
-insight.adsrvr.org
-askads.ask.com
-server1.beaconpush.com
-ads.chango.com
-adunit.chango.com
-ping.chartbeat.net
-admonkey.dapper.net
-b.ensighten.com
-nexus.ensighten.com
-cs.exitmonitor.com
-g2.gumgum.com
-stack9.collect.igodigital.com
-wenner.collect.igodigital.com
-pixel.invitemedia.com
-clicks.izea.com
-ads.mobclix.com
-s.mobclix.com
-indium.openx.net
-tracking.percentmobile.com
-display.provenpixel.com
-ads.reddit.com
-www.reelcentric.com
-rivasearchpage.com
-tap.rubiconproject.com
-l.sharethis.com
-smaato.net
-socialspark.com
-req.tidaltv.com
-static.tracking202.com
-p1.tcr21.tynt.com
-#redirect.viglink.com#[affectsdisqus.com]
-www.w3counter.com
-ots.optimize.webtrends.com
-b.wishabi.com
-track.yieldsoftware.com
-stats.zmags.com
+0.0.0.0 engine.4chan-ads.org
+0.0.0.0 ads20.adcolony.com
+0.0.0.0 insight.adsrvr.org
+0.0.0.0 askads.ask.com
+0.0.0.0 server1.beaconpush.com
+0.0.0.0 ads.chango.com
+0.0.0.0 adunit.chango.com
+0.0.0.0 ping.chartbeat.net
+0.0.0.0 admonkey.dapper.net
+0.0.0.0 b.ensighten.com
+0.0.0.0 nexus.ensighten.com
+0.0.0.0 cs.exitmonitor.com
+0.0.0.0 g2.gumgum.com
+0.0.0.0 stack9.collect.igodigital.com
+0.0.0.0 wenner.collect.igodigital.com
+0.0.0.0 pixel.invitemedia.com
+0.0.0.0 clicks.izea.com
+0.0.0.0 ads.mobclix.com
+0.0.0.0 s.mobclix.com
+0.0.0.0 indium.openx.net
+0.0.0.0 tracking.percentmobile.com
+0.0.0.0 display.provenpixel.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 www.reelcentric.com
+0.0.0.0 rivasearchpage.com
+0.0.0.0 tap.rubiconproject.com
+0.0.0.0 l.sharethis.com
+0.0.0.0 smaato.net
+0.0.0.0 socialspark.com
+0.0.0.0 req.tidaltv.com
+0.0.0.0 static.tracking202.com
+0.0.0.0 p1.tcr21.tynt.com
+0.0.0.0 redirect.viglink.com
+0.0.0.0 www.w3counter.com
+0.0.0.0 ots.optimize.webtrends.com
+0.0.0.0 b.wishabi.com
+0.0.0.0 track.yieldsoftware.com
+0.0.0.0 stats.zmags.com
 #[Amazon.com][AS38895][175.41.128.0-175.41.159.255]
 #[Amazon.com][AS16509][176.32.96.0-176.32.103.255]
-cdn.adbooth.net
-rcm.amazon.com
-alexa-sitestats.s3.amazonaws.com
-fls-na.amazon-adsystem.com
-rcm-eu.amazon-adsystem.com
-ws-eu.amazon-adsystem.com
-wms-eu.amazon-adsystem.com
-wms-na.amazon-adsystem.com
-ws-na.amazon-adsystem.com
-
+0.0.0.0 cdn.adbooth.net
+0.0.0.0 rcm.amazon.com
+0.0.0.0 alexa-sitestats.s3.amazonaws.com
+0.0.0.0 fls-na.amazon-adsystem.com
+0.0.0.0 rcm-eu.amazon-adsystem.com
+0.0.0.0 ws-eu.amazon-adsystem.com
+0.0.0.0 wms-eu.amazon-adsystem.com
+0.0.0.0 wms-na.amazon-adsystem.com
+0.0.0.0 ws-na.amazon-adsystem.com
 #[Amazon.com][AS16509][176.34.184.0-176.34.191.255]
-tv4play-se.c.richmetrics.com
-chuknu.sokrati.com
-
+0.0.0.0 tv4play-se.c.richmetrics.com
+0.0.0.0 chuknu.sokrati.com
 #[Amazon.com][AS16509][176.34.232.0-176.34.239.255]
-adsradios.adswizz.com
-exchange.adswizz.com
-synchrobox.adswizz.com
-dni.agcdn.com
-static-shareaholic.s3.amazonaws.com
-pixelservice.apphb.com
-tracker.leadenhancer.com
-t13.intelliad.de
-t23.intelliad.de
-morehitserver.com
-nationalpost-com.c.richmetrics.com
-nj-com.c.richmetrics.com
-track.shop2market.com
-ad.sxp.smartclip.net
-tracker.vinsight.de
-r.yieldkit.com
-srv.uk.znaptag.com
-
+0.0.0.0 adsradios.adswizz.com
+0.0.0.0 exchange.adswizz.com
+0.0.0.0 synchrobox.adswizz.com
+0.0.0.0 dni.agcdn.com
+0.0.0.0 static-shareaholic.s3.amazonaws.com
+0.0.0.0 pixelservice.apphb.com
+0.0.0.0 tracker.leadenhancer.com
+0.0.0.0 t13.intelliad.de
+0.0.0.0 t23.intelliad.de
+0.0.0.0 morehitserver.com
+0.0.0.0 nationalpost-com.c.richmetrics.com
+0.0.0.0 nj-com.c.richmetrics.com
+0.0.0.0 track.shop2market.com
+0.0.0.0 ad.sxp.smartclip.net
+0.0.0.0 tracker.vinsight.de
+0.0.0.0 r.yieldkit.com
+0.0.0.0 srv.uk.znaptag.com
 #[Amazon.com][AS16509][177.71.190.213]
-dm.demdex.net
-
+0.0.0.0 dm.demdex.net
 #[Amazon.com][AS16509][178.236.0.0-178.236.7.255]
-aax-eu.amazon-adsystem.com
-ir-de.amazon-adsystem.com
-ir-uk.amazon-adsystem.com
-
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 ir-de.amazon-adsystem.com
+0.0.0.0 ir-uk.amazon-adsystem.com
 #[Amazon.com][AS16509][184.169.128.0-184.169.255.255]
-abandonment.saas.seewhy.com
-
+0.0.0.0 abandonment.saas.seewhy.com
 #[Amazon.com][AS14618][184.72.0.0-184.73.255.255]
-www.adtaily.com
-analytics.bleacherreport.com
-s.btstatic.com
-a.company-target.com
-twc.demdex.net
-marthastewart.demdex.net
-hits.epochstats.com
-js.geoads.com
-a.goember.com
-adsx.greystripe.com
-s.innovid.com
-www.intellisuggest.com
-ads.investingchannel.com
-o1.inviziads.com
-create.leadid.com
-metrics-api.librato.com
-media-match.com
-pixel.newscred.com
-r.openx.net
-pixel.realtor.com
-howler.shareaholic.com
-seg.sharethis.com
-cdn.spectate.com
-track.securedvisit.com
-api.stathat.com
-id.trove.com
-rtb.tubemogul.com
-api.viglink.com
-www.webspectator.com
-
+0.0.0.0 www.adtaily.com
+0.0.0.0 analytics.bleacherreport.com
+0.0.0.0 s.btstatic.com
+0.0.0.0 a.company-target.com
+0.0.0.0 twc.demdex.net
+0.0.0.0 marthastewart.demdex.net
+0.0.0.0 hits.epochstats.com
+0.0.0.0 js.geoads.com
+0.0.0.0 a.goember.com
+0.0.0.0 adsx.greystripe.com
+0.0.0.0 s.innovid.com
+0.0.0.0 www.intellisuggest.com
+0.0.0.0 ads.investingchannel.com
+0.0.0.0 o1.inviziads.com
+0.0.0.0 create.leadid.com
+0.0.0.0 metrics-api.librato.com
+0.0.0.0 media-match.com
+0.0.0.0 pixel.newscred.com
+0.0.0.0 r.openx.net
+0.0.0.0 pixel.realtor.com
+0.0.0.0 howler.shareaholic.com
+0.0.0.0 seg.sharethis.com
+0.0.0.0 cdn.spectate.com
+0.0.0.0 track.securedvisit.com
+0.0.0.0 api.stathat.com
+0.0.0.0 id.trove.com
+0.0.0.0 rtb.tubemogul.com
+0.0.0.0 api.viglink.com
+0.0.0.0 www.webspectator.com
 #[Amazon.com][AS14618][204.236.128.0-204.236.255.255]
-cdn.beaconpush.com
-fedex.demdex.net
-tags.deployads.com
-track.keywordstrategy.org
-a.klaviyo.com
-cdn.segment.io
-
+0.0.0.0 cdn.beaconpush.com
+0.0.0.0 fedex.demdex.net
+0.0.0.0 tags.deployads.com
+0.0.0.0 track.keywordstrategy.org
+0.0.0.0 a.klaviyo.com
+0.0.0.0 cdn.segment.io
 #[Amazon.com][AS38895][204.246.160.0-204.246.191.255]
-cdn.boomtrain.com
-js.coinisrsdelivery.com
-s.idio.co
-cdn.yb0t.com
-
+0.0.0.0 cdn.boomtrain.com
+0.0.0.0 js.coinisrsdelivery.com
+0.0.0.0 s.idio.co
+0.0.0.0 cdn.yb0t.com
 #[Amazon.com][AS16509][205.251.192.0-205.251.255.255]
-delivery-cdn-cf.adswizz.com
-matchbin-assets.s3.amazonaws.com
-springclick-ads.s3.amazonaws.com
-d1zatounuylvwg.cloudfront.net
-d26b395fwzu5fz.cloudfront.net
-dc8xl0ndzn2cb.cloudfront.net
-gernewt.info
-ads.goodreads.com
-cdn-gl.imrworldwide.com
-lionstracking.com
-t.mdn2015x3.com
-asset.pagefair.net
-widget-cdn.rpxnow.com
-secureredirect101.com
-static.springmetrics.com
-trkmydomain.com
-
+0.0.0.0 delivery-cdn-cf.adswizz.com
+0.0.0.0 matchbin-assets.s3.amazonaws.com
+0.0.0.0 springclick-ads.s3.amazonaws.com
+0.0.0.0 d1zatounuylvwg.cloudfront.net
+0.0.0.0 d26b395fwzu5fz.cloudfront.net
+0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
+0.0.0.0 gernewt.info
+0.0.0.0 ads.goodreads.com
+0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 lionstracking.com
+0.0.0.0 t.mdn2015x3.com
+0.0.0.0 asset.pagefair.net
+0.0.0.0 widget-cdn.rpxnow.com
+0.0.0.0 secureredirect101.com
+0.0.0.0 static.springmetrics.com
+0.0.0.0 trkmydomain.com
 #[Amazon.com][AS16509][207.171.160.0-207.171.191.255]
-s.206solutions.com
-aax.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
-admarvel.s3.amazonaws.com
-htmlads.s3.amazonaws.com
-mondoads.s3.amazonaws.com
-vml1.s3.amazonaws.com
-files.bannersnack.com
-tags.hypeads.org
-
+0.0.0.0 s.206solutions.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 admarvel.s3.amazonaws.com
+0.0.0.0 htmlads.s3.amazonaws.com
+0.0.0.0 mondoads.s3.amazonaws.com
+0.0.0.0 vml1.s3.amazonaws.com
+0.0.0.0 files.bannersnack.com
+0.0.0.0 tags.hypeads.org
 #[Amazon.com][AS16509][216.137.32.0-216.137.63.255]
-cdn.adk2.com
-cache.adnet-media.net
-ads.advertisespace.com
-static.adzerk.net
-adflash.affairsclub.com
-atrk.alexametrics.com
-c.amazon-adsystem.com
-cdn.brcdn.com
-cdn.comparemetrics.com
-c.greystripe.com
-beacon.jump-time.net
-cdn.komoona.com
-adimg.luminate.com
-assets.luminate.com
-static.luminate.com
-content.mkt922.com
-t.neodatagroup.com
-static.parsely.com
-cdn.udmserve.net
-a1.vdna-assets.com
-
+0.0.0.0 cdn.adk2.com
+0.0.0.0 cache.adnet-media.net
+0.0.0.0 ads.advertisespace.com
+0.0.0.0 static.adzerk.net
+0.0.0.0 adflash.affairsclub.com
+0.0.0.0 atrk.alexametrics.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 cdn.brcdn.com
+0.0.0.0 cdn.comparemetrics.com
+0.0.0.0 c.greystripe.com
+0.0.0.0 beacon.jump-time.net
+0.0.0.0 cdn.komoona.com
+0.0.0.0 adimg.luminate.com
+0.0.0.0 assets.luminate.com
+0.0.0.0 static.luminate.com
+0.0.0.0 content.mkt922.com
+0.0.0.0 t.neodatagroup.com
+0.0.0.0 static.parsely.com
+0.0.0.0 cdn.udmserve.net
+0.0.0.0 a1.vdna-assets.com
 #[Amazon.com][AS16509][13.32.0.0-13.35.255.255]
-connatix.com
-ads-d.viber.com
-
+0.0.0.0 connatix.com
+0.0.0.0 ads-d.viber.com
 #[Amazon.com][AS14618][23.20.0.0-23.23.255.255]
-ads.ad-center.com
-static.adk2.com
-async01.admantx.com
-data.adsrvr.org
-avidtrak.com
-x.bidswitch.net
-metrics.brightcove.com
-eue.collect-opnet.com
-addshoppers.t.domdex.com
-affinity-xml.t.domdex.com
-magnetic.t.domdex.com
-theinternetworksltd-news.t.domdex.com
-static.etracker.com
-go.goroost.com
-nova.collect.igodigital.com
-api.iris.tv
-pixel.keywee.co
-dc.ads.linkedin.com
-us-east-1.dc.ads.linkedin.com
-ads.mopub.com
-papi.mynativeplatform.com
-t.pswec.com
-img.pulsemgr.com
-siteintercept.qualtrics.com
-adserv.roundrockmedia.com
-load.scanscout.com
-receive.inplay.scanscout.com
-www.sendori.com
-analytics.shareaholic.com
-cm.shareaholic.com
-s.thebrighttag.com
-thelocalsearchnetwork.com
-analytics.tout.com
-stage.traffiliate.com
-ads.tunein.com
-services.webspectator.com
-cdn.vdopia.com
-
+0.0.0.0 ads.ad-center.com
+0.0.0.0 static.adk2.com
+0.0.0.0 async01.admantx.com
+0.0.0.0 data.adsrvr.org
+0.0.0.0 avidtrak.com
+0.0.0.0 x.bidswitch.net
+0.0.0.0 metrics.brightcove.com
+0.0.0.0 eue.collect-opnet.com
+0.0.0.0 addshoppers.t.domdex.com
+0.0.0.0 affinity-xml.t.domdex.com
+0.0.0.0 magnetic.t.domdex.com
+0.0.0.0 theinternetworksltd-news.t.domdex.com
+0.0.0.0 static.etracker.com
+0.0.0.0 go.goroost.com
+0.0.0.0 nova.collect.igodigital.com
+0.0.0.0 api.iris.tv
+0.0.0.0 pixel.keywee.co
+0.0.0.0 dc.ads.linkedin.com
+0.0.0.0 us-east-1.dc.ads.linkedin.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 papi.mynativeplatform.com
+0.0.0.0 t.pswec.com
+0.0.0.0 img.pulsemgr.com
+0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 adserv.roundrockmedia.com
+0.0.0.0 load.scanscout.com
+0.0.0.0 receive.inplay.scanscout.com
+0.0.0.0 www.sendori.com
+0.0.0.0 analytics.shareaholic.com
+0.0.0.0 cm.shareaholic.com
+0.0.0.0 s.thebrighttag.com
+0.0.0.0 thelocalsearchnetwork.com
+0.0.0.0 analytics.tout.com
+0.0.0.0 stage.traffiliate.com
+0.0.0.0 ads.tunein.com
+0.0.0.0 services.webspectator.com
+0.0.0.0 cdn.vdopia.com
 #[Amazon.com][AS14618][34.192.0.0-34.255.255.255]
-mcafee-home.7eer.net
-blobar.org
-api.circularhub.com
-mscom.demdex.net
-schwab.demdex.net
-timeinc.demdex.net
-www.onesafe-software.com
-geo.qualaroo.com
-collect.tealiumiq.com
-collect-us-east-1.tealiumiq.com
-tracking.revimedia.com
-n.targetctracker.com
-trackcmp.net
-log.quora.com
-ads.viber.com
-ads.aws.viber.com
-videe.tv
-pm.w55c.net
-www.whizstats.com
-
+0.0.0.0 mcafee-home.7eer.net
+0.0.0.0 blobar.org
+0.0.0.0 api.circularhub.com
+0.0.0.0 mscom.demdex.net
+0.0.0.0 schwab.demdex.net
+0.0.0.0 timeinc.demdex.net
+0.0.0.0 www.onesafe-software.com
+0.0.0.0 geo.qualaroo.com
+0.0.0.0 collect.tealiumiq.com
+0.0.0.0 collect-us-east-1.tealiumiq.com
+0.0.0.0 tracking.revimedia.com
+0.0.0.0 n.targetctracker.com
+0.0.0.0 trackcmp.net
+0.0.0.0 log.quora.com
+0.0.0.0 ads.viber.com
+0.0.0.0 ads.aws.viber.com
+0.0.0.0 videe.tv
+0.0.0.0 pm.w55c.net
+0.0.0.0 www.whizstats.com
 #[Amazon.com][AS39111][35.152.0.0-35.183.255.255]
-www.currentupdateconcepts.com#[Riskware/PUP]
-api.segment.io
-ssp.videostat.com
-
+0.0.0.0 www.currentupdateconcepts.com
+0.0.0.0 api.segment.io
+0.0.0.0 ssp.videostat.com
 #[Amazon.com][AS39111][46.137.0.0-46.137.127.255]
-code2.adtlgc.com
-l.linkpulse.com
-s248.meetrics.net
-s282.meetrics.net
-counter.personyze.com
-dn.c.richmetrics.com
-sync.richmetrics.com
-abp.smartadcheck.de
-js.smartredirect.de
-qa.stats.webs.com
-prod-js.aws.y-track.com
-
+0.0.0.0 code2.adtlgc.com
+0.0.0.0 l.linkpulse.com
+0.0.0.0 s248.meetrics.net
+0.0.0.0 s282.meetrics.net
+0.0.0.0 counter.personyze.com
+0.0.0.0 dn.c.richmetrics.com
+0.0.0.0 sync.richmetrics.com
+0.0.0.0 abp.smartadcheck.de
+0.0.0.0 js.smartredirect.de
+0.0.0.0 qa.stats.webs.com
+0.0.0.0 prod-js.aws.y-track.com
 #[Amazon.com][AS39111][46.51.128.0-46.51.191.255]
-dcinfos.abtasty.com
-1go.affec.tv27.0.0.1go.affec.tv
-www.smartredirect.de
+0.0.0.0 dcinfos.abtasty.com
+0.0.0.0 1go.affec.tv27.0.0.1go.affec.tv
+0.0.0.0 www.smartredirect.de
 #[Amazon.com][AS16509][50.112.0.0-50.112.255.255]
-api.amplitude.com
-idsync.rlcdn.com
-
+0.0.0.0 api.amplitude.com
+0.0.0.0 idsync.rlcdn.com
 #[Amazon.com][AS14618][50.16.0.0-50.19.255.255]
-web-t.9gag.com
-www.adotube.com
-pixel.adsafeprotected.com
-match.adsrvr.org
-api.adsymptotic.com
-ads.adual.net
-engine2.adzerk.net
-vpc.altitude-arena.com
-data.apn.co.nz
-tracking.badgeville.com
-barilliance.net
-srv.clickfuse.com
-com.com
-api.demandbase.com
-adobe.demdex.net
-condenast.demdex.net
-fairfax.demdex.net
-mtvn.demdex.net
-a.dpmsrv.com#[WebBug]
-px.dynamicyield.com
-beacon.examiner.com
-gonzogrape.gumgum.com
-ads.havenhomemedia.com
-analytics.hgcdn.net
-stack7.collect.igodigital.com
-a.imonomy.com
-rtr.innovid.com
-www.jetpackdigital.com
-c.jsrdn.com
-i.kissmetrics.com
-a.komoona.com
-ad.leadboltads.net
-ads.lucidmedia.com
-tags.mediaforge.com
-engine.nectarads.com
-analytics.newsinc.com
-ox-d.newstogram.com
-script.opentracker.net
-server1.opentracker.net
-server10.opentracker.net
-log.optimizely.com#[WebBug]
-3459571470.log.optimizely.com
-ntracking.optimatic.com
-stats.pagefair.com
-ads.pe.com
-adserve.postrelease.com
-lt.retargeter.com
-collect.rewardstyle.com
-reporting.singlefeed.com
-go.sonobi.com
-search34.info.com
-sync.search.spotxchange.com
-js.srcsmrtgs.com
-cdn.targetfuel.com
-e.targetfuel.com
-i.trkjmp.com
-idvisitor.washingtonpost.com
-analytics.wishabi.ca
-track.written.com
-www.wtp101.com
-zdbb.net
-
+0.0.0.0 web-t.9gag.com
+0.0.0.0 www.adotube.com
+0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 match.adsrvr.org
+0.0.0.0 api.adsymptotic.com
+0.0.0.0 ads.adual.net
+0.0.0.0 engine2.adzerk.net
+0.0.0.0 vpc.altitude-arena.com
+0.0.0.0 data.apn.co.nz
+0.0.0.0 tracking.badgeville.com
+0.0.0.0 barilliance.net
+0.0.0.0 srv.clickfuse.com
+0.0.0.0 com.com
+0.0.0.0 api.demandbase.com
+0.0.0.0 adobe.demdex.net
+0.0.0.0 condenast.demdex.net
+0.0.0.0 fairfax.demdex.net
+0.0.0.0 mtvn.demdex.net
+0.0.0.0 a.dpmsrv.com
+0.0.0.0 px.dynamicyield.com
+0.0.0.0 beacon.examiner.com
+0.0.0.0 gonzogrape.gumgum.com
+0.0.0.0 ads.havenhomemedia.com
+0.0.0.0 analytics.hgcdn.net
+0.0.0.0 stack7.collect.igodigital.com
+0.0.0.0 a.imonomy.com
+0.0.0.0 rtr.innovid.com
+0.0.0.0 www.jetpackdigital.com
+0.0.0.0 c.jsrdn.com
+0.0.0.0 i.kissmetrics.com
+0.0.0.0 a.komoona.com
+0.0.0.0 ad.leadboltads.net
+0.0.0.0 ads.lucidmedia.com
+0.0.0.0 tags.mediaforge.com
+0.0.0.0 engine.nectarads.com
+0.0.0.0 analytics.newsinc.com
+0.0.0.0 ox-d.newstogram.com
+0.0.0.0 script.opentracker.net
+0.0.0.0 server1.opentracker.net
+0.0.0.0 server10.opentracker.net
+0.0.0.0 log.optimizely.com
+0.0.0.0 3459571470.log.optimizely.com
+0.0.0.0 ntracking.optimatic.com
+0.0.0.0 stats.pagefair.com
+0.0.0.0 ads.pe.com
+0.0.0.0 adserve.postrelease.com
+0.0.0.0 lt.retargeter.com
+0.0.0.0 collect.rewardstyle.com
+0.0.0.0 reporting.singlefeed.com
+0.0.0.0 go.sonobi.com
+0.0.0.0 search34.info.com
+0.0.0.0 sync.search.spotxchange.com
+0.0.0.0 js.srcsmrtgs.com
+0.0.0.0 cdn.targetfuel.com
+0.0.0.0 e.targetfuel.com
+0.0.0.0 i.trkjmp.com
+0.0.0.0 idvisitor.washingtonpost.com
+0.0.0.0 analytics.wishabi.ca
+0.0.0.0 track.written.com
+0.0.0.0 www.wtp101.com
+0.0.0.0 zdbb.net
 #[Amazon.com][AS14618][52.0.0.0-52.31.255.255]
-datacollect3.abtasty.com
-datacollect6.abtasty.com
-ad.ad-arata.com
-www.addwish.com
-adsys.adk2x.com
-s.admathhd.com
-www.adnigma.com
-a.adtpix.com
-adrazzi.com
-api.adrtx.net
-cdn.adrtx.net
-track.afcpatrk.com
-jump.aragontrack.com
-ad.atdmt.com
-track.atom-data.io
-stats.bannersnack.com
-api.boomtrain.com
-events.boomtrain.com
-promo.clicnscores.com
-adserverc.cliipa.com
-capture.condenastdigital.com
-aexp.demdex.net
-nbcu.demdex.net
-nbcots.demdex.net
-fastdownload10.com
-track.freemmo2017.com
-www.giftfunnew.com
-inceptionads.go2cloud.org
-beacon.gu-web.net
-dmp.gravity4.com
-imads.integral-marketing.com
-k.intellitxt.com
-us.ads.justpremium.com
-us.tracking.justpremium.com
-jwpltx.com
-i.n.jwpltx.com
-analytics.kaltura.com
-beacon.livefyre.com
-logs-01.loggly.com
-js.matheranalytics.com
-www.mftracking.com
-c.newsinc.com
-metrics-collector.onscroll.com
-api.petametrics.com
-www.ranchapptag.com
-widget.realo.be
-r.remarketingpixel.com
-fastlane-adv.rubiconproject.com
-pixel.mtrcs.samba.tv
-tracker.samplicio.us
-recommender.scarabresearch.com
-track.scrillaspace.com
-count-server.sharethis.com
-track.spots.im
-init.supersonicads.com
-rv-gateway.supersonicads.com
-s.tagsrvcs.com
-d.t.tailtarget.com
-www.trackingclick.net
-m6dqx-ad3hl.ads.tremorhub.com
-trueclickads.net
-track.ultragaming.biz
-www.updatesoftwaresend.com
-onlgc.voluumtrk.com
-click.uamtrk.com
-www.vaultsappsbyte.com
-dckappa.widespace.com
-engine.widespace.com
-inscreen.widespace.com
-zeroredirect1.com
-zs1.zeroredirect1.com
-t.zqtk.net
-
+0.0.0.0 datacollect3.abtasty.com
+0.0.0.0 datacollect6.abtasty.com
+0.0.0.0 ad.ad-arata.com
+0.0.0.0 www.addwish.com
+0.0.0.0 adsys.adk2x.com
+0.0.0.0 s.admathhd.com
+0.0.0.0 www.adnigma.com
+0.0.0.0 a.adtpix.com
+0.0.0.0 adrazzi.com
+0.0.0.0 api.adrtx.net
+0.0.0.0 cdn.adrtx.net
+0.0.0.0 track.afcpatrk.com
+0.0.0.0 jump.aragontrack.com
+0.0.0.0 ad.atdmt.com
+0.0.0.0 track.atom-data.io
+0.0.0.0 stats.bannersnack.com
+0.0.0.0 api.boomtrain.com
+0.0.0.0 events.boomtrain.com
+0.0.0.0 promo.clicnscores.com
+0.0.0.0 adserverc.cliipa.com
+0.0.0.0 capture.condenastdigital.com
+0.0.0.0 aexp.demdex.net
+0.0.0.0 nbcu.demdex.net
+0.0.0.0 nbcots.demdex.net
+0.0.0.0 fastdownload10.com
+0.0.0.0 track.freemmo2017.com
+0.0.0.0 www.giftfunnew.com
+0.0.0.0 inceptionads.go2cloud.org
+0.0.0.0 beacon.gu-web.net
+0.0.0.0 dmp.gravity4.com
+0.0.0.0 imads.integral-marketing.com
+0.0.0.0 k.intellitxt.com
+0.0.0.0 us.ads.justpremium.com
+0.0.0.0 us.tracking.justpremium.com
+0.0.0.0 jwpltx.com
+0.0.0.0 i.n.jwpltx.com
+0.0.0.0 analytics.kaltura.com
+0.0.0.0 beacon.livefyre.com
+0.0.0.0 logs-01.loggly.com
+0.0.0.0 js.matheranalytics.com
+0.0.0.0 www.mftracking.com
+0.0.0.0 c.newsinc.com
+0.0.0.0 metrics-collector.onscroll.com
+0.0.0.0 api.petametrics.com
+0.0.0.0 www.ranchapptag.com
+0.0.0.0 widget.realo.be
+0.0.0.0 r.remarketingpixel.com
+0.0.0.0 fastlane-adv.rubiconproject.com
+0.0.0.0 pixel.mtrcs.samba.tv
+0.0.0.0 tracker.samplicio.us
+0.0.0.0 recommender.scarabresearch.com
+0.0.0.0 track.scrillaspace.com
+0.0.0.0 count-server.sharethis.com
+0.0.0.0 track.spots.im
+0.0.0.0 init.supersonicads.com
+0.0.0.0 rv-gateway.supersonicads.com
+0.0.0.0 s.tagsrvcs.com
+0.0.0.0 d.t.tailtarget.com
+0.0.0.0 www.trackingclick.net
+0.0.0.0 m6dqx-ad3hl.ads.tremorhub.com
+0.0.0.0 trueclickads.net
+0.0.0.0 track.ultragaming.biz
+0.0.0.0 www.updatesoftwaresend.com
+0.0.0.0 onlgc.voluumtrk.com
+0.0.0.0 click.uamtrk.com
+0.0.0.0 www.vaultsappsbyte.com
+0.0.0.0 dckappa.widespace.com
+0.0.0.0 engine.widespace.com
+0.0.0.0 inscreen.widespace.com
+0.0.0.0 zeroredirect1.com
+0.0.0.0 zs1.zeroredirect1.com
+0.0.0.0 t.zqtk.net
 #[Amazon.com][AS14618][52.32.0.0-52.79.255.255]
-trk.ablogica.com
-pool.admedo.com
-rudy.adsnative.com
-www.applicationsdeliveryupdate.com#[Win32/InstallCore]
-www.bestfactorydelivery.com#[Win32/InstallCore]
-www.centralsignnew.com#[Riskware/PUP]
-ads.chargeads.com
-www.chucklefunhead.com#[Riskware/PUP]
-www.chuckledeliveryhosting.com#[Riskware/PUP]
-ing-district.clicktale.net
-infinityid.condenastdigital.com
-c.f5mtrack.com
-fastnclick.com
-afftracking.justanswer.com
-track.leadin.com
-mantodea.mantisadnetwork.com
-sync.monarchads.com
-dk-gmtdmp.mookie1.com
-us-gmtdmp.mookie1.com
-ar.mytrack.pro
-us.pixel.newscgp.com
-www.quickbitsdownloads.com#[Riskware/PUP]
-is-gateway.supersonicads.com
-go.tracksz.co
-p4dt2-scyd6.ads.tremorhub.com
-slckg-2p3vy.ads.tremorhub.com
-dc.widespace.com
-
+0.0.0.0 trk.ablogica.com
+0.0.0.0 pool.admedo.com
+0.0.0.0 rudy.adsnative.com
+0.0.0.0 www.applicationsdeliveryupdate.com
+0.0.0.0 www.bestfactorydelivery.com
+0.0.0.0 www.centralsignnew.com
+0.0.0.0 ads.chargeads.com
+0.0.0.0 www.chucklefunhead.com
+0.0.0.0 www.chuckledeliveryhosting.com
+0.0.0.0 ing-district.clicktale.net
+0.0.0.0 infinityid.condenastdigital.com
+0.0.0.0 c.f5mtrack.com
+0.0.0.0 fastnclick.com
+0.0.0.0 afftracking.justanswer.com
+0.0.0.0 track.leadin.com
+0.0.0.0 mantodea.mantisadnetwork.com
+0.0.0.0 sync.monarchads.com
+0.0.0.0 dk-gmtdmp.mookie1.com
+0.0.0.0 us-gmtdmp.mookie1.com
+0.0.0.0 ar.mytrack.pro
+0.0.0.0 us.pixel.newscgp.com
+0.0.0.0 www.quickbitsdownloads.com
+0.0.0.0 is-gateway.supersonicads.com
+0.0.0.0 go.tracksz.co
+0.0.0.0 p4dt2-scyd6.ads.tremorhub.com
+0.0.0.0 slckg-2p3vy.ads.tremorhub.com
+0.0.0.0 dc.widespace.com
 #[Amazon.com][AS14618][52.84.0.0-52.95.255.255]
-ad-delivery.net
-cdn.adikteev.com
-cdn.adsafeprotected.com
-iau.adsiduous.com
-s.amazon-adsystem.com
-fls-eu.amazon-adsystem.com
-creatives.ancoraplatform.com
-track.adthrive.com
-cdn.accelerator.arsdev.net
-d1v9u0bgi1uimx.cloudfront.net
-d169bbxks24g2u.cloudfront.net
-d2c8v52ll5s99u.cloudfront.net#[comscore][affectsarstechnica/wired/vogue/vanityfair]
-d2cgumzzqhgmdu.cloudfront.net
-d24n15hnbwhuhn.cloudfront.net
-d2tgfbvjf3q6hn.cloudfront.net
-dz2fz0bgyq9tn.cloudfront.net
-cdn.cquotient.com
-rscdn.cxense.com
-www.hotdogsandads.com
-htl.bid
-contentz.mkt61.net
-tracker.nbcuas.com
-cdn.permutive.com
-dove.saymedia.com
-go.searchlock.com
-r.skimresources.com
-siniature.com
-static.site24x7rum.com
-outcome.supersonicads.com
-adserver.tappsgames.com
-core.videoegg.com
-
+0.0.0.0 ad-delivery.net
+0.0.0.0 cdn.adikteev.com
+0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 iau.adsiduous.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 fls-eu.amazon-adsystem.com
+0.0.0.0 creatives.ancoraplatform.com
+0.0.0.0 track.adthrive.com
+0.0.0.0 cdn.accelerator.arsdev.net
+0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
+0.0.0.0 d169bbxks24g2u.cloudfront.net
+0.0.0.0 d2c8v52ll5s99u.cloudfront.net
+0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
+0.0.0.0 d24n15hnbwhuhn.cloudfront.net
+0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
+0.0.0.0 dz2fz0bgyq9tn.cloudfront.net
+0.0.0.0 cdn.cquotient.com
+0.0.0.0 rscdn.cxense.com
+0.0.0.0 www.hotdogsandads.com
+0.0.0.0 htl.bid
+0.0.0.0 contentz.mkt61.net
+0.0.0.0 tracker.nbcuas.com
+0.0.0.0 cdn.permutive.com
+0.0.0.0 dove.saymedia.com
+0.0.0.0 go.searchlock.com
+0.0.0.0 r.skimresources.com
+0.0.0.0 siniature.com
+0.0.0.0 static.site24x7rum.com
+0.0.0.0 outcome.supersonicads.com
+0.0.0.0 adserver.tappsgames.com
+0.0.0.0 core.videoegg.com
 #[Amazon.com][AS14618][54.144.0.0-54.159.255.255]
-t.adk2.com
-www.bitspresentdownload.com#[Riskware/PUP]
-www.bundlerepositorycontent.com#[Riskware/PUP]
-www.megagiftcity.com#[Riskware/PUP]
-cdn.opensubcontent.com#[Win32/InstallCore.ACZ]
-vid-io.springserve.net
-collector-195.tvsquared.com#[Piwik.Analytics]
-
+0.0.0.0 t.adk2.com
+0.0.0.0 www.bitspresentdownload.com
+0.0.0.0 www.bundlerepositorycontent.com
+0.0.0.0 www.megagiftcity.com
+0.0.0.0 cdn.opensubcontent.com
+0.0.0.0 vid-io.springserve.net
+0.0.0.0 collector-195.tvsquared.com
 #[Amazon.com][AS14618][54.160.0.0-54.175.255.255]
-t.acxiom-online.com
-api.addnow.com
-adstract.adk2x.com
-dy.adserve.io
-tag.apxlv.com
-ads.deliverimp.com
-charter.demdex.net
-freecharge.demdex.net
-iyogi.demdex.net
-scripps.demdex.net
-widgets.kiosked.com
-tracking.listhub.net
-apx.moatads.com
-notify.nuviad.com
-stats.pckeeper.software
-track.prizeglobal.net
-trax.prostrax.com
-trends.revcontent.com
-beacon.sojern.com
-vid.springserve.com
-vid-io-dub.springserve.com
-srv.stackadapt.com
-redirect.todayreward.net
-track.todayreward.net
-tar.tradedoubler.com
-partners.tremorhub.com
-collector-1054.tvsquared.com
-admediator.unityads.unity3d.com
-#wurfl.io#[affectsGoogle]
-app.yieldify.com
-zm1.zeroredirect5.com
+0.0.0.0 t.acxiom-online.com
+0.0.0.0 api.addnow.com
+0.0.0.0 adstract.adk2x.com
+0.0.0.0 dy.adserve.io
+0.0.0.0 tag.apxlv.com
+0.0.0.0 ads.deliverimp.com
+0.0.0.0 charter.demdex.net
+0.0.0.0 freecharge.demdex.net
+0.0.0.0 iyogi.demdex.net
+0.0.0.0 scripps.demdex.net
+0.0.0.0 widgets.kiosked.com
+0.0.0.0 tracking.listhub.net
+0.0.0.0 apx.moatads.com
+0.0.0.0 notify.nuviad.com
+0.0.0.0 stats.pckeeper.software
+0.0.0.0 track.prizeglobal.net
+0.0.0.0 trax.prostrax.com
+0.0.0.0 trends.revcontent.com
+0.0.0.0 beacon.sojern.com
+0.0.0.0 vid.springserve.com
+0.0.0.0 vid-io-dub.springserve.com
+0.0.0.0 srv.stackadapt.com
+0.0.0.0 redirect.todayreward.net
+0.0.0.0 track.todayreward.net
+0.0.0.0 tar.tradedoubler.com
+0.0.0.0 partners.tremorhub.com
+0.0.0.0 collector-1054.tvsquared.com
+0.0.0.0 admediator.unityads.unity3d.com
+0.0.0.0 wurfl.io
+0.0.0.0 app.yieldify.com
+0.0.0.0 zm1.zeroredirect5.com
 #[Amazon.com][AS16509][54.176.0.0-54.191.255.255]
-www.cloudtracked.com
-za-ssl.effectivemeasure.net
-tracker.freecharge.in
-ads.servebom.com
-neo.go.sonobi.com
-match.xg4ken.com
-
+0.0.0.0 www.cloudtracked.com
+0.0.0.0 za-ssl.effectivemeasure.net
+0.0.0.0 tracker.freecharge.in
+0.0.0.0 ads.servebom.com
+0.0.0.0 neo.go.sonobi.com
+0.0.0.0 match.xg4ken.com
 #[Amazon.com][AS16509][54.192.0.0-54.207.255.255]
-admtpmp127.adsk2.co
-adplexmedia.adk2.co
-ad.adsrvr.org
-ad.ad-stir.com
-ads.adthrive.com
-cdn.adtradr.com
-ssp.anyclip-media.com
-cdn.appdynamics.com
-promotions.betfred.com
-cdn.blueconic.net
-tag.bounceexchange.com
-d1jikhx1ssl81z.cloudfront.net
-d1lxhc4jvstzrp.cloudfront.net
-d1xfq2052q7thw.cloudfront.net
-d1z2jf7jlzjs58.cloudfront.net
-d2gatte9o95jao.cloudfront.net
-d2zah9y47r7bi2.cloudfront.net
-d342r80tvdrdhm.cloudfront.net
-d3qxwzhswv93jk.cloudfront.net
-script.crazyegg.com
-d.dc121677.com
-me-ssl.effectivemeasure.net
-gscounters.eu1.gigya.com
-seccdn-gl.imrworldwide.com
-resources.kiosked.com
-cdn.listrakbi.com
-www.livefyre.com
-cdn.matheranalytics.com
-t.mdn2015x2.com
-stag.mdotlabs.com
-ads.mic.com
-dbg52463.moatads.com
-files.native.ad
-ps.ns-cdn.com
-ap.octopuspop.com
-tags.onscroll.com
-analytics.ooyala.com
-match.rundsp.com
-tag.mtrcs.samba.tv
-cdn.scarabresearch.com
-code.adsales.snidigital.com
-s5.spn.ee
-ua.supersonicads.com
-sumome.com
-load.sumome.com
-s.uadx.com
-w.visualdna.com
-wfpscripts.webspectator.com
-cdn.yldbt.com
-saxp.zedo.com
-2664.tm.zedo.com
-3211.tm.zedo.com
-srv-us.znaptag.com
-
+0.0.0.0 admtpmp127.adsk2.co
+0.0.0.0 adplexmedia.adk2.co
+0.0.0.0 ad.adsrvr.org
+0.0.0.0 ad.ad-stir.com
+0.0.0.0 ads.adthrive.com
+0.0.0.0 cdn.adtradr.com
+0.0.0.0 ssp.anyclip-media.com
+0.0.0.0 cdn.appdynamics.com
+0.0.0.0 promotions.betfred.com
+0.0.0.0 cdn.blueconic.net
+0.0.0.0 tag.bounceexchange.com
+0.0.0.0 d1jikhx1ssl81z.cloudfront.net
+0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
+0.0.0.0 d1xfq2052q7thw.cloudfront.net
+0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
+0.0.0.0 d2gatte9o95jao.cloudfront.net
+0.0.0.0 d2zah9y47r7bi2.cloudfront.net
+0.0.0.0 d342r80tvdrdhm.cloudfront.net
+0.0.0.0 d3qxwzhswv93jk.cloudfront.net
+0.0.0.0 script.crazyegg.com
+0.0.0.0 d.dc121677.com
+0.0.0.0 me-ssl.effectivemeasure.net
+0.0.0.0 gscounters.eu1.gigya.com
+0.0.0.0 seccdn-gl.imrworldwide.com
+0.0.0.0 resources.kiosked.com
+0.0.0.0 cdn.listrakbi.com
+0.0.0.0 www.livefyre.com
+0.0.0.0 cdn.matheranalytics.com
+0.0.0.0 t.mdn2015x2.com
+0.0.0.0 stag.mdotlabs.com
+0.0.0.0 ads.mic.com
+0.0.0.0 dbg52463.moatads.com
+0.0.0.0 files.native.ad
+0.0.0.0 ps.ns-cdn.com
+0.0.0.0 ap.octopuspop.com
+0.0.0.0 tags.onscroll.com
+0.0.0.0 analytics.ooyala.com
+0.0.0.0 match.rundsp.com
+0.0.0.0 tag.mtrcs.samba.tv
+0.0.0.0 cdn.scarabresearch.com
+0.0.0.0 code.adsales.snidigital.com
+0.0.0.0 s5.spn.ee
+0.0.0.0 ua.supersonicads.com
+0.0.0.0 sumome.com
+0.0.0.0 load.sumome.com
+0.0.0.0 s.uadx.com
+0.0.0.0 w.visualdna.com
+0.0.0.0 wfpscripts.webspectator.com
+0.0.0.0 cdn.yldbt.com
+0.0.0.0 saxp.zedo.com
+0.0.0.0 2664.tm.zedo.com
+0.0.0.0 3211.tm.zedo.com
+0.0.0.0 srv-us.znaptag.com
 #[Amazon.com][AS16509][54.208.0.0-54.221.255.255]
-tracking.affiliates.de
-arena.altitude-arena.com
-ca.altitude-arena.com
-pstats.blogworks.com
-click.clktraker.com
-stats.cloudwp.io
-api.content-ad.net
-ads.creative-serving.com
-bostonglobe.demdex.net
-ford.demdex.net
-swisscom.demdex.net
-bob.dmpxs.com
-www.dntx.com
-nz-ssl.effectivemeasure.net
-s.effectivemeasure.net
-cdn.firstimpression.io
-j.flxpxl.com
-matcher.idtargeting.com
-ccs.infospace.com
-www.i.matheranalytics.com
-stats.mezzobit.com
-analytics.cnd-motionmedia.de
-redirect.com
-bomcl.richmetrics.com
-www.storygize.net#[WebBug]
-d.tailtarget.com
-j.traffichunt.com
-eng.trkcnv.com
-uadx.com
-analytics.upworthy.com
-rumds.wpdigital.net
-i.yldbt.com
-z2.zedo.com
-#segment-data.zqtk.net
-
+0.0.0.0 tracking.affiliates.de
+0.0.0.0 arena.altitude-arena.com
+0.0.0.0 ca.altitude-arena.com
+0.0.0.0 pstats.blogworks.com
+0.0.0.0 click.clktraker.com
+0.0.0.0 stats.cloudwp.io
+0.0.0.0 api.content-ad.net
+0.0.0.0 ads.creative-serving.com
+0.0.0.0 bostonglobe.demdex.net
+0.0.0.0 ford.demdex.net
+0.0.0.0 swisscom.demdex.net
+0.0.0.0 bob.dmpxs.com
+0.0.0.0 www.dntx.com
+0.0.0.0 nz-ssl.effectivemeasure.net
+0.0.0.0 s.effectivemeasure.net
+0.0.0.0 cdn.firstimpression.io
+0.0.0.0 j.flxpxl.com
+0.0.0.0 matcher.idtargeting.com
+0.0.0.0 ccs.infospace.com
+0.0.0.0 www.i.matheranalytics.com
+0.0.0.0 stats.mezzobit.com
+0.0.0.0 analytics.cnd-motionmedia.de
+0.0.0.0 redirect.com
+0.0.0.0 bomcl.richmetrics.com
+0.0.0.0 www.storygize.net
+0.0.0.0 d.tailtarget.com
+0.0.0.0 j.traffichunt.com
+0.0.0.0 eng.trkcnv.com
+0.0.0.0 uadx.com
+0.0.0.0 analytics.upworthy.com
+0.0.0.0 rumds.wpdigital.net
+0.0.0.0 i.yldbt.com
+0.0.0.0 z2.zedo.com
+0.0.0.0 segment-data.zqtk.net
 #[Amazon.com][AS16509][54.224.0.0-54.239.255.255]
-s.206ads.com
-ib.3lift.com
-optimize.adpushup.com
-ads-stream.com
-js.apxlv.com
-www.adbooth.com
-cdn.adengage.com
-code.adengage.com
-srv.adengage.com
-ad132m.adk2.co
-adbooth.adk2.co
-cdn.adplxmd.com
-files-www2.adsnative.com
-static.adsnative.com
-files.adspdbl.com
-js.adsrvr.org
-tag.adtrendmedia.net
-data.alexa.com
-advice-ads.s3.amazonaws.com
-ps-eu.amazon-adsystem.com
-ps-us.amazon-adsystem.com
-z-na.amazon-adsystem.com
-cdn.installationsafe.net.s3.amazonaws.com
-slate-ad-scripts.s3.amazonaws.com
-znaptag-us.s3.amazonaws.com
-as.eu.angsrvr.com
-cdn.avmws.com#[AvantMetrics]
-beachfrontio.com
-t.beanstalkdata.com
-ad.broadstreetads.com
-cdn.broadstreetads.com
-cdn.bttrack.com
-adg.bzgint.com
-dynamic.cannedbanners.com
-t.channeladvisor.com
-tracking2.channeladvisor.com
-www.clicktripz.com
-images1.cliqueclack.com
-d1fc8wv8zag5ca.cloudfront.net
-d1l6p2sc9645hc.cloudfront.net
-d1piupybsgr6dr.cloudfront.net
-d13dhn7ldhrcf6.cloudfront.net
-d2nq0f8d9ofdwv.cloudfront.net
-d2oh4tlt9mrke9.cloudfront.net
-d31qbv1cthcecs.cloudfront.net
-#d3c3cq33003psk.cloudfront.net
-d3dcugpvnepf41.cloudfront.net
-d3ujids68p6xmq.cloudfront.net
-d5nxst8fruw4z.cloudfront.net
-d8rk54i4mohrb.cloudfront.net
-dl1d2m8ri9v3j.cloudfront.net
-dff7tx5c2qbxc.cloudfront.net
-cdn-1.convertexperiments.com
-use.convertglobal.com
-p.cpx.to
-admp-tc.delfi.lv
-#scripts.demandbase.com
-bet.demdex.net
-cbsi.demdex.net
-de.demdex.net
-foxnews.demdex.net
-sears.demdex.net
-intbrands.t.domdex.com
-td.demdex.net
-tags-cdn.deployads.com
-tiscali.js.ad.dotandad.com
-cdn.elasticad.net
-col.eum-appdynamics.com
-cdn.evergage.com
-ads.evidon.com
-hj.flxpxl.com
-beacon.guim.co.uk
-cdn.heapanalytics.com
-bundle-geoip.herokuapp.com
-powr-counter.herokuapp.com
-beam.hlserve.com
-cdn.iasrv.com
-cdn.idtargeting.com
-cdn.ip.inpwrd.com
-cdn.libraries.inpwrd.com
-load.instinctiveads.com
-a.cdn.intentmedia.net
-prod-services.interactiveone.com
-cdn.investingchannel.com
-beacon.jumptime.com
-timeseg.modules.jumptime.com
-stat.komoona.com
-adserver.kontextua.com
-cf.ads.kontextua.com
-collector.leaddyno.com
-d.liadm.com
-p.liadm.com
-d.lumatag.co.uk
-bc.marfeel.com
-tags.mdotlabs.com
-edge.metroleads.com
-contentz.mkt51.net
-contentz.mkt912.com
-content.mkt931.com
-content.mkt932.com
-contentz.mkt932.com
-contentz.mkt941.com
-track.moreniche.com
-c.mtro.co
-zdbb.netshelter.net
-mix-test.uts.ngdata.com
-meter-svc.nytimes.com
-ninja.onap.io
-cdn.onscroll.com
-vast.optimatic.com
-pagefair.com
-c.pebblemedia.be
-jadserve.postrelease.com
-static.proximic.com
-static.pxlad.io
-embed-stats.rbl.ms
-frontpage-stats.rbl.ms
-site-stats.rbl.ms
-di.rlcdn.com
-tap-secure.rubiconproject.com
-savvyads.com
-collector.savvyads.com
-mtrx.go.sonobi.com
-analytics.revee.com
-di-se.c.richmetrics.com
-di-banner-se.c.richmetrics.com
-vancouversun-com.c.richmetrics.com
-cdn.sail-horizon.com
-shareaholic.com
-clickcdn.shareaholic.com
-cdn.siftscience.com
-gsf-cf.softonic.com
-pixel.sojern.com
-eventlogger.soundcloud.com
-a.teads.tv
-cdn.teads.tv
-t.teads.tv
-swrap.tradedoubler.com
-ads.traffichunt.com
-cdn.traffichunt.com
-assets.tapad.com
-analytics.userreport.com
-cdn.userreport.com
-sdscdn.userreport.com
-#delivery.vidible.tv#[affectsaol.com]
-wsc1.webspectator.com
-zafiti01.webtrekk-us.net
-sdk-controller.widespace.com
-triggers.wfxtriggers.com
-mb.zam.com
-3165.tm.zedo.com
-www.zergnet.com
-
+0.0.0.0 s.206ads.com
+0.0.0.0 ib.3lift.com
+0.0.0.0 optimize.adpushup.com
+0.0.0.0 ads-stream.com
+0.0.0.0 js.apxlv.com
+0.0.0.0 www.adbooth.com
+0.0.0.0 cdn.adengage.com
+0.0.0.0 code.adengage.com
+0.0.0.0 srv.adengage.com
+0.0.0.0 ad132m.adk2.co
+0.0.0.0 adbooth.adk2.co
+0.0.0.0 cdn.adplxmd.com
+0.0.0.0 files-www2.adsnative.com
+0.0.0.0 static.adsnative.com
+0.0.0.0 files.adspdbl.com
+0.0.0.0 js.adsrvr.org
+0.0.0.0 tag.adtrendmedia.net
+0.0.0.0 data.alexa.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 ps-eu.amazon-adsystem.com
+0.0.0.0 ps-us.amazon-adsystem.com
+0.0.0.0 z-na.amazon-adsystem.com
+0.0.0.0 cdn.installationsafe.net.s3.amazonaws.com
+0.0.0.0 slate-ad-scripts.s3.amazonaws.com
+0.0.0.0 znaptag-us.s3.amazonaws.com
+0.0.0.0 as.eu.angsrvr.com
+0.0.0.0 cdn.avmws.com
+0.0.0.0 beachfrontio.com
+0.0.0.0 t.beanstalkdata.com
+0.0.0.0 ad.broadstreetads.com
+0.0.0.0 cdn.broadstreetads.com
+0.0.0.0 cdn.bttrack.com
+0.0.0.0 adg.bzgint.com
+0.0.0.0 dynamic.cannedbanners.com
+0.0.0.0 t.channeladvisor.com
+0.0.0.0 tracking2.channeladvisor.com
+0.0.0.0 www.clicktripz.com
+0.0.0.0 images1.cliqueclack.com
+0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
+0.0.0.0 d1l6p2sc9645hc.cloudfront.net
+0.0.0.0 d1piupybsgr6dr.cloudfront.net
+0.0.0.0 d13dhn7ldhrcf6.cloudfront.net
+0.0.0.0 d2nq0f8d9ofdwv.cloudfront.net
+0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
+0.0.0.0 d31qbv1cthcecs.cloudfront.net
+0.0.0.0 d3c3cq33003psk.cloudfront.net
+0.0.0.0 d3dcugpvnepf41.cloudfront.net
+0.0.0.0 d3ujids68p6xmq.cloudfront.net
+0.0.0.0 d5nxst8fruw4z.cloudfront.net
+0.0.0.0 d8rk54i4mohrb.cloudfront.net
+0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
+0.0.0.0 dff7tx5c2qbxc.cloudfront.net
+0.0.0.0 cdn-1.convertexperiments.com
+0.0.0.0 use.convertglobal.com
+0.0.0.0 p.cpx.to
+0.0.0.0 admp-tc.delfi.lv
+0.0.0.0 scripts.demandbase.com
+0.0.0.0 bet.demdex.net
+0.0.0.0 cbsi.demdex.net
+0.0.0.0 de.demdex.net
+0.0.0.0 foxnews.demdex.net
+0.0.0.0 sears.demdex.net
+0.0.0.0 intbrands.t.domdex.com
+0.0.0.0 td.demdex.net
+0.0.0.0 tags-cdn.deployads.com
+0.0.0.0 tiscali.js.ad.dotandad.com
+0.0.0.0 cdn.elasticad.net
+0.0.0.0 col.eum-appdynamics.com
+0.0.0.0 cdn.evergage.com
+0.0.0.0 ads.evidon.com
+0.0.0.0 hj.flxpxl.com
+0.0.0.0 beacon.guim.co.uk
+0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 bundle-geoip.herokuapp.com
+0.0.0.0 powr-counter.herokuapp.com
+0.0.0.0 beam.hlserve.com
+0.0.0.0 cdn.iasrv.com
+0.0.0.0 cdn.idtargeting.com
+0.0.0.0 cdn.ip.inpwrd.com
+0.0.0.0 cdn.libraries.inpwrd.com
+0.0.0.0 load.instinctiveads.com
+0.0.0.0 a.cdn.intentmedia.net
+0.0.0.0 prod-services.interactiveone.com
+0.0.0.0 cdn.investingchannel.com
+0.0.0.0 beacon.jumptime.com
+0.0.0.0 timeseg.modules.jumptime.com
+0.0.0.0 stat.komoona.com
+0.0.0.0 adserver.kontextua.com
+0.0.0.0 cf.ads.kontextua.com
+0.0.0.0 collector.leaddyno.com
+0.0.0.0 d.liadm.com
+0.0.0.0 p.liadm.com
+0.0.0.0 d.lumatag.co.uk
+0.0.0.0 bc.marfeel.com
+0.0.0.0 tags.mdotlabs.com
+0.0.0.0 edge.metroleads.com
+0.0.0.0 contentz.mkt51.net
+0.0.0.0 contentz.mkt912.com
+0.0.0.0 content.mkt931.com
+0.0.0.0 content.mkt932.com
+0.0.0.0 contentz.mkt932.com
+0.0.0.0 contentz.mkt941.com
+0.0.0.0 track.moreniche.com
+0.0.0.0 c.mtro.co
+0.0.0.0 zdbb.netshelter.net
+0.0.0.0 mix-test.uts.ngdata.com
+0.0.0.0 meter-svc.nytimes.com
+0.0.0.0 ninja.onap.io
+0.0.0.0 cdn.onscroll.com
+0.0.0.0 vast.optimatic.com
+0.0.0.0 pagefair.com
+0.0.0.0 c.pebblemedia.be
+0.0.0.0 jadserve.postrelease.com
+0.0.0.0 static.proximic.com
+0.0.0.0 static.pxlad.io
+0.0.0.0 embed-stats.rbl.ms
+0.0.0.0 frontpage-stats.rbl.ms
+0.0.0.0 site-stats.rbl.ms
+0.0.0.0 di.rlcdn.com
+0.0.0.0 tap-secure.rubiconproject.com
+0.0.0.0 savvyads.com
+0.0.0.0 collector.savvyads.com
+0.0.0.0 mtrx.go.sonobi.com
+0.0.0.0 analytics.revee.com
+0.0.0.0 di-se.c.richmetrics.com
+0.0.0.0 di-banner-se.c.richmetrics.com
+0.0.0.0 vancouversun-com.c.richmetrics.com
+0.0.0.0 cdn.sail-horizon.com
+0.0.0.0 shareaholic.com
+0.0.0.0 clickcdn.shareaholic.com
+0.0.0.0 cdn.siftscience.com
+0.0.0.0 gsf-cf.softonic.com
+0.0.0.0 pixel.sojern.com
+0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 a.teads.tv
+0.0.0.0 cdn.teads.tv
+0.0.0.0 t.teads.tv
+0.0.0.0 swrap.tradedoubler.com
+0.0.0.0 ads.traffichunt.com
+0.0.0.0 cdn.traffichunt.com
+0.0.0.0 assets.tapad.com
+0.0.0.0 analytics.userreport.com
+0.0.0.0 cdn.userreport.com
+0.0.0.0 sdscdn.userreport.com
+0.0.0.0 delivery.vidible.tv
+0.0.0.0 wsc1.webspectator.com
+0.0.0.0 zafiti01.webtrekk-us.net
+0.0.0.0 sdk-controller.widespace.com
+0.0.0.0 triggers.wfxtriggers.com
+0.0.0.0 mb.zam.com
+0.0.0.0 3165.tm.zedo.com
+0.0.0.0 www.zergnet.com
 #[Amazon.com][AS16509][54.240.0.0-54.255.255.255]
-d.254a.com
-kwserver.adhispanic.com
-ads.adiply.com
-srv.admailtiser.com
-track.adbooth.net
-app.adsbrook.com
-cdn.adual.net
-cdn.adquantix.com
-p.adsymptotic.com
-adactive-ads.aimatch.com
-crtl.aimatch.com
-tr-1.agilone.com
-www.badassjv.com
-blockmetrics.com
-cache.btrll.com
-engine.carbonads.com
-ycv.clearshieldredirect.com
-d2vig74li2resi.cloudfront.net
-desv383oqqc0.cloudfront.net
-js.convertale.com
-track.customer.io
-s.cxt.ms
-dailymotion.demdex.net
-error.demdex.net
-gannett.demdex.net
-links.services.disqus.com
-hutchmedia.t.domdex.com
-cdn5.js.ad.dotandad.com
-filecdn2.dotandad.com
-s.dpmsrv.com
-cf.effectivemeasure.net
-us-cdn.effectivemeasure.net
-ps.eyeota.net
-analytics.fairfax.com.au
-fmsads.com
-data.gosquared.com
-data2.gosquared.com
-ads.groupcommerce.com
-ad.ipredictive.com
-adserv.impactengine.com
-adn.impactradius.com
-scripts.kissmetrics.com
-ads.lanistaads.com
-napi.lanistaads.com
-rev.lanistaads.com
-content.mkt51.net
-content.mkt941.com
-f.monetate.net
-tracker.mozo.com.au
-papi.mynativeads.com
-web-clients.mynativeads.com
-static.nectarads.com
-cl-c.netseer.com
-js-agent.newrelic.com
-pages-stats.rbl.ms
-traffic.pubexchange.com
-orca.qubitproducts.com
-ortc-ws2-useast1-s0005.realtime.co
-a.remarketstats.com
-vg-no.c.richmetrics.com
-partner.shareaholic.com
-traffic.shareaholic.com
-cc.simplereach.com
-edge.simplereach.com
-analytics.sitewit.com
-st.smartredirect.de
-tracking.sokrati.com
-traffic-offers.com
-collector-2398.tvsquared.com
-konnect.videoplaza.tv
-trk.vidible.tv
-#id.washingtonpost.com
-scripts.webspectator.com
-osc.optimize.webtrends.com
-a.wishabi.com
-track.youniversalmedia.com
-axp.zedo.com
-geo.ziffdavis.com
-
+0.0.0.0 d.254a.com
+0.0.0.0 kwserver.adhispanic.com
+0.0.0.0 ads.adiply.com
+0.0.0.0 srv.admailtiser.com
+0.0.0.0 track.adbooth.net
+0.0.0.0 app.adsbrook.com
+0.0.0.0 cdn.adual.net
+0.0.0.0 cdn.adquantix.com
+0.0.0.0 p.adsymptotic.com
+0.0.0.0 adactive-ads.aimatch.com
+0.0.0.0 crtl.aimatch.com
+0.0.0.0 tr-1.agilone.com
+0.0.0.0 www.badassjv.com
+0.0.0.0 blockmetrics.com
+0.0.0.0 cache.btrll.com
+0.0.0.0 engine.carbonads.com
+0.0.0.0 ycv.clearshieldredirect.com
+0.0.0.0 d2vig74li2resi.cloudfront.net
+0.0.0.0 desv383oqqc0.cloudfront.net
+0.0.0.0 js.convertale.com
+0.0.0.0 track.customer.io
+0.0.0.0 s.cxt.ms
+0.0.0.0 dailymotion.demdex.net
+0.0.0.0 error.demdex.net
+0.0.0.0 gannett.demdex.net
+0.0.0.0 links.services.disqus.com
+0.0.0.0 hutchmedia.t.domdex.com
+0.0.0.0 cdn5.js.ad.dotandad.com
+0.0.0.0 filecdn2.dotandad.com
+0.0.0.0 s.dpmsrv.com
+0.0.0.0 cf.effectivemeasure.net
+0.0.0.0 us-cdn.effectivemeasure.net
+0.0.0.0 ps.eyeota.net
+0.0.0.0 analytics.fairfax.com.au
+0.0.0.0 fmsads.com
+0.0.0.0 data.gosquared.com
+0.0.0.0 data2.gosquared.com
+0.0.0.0 ads.groupcommerce.com
+0.0.0.0 ad.ipredictive.com
+0.0.0.0 adserv.impactengine.com
+0.0.0.0 adn.impactradius.com
+0.0.0.0 scripts.kissmetrics.com
+0.0.0.0 ads.lanistaads.com
+0.0.0.0 napi.lanistaads.com
+0.0.0.0 rev.lanistaads.com
+0.0.0.0 content.mkt51.net
+0.0.0.0 content.mkt941.com
+0.0.0.0 f.monetate.net
+0.0.0.0 tracker.mozo.com.au
+0.0.0.0 papi.mynativeads.com
+0.0.0.0 web-clients.mynativeads.com
+0.0.0.0 static.nectarads.com
+0.0.0.0 cl-c.netseer.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 pages-stats.rbl.ms
+0.0.0.0 traffic.pubexchange.com
+0.0.0.0 orca.qubitproducts.com
+0.0.0.0 ortc-ws2-useast1-s0005.realtime.co
+0.0.0.0 a.remarketstats.com
+0.0.0.0 vg-no.c.richmetrics.com
+0.0.0.0 partner.shareaholic.com
+0.0.0.0 traffic.shareaholic.com
+0.0.0.0 cc.simplereach.com
+0.0.0.0 edge.simplereach.com
+0.0.0.0 analytics.sitewit.com
+0.0.0.0 st.smartredirect.de
+0.0.0.0 tracking.sokrati.com
+0.0.0.0 traffic-offers.com
+0.0.0.0 collector-2398.tvsquared.com
+0.0.0.0 konnect.videoplaza.tv
+0.0.0.0 trk.vidible.tv
+0.0.0.0 id.washingtonpost.com
+0.0.0.0 scripts.webspectator.com
+0.0.0.0 osc.optimize.webtrends.com
+0.0.0.0 a.wishabi.com
+0.0.0.0 track.youniversalmedia.com
+0.0.0.0 axp.zedo.com
+0.0.0.0 geo.ziffdavis.com
 #[Amazon.com][AS16509][54.64.0.0-54.71.255.255]
-api.proofpositivemedia.com
-s.pubmine.com
-
+0.0.0.0 api.proofpositivemedia.com
+0.0.0.0 s.pubmine.com
 #[Amazon.com][AS14618][54.72.0.0-54.95.255.255]
-t.254a.com
-r.254a.com
-yieldmanager.adbooth.com
-synchroscript.adswizz.com
-synchroscript.deliveryengine.adswizz.com
-secure.adwebster.com
-pixiedust.buzzfeed.com
-tracking.crobo.com
-comcast.demdex.net
-ecs.demdex.net
-collector.githubapp.com
-geobeacon.ign.com
-hlok.qertewrt.com
-mmtrkpy.com
-tracking.olx-st.com
-api.optinmonster.com
-t01.proximic.com
-go.redirectingat.com
-katie.runtnc.net
-a.rvttrack.com
-b.siftscience.com
-xch.smrtgs.com
-ardrone.swoop.com
-felix.data.tm-awx.com
-collector-184.tvsquared.com
-collector-428.tvsquared.com
-a3.websitealive.com
-zb.zeroredirect1.com
-zc.zeroredirect1.com
-ze1.zeroredirect1.com
-zh1.zeroredirect11.com
-
+0.0.0.0 t.254a.com
+0.0.0.0 r.254a.com
+0.0.0.0 yieldmanager.adbooth.com
+0.0.0.0 synchroscript.adswizz.com
+0.0.0.0 synchroscript.deliveryengine.adswizz.com
+0.0.0.0 secure.adwebster.com
+0.0.0.0 pixiedust.buzzfeed.com
+0.0.0.0 tracking.crobo.com
+0.0.0.0 comcast.demdex.net
+0.0.0.0 ecs.demdex.net
+0.0.0.0 collector.githubapp.com
+0.0.0.0 geobeacon.ign.com
+0.0.0.0 hlok.qertewrt.com
+0.0.0.0 mmtrkpy.com
+0.0.0.0 tracking.olx-st.com
+0.0.0.0 api.optinmonster.com
+0.0.0.0 t01.proximic.com
+0.0.0.0 go.redirectingat.com
+0.0.0.0 katie.runtnc.net
+0.0.0.0 a.rvttrack.com
+0.0.0.0 b.siftscience.com
+0.0.0.0 xch.smrtgs.com
+0.0.0.0 ardrone.swoop.com
+0.0.0.0 felix.data.tm-awx.com
+0.0.0.0 collector-184.tvsquared.com
+0.0.0.0 collector-428.tvsquared.com
+0.0.0.0 a3.websitealive.com
+0.0.0.0 zb.zeroredirect1.com
+0.0.0.0 zc.zeroredirect1.com
+0.0.0.0 ze1.zeroredirect1.com
+0.0.0.0 zh1.zeroredirect11.com
 #[Amazon.com][AS16509][67.202.0.0-67.202.63.255]
-js.moatads.com
-
+0.0.0.0 js.moatads.com
 #[Amazon.com][AS16509][72.21.192.0-72.21.223.255]
-adserver.advertisespace.com
-aax-us-east-rtb.amazon-adsystem.com
-ir-na.amazon-adsystem.com
-rcm-na.amazon-adsystem.com
-adtago.s3.amazonaws.com
-sync.cmedia.s3.amazonaws.com
-ecommstats.s3.amazonaws.com
-exitsplash.s3.amazonaws.com
-load.s3.amazonaws.com
-ncads.s3.amazonaws.com
-tracking.opencandy.com.s3.amazonaws.com
-viewerstats.docstoc.com.s3.amazonaws.com
-www.assoc-amazon.com
-s3.buysellads.com
-new.cetrk.com
-trk.cetrk.com
-dl.gameplaylabs.com
-ads.jetpackdigital.com
-dl.keywordstrategy.org
-asset.pagefair.com
-pixel.tapad.com
-beacon.tunecore.com
-
+0.0.0.0 adserver.advertisespace.com
+0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
+0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 rcm-na.amazon-adsystem.com
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 sync.cmedia.s3.amazonaws.com
+0.0.0.0 ecommstats.s3.amazonaws.com
+0.0.0.0 exitsplash.s3.amazonaws.com
+0.0.0.0 load.s3.amazonaws.com
+0.0.0.0 ncads.s3.amazonaws.com
+0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
+0.0.0.0 viewerstats.docstoc.com.s3.amazonaws.com
+0.0.0.0 www.assoc-amazon.com
+0.0.0.0 s3.buysellads.com
+0.0.0.0 new.cetrk.com
+0.0.0.0 trk.cetrk.com
+0.0.0.0 dl.gameplaylabs.com
+0.0.0.0 ads.jetpackdigital.com
+0.0.0.0 dl.keywordstrategy.org
+0.0.0.0 asset.pagefair.com
+0.0.0.0 pixel.tapad.com
+0.0.0.0 beacon.tunecore.com
 #[Amazon.com][AS14618][72.44.32.0-72.44.63.255]
-p.addthis.com
-rt3.infolinks.com
-adaptv.pixel.invitemedia.com
-g-pixel.invitemedia.com
-segment-pixel.invitemedia.com
-t.invitemedia.com
-
+0.0.0.0 p.addthis.com
+0.0.0.0 rt3.infolinks.com
+0.0.0.0 adaptv.pixel.invitemedia.com
+0.0.0.0 g-pixel.invitemedia.com
+0.0.0.0 segment-pixel.invitemedia.com
+0.0.0.0 t.invitemedia.com
 #[Amazon.com][75.101.128.0-75.101.255.255]
-engine.adzerk.net
-certify.alexametrics.com
-www.bizographics.com
-analytics.brightedge.com
-edge.analytics.brightedge.com
-fhg.digitaldesire.com
-tags.extole.com
-clicks11.geoads.com
-tracking.hubspot.com
-of.inviziads.com
-preview.leadmediapartners.com
-ads.livepromotools.com
-data.mobclix.com
-a.monetate.net
-click.searchnation.net
-revelations.trovus.co.uk
-ev.yieldbuild.com
-
+0.0.0.0 engine.adzerk.net
+0.0.0.0 certify.alexametrics.com
+0.0.0.0 www.bizographics.com
+0.0.0.0 analytics.brightedge.com
+0.0.0.0 edge.analytics.brightedge.com
+0.0.0.0 fhg.digitaldesire.com
+0.0.0.0 tags.extole.com
+0.0.0.0 clicks11.geoads.com
+0.0.0.0 tracking.hubspot.com
+0.0.0.0 of.inviziads.com
+0.0.0.0 preview.leadmediapartners.com
+0.0.0.0 ads.livepromotools.com
+0.0.0.0 data.mobclix.com
+0.0.0.0 a.monetate.net
+0.0.0.0 click.searchnation.net
+0.0.0.0 revelations.trovus.co.uk
+0.0.0.0 ev.yieldbuild.com
 #[Amazon.com][AS39111][79.125.0.0-79.125.63.255]
-d.adroll.com
-s.adroll.com
-s32.research.de.com
-d.skimresources.com
-t.skimresources.com#[WebBug]
-www.supersonicads.com
-app.ubertags.com
-stats3.unrulymedia.com
-
+0.0.0.0 d.adroll.com
+0.0.0.0 s.adroll.com
+0.0.0.0 s32.research.de.com
+0.0.0.0 d.skimresources.com
+0.0.0.0 t.skimresources.com
+0.0.0.0 www.supersonicads.com
+0.0.0.0 app.ubertags.com
+0.0.0.0 stats3.unrulymedia.com
 #[Amazon.com][AS39111][87.238.82.0-87.238.83.255]
-adseu.novem.pl
-
+0.0.0.0 adseu.novem.pl
 #[Amazon.com][16509][99.84.120.0/21]
-tagan.adlightning.com
-cdn-v3.conductrics.com
+0.0.0.0 tagan.adlightning.com
+0.0.0.0 cdn-v3.conductrics.com
