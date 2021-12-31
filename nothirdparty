@@ -268,9 +268,8 @@ z-na.amazon-adsystem.com
 z-na.amazon-adsystems.com
 acsechocaptiveportal.com
 www-cdn.jtvnw.net
-http://www.twitch.tv/
-https://twitch.tv
-https://www.twitch.tv
+www.twitch.tv
+twitch.tv
 web-cdn.ttvnw.net
 video31.lax01.hls.ttvnw.net
 video30.lax01.hls.ttvnw.net
@@ -869,49 +868,42 @@ fls-eu.amazon.com
 fls-na.amazon.com
 mads-eu.amazon.com
 mas-sdk.amazon.com
-# required for apps to be installed
-#mas-ext.amazon.com
+mas-ext.amazon.com
 aax-eu.amazon-adsystem.com
 msh.amazon.co.uk
-# required for app installation / updates
-# amazonadsi-a.akamaihd.net
+amazonadsi-a.akamaihd.net
 mobileanalytics.us-east-1.amazonaws.com
-# alexa
-#cortana-gateway.amazon.com
-#api.amazonalexa.com
-#avs.eu.amazonalexa.com
+cortana-gateway.amazon.com
+api.amazonalexa.com
+avs.eu.amazonalexa.com
 d3p8zr0ffa9t17.cloudfront.net
-# updates
-#softwareupdates.amazon.com
-#d3h5bk8iotgjvw.cloudfront.net
-#d63r8xi1zu867.cloudfront.net
-#d1s31zyz7dcc2d.cloudfront.net
-#d3a510xmpll7o6.cloudfront.net
-#d21m0ezw6fosyw.cloudfront.net
-#d3uf8d0lloeluq.cloudfront.net
-#d2n99fpfeqbnhk.cloudfront.net
-# ntp / time
-#ftv-smp.ntp-fireos.com
-#2.android.pool.ntp.org
-# API connections (unknown usage)
-#api.amazon.com
-#n4h9utzk4f.execute-api.us-east-1.amazonaws.com
-# others (unknown usage)
-#ktpx-eu.amazon.com
-#dp-rsm-prod.amazon.com
-#firetvdeviceprofilemanagementservice-na.amazon.com
-#prime.amazon.eu
-#dp-discovery-na-ext.amazon.com
-#frank-comp-na.amazon.com
-#ftvr-na.amazon.com
-#dcape-na.amazon.com
-#dp-gw-na.amazon.com
-#unagi-eu.amazon.com
-#layla.amazon.com
-#todo-ta-g7g.amazon.com
-#spectrum.s3.amazonaws.com
-#arcus-uswest.amazon.com
-#pinpoint.us-east-1.amazonaws.com
-#aviary.amazon.de
-#digprjsurvey.amazon.eu
+softwareupdates.amazon.com
+d3h5bk8iotgjvw.cloudfront.net
+d63r8xi1zu867.cloudfront.net
+d1s31zyz7dcc2d.cloudfront.net
+d3a510xmpll7o6.cloudfront.net
+d21m0ezw6fosyw.cloudfront.net
+d3uf8d0lloeluq.cloudfront.net
+d2n99fpfeqbnhk.cloudfront.net
+ftv-smp.ntp-fireos.com
+2.android.pool.ntp.org
+api.amazon.com
+n4h9utzk4f.execute-api.us-east-1.amazonaws.com
+ktpx-eu.amazon.com
+dp-rsm-prod.amazon.com
+firetvdeviceprofilemanagementservice-na.amazon.com
+prime.amazon.eu
+dp-discovery-na-ext.amazon.com
+frank-comp-na.amazon.com
+ftvr-na.amazon.com
+dcape-na.amazon.com
+dp-gw-na.amazon.com
+unagi-eu.amazon.com
+layla.amazon.com
+todo-ta-g7g.amazon.com
+spectrum.s3.amazonaws.com
+arcus-uswest.amazon.com
+pinpoint.us-east-1.amazonaws.com
+aviary.amazon.de
+digprjsurvey.amazon.eu
 acsechocaptiveportal.com
