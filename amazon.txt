@@ -964,7 +964,6 @@ js.smartredirect.de
 js.srcsmrtgs.com
 js4.ringrevenue.com
 json4.ringrevenue.com
-jtvnw.net
 jump.aragontrack.com
 jwpltx.com
 k.intellitxt.com
@@ -1292,7 +1291,6 @@ stag.mdotlabs.com
 stage.traffiliate.com
 stat.komoona.com
 statdb.pressflex.com
-static-cdn.jtvnw.net
 static-shareaholic.s3.amazonaws.com
 static.adk2.com
 static.adsnative.com
@@ -1520,7 +1518,6 @@ ws.tapjoyads.com
 wsc1.webspectator.com
 wurfl.io
 ww.amazon.com
-www-cdn.jtvnw.net
 www.aboutamazon.fr
 www.adbooth.com
 www.addwish.com
@@ -1624,6 +1621,7 @@ extension-files.twitch.tv
 gql.twitch.tv
 help.twitch.tv
 irc-ws.chat.twitch.tv
+jtvnw.net
 login.twitch.tv
 m.twitch.tv
 minixperiment.twitch.tv
@@ -1635,6 +1633,7 @@ pubsub-edge.twitch.tv
 s.jtvnw.netplayer.twitch.tv
 spade.sci.twitch.tv
 spade.twitch.tv
+static-cdn.jtvnw.net
 static.twitchcdn.net
 streams.twitch.tv
 telegraph.twitch.tv
@@ -1666,4 +1665,5 @@ video30.lax01.hls.ttvnw.net
 video31.lax01.hls.ttvnw.net
 vod-storyboards.twitch.tv
 web-cdn.ttvnw.net
+www-cdn.jtvnw.net
 www.twitch.tv
