@@ -1,5 +1,3 @@
-#This blocklist helps Pi-hole's admin restrict access to Amazon and its domains.
-#Last updated: 26-06-2020
 0.0.0.0 transifex.s3.amazonaws.com
 0.0.0.0 pixel-vault.s3-accelerate.amazonaws.com
 0.0.0.0 device-metrics-us.amazon.com
@@ -206,10 +204,8 @@
 0.0.0.0 unreadit.s3.us-east-1.amazonaws.com
 0.0.0.0 teachingcomemail.s3.amazonaws.com
 0.0.0.0 repository.cliqz.com.s3.amazonaws.com
-#[Amazon.com][AS14618][13.32.0.0-13.35.255.255]
 0.0.0.0 sjs.bizographics.com
 0.0.0.0 intljs.rmtag.com
-#[Amazon.com][AS14618][107.20.0.0-107.23.255.255]
 0.0.0.0 ad.360yield.com
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 s.arclk.net
@@ -282,9 +278,7 @@
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 download.ytdownloader.com
 0.0.0.0 www.ytdownloader.com
-#[Amazon.com][AS14618][143.204.0.0-143.204.255.255]
 0.0.0.0 static.trackedweb.net
-#[Amazon.com][AS14618][174.129.0.0-174.129.255.255]
 0.0.0.0 engine.4chan-ads.org
 0.0.0.0 ads20.adcolony.com
 0.0.0.0 insight.adsrvr.org
@@ -323,8 +317,6 @@
 0.0.0.0 b.wishabi.com
 0.0.0.0 track.yieldsoftware.com
 0.0.0.0 stats.zmags.com
-#[Amazon.com][AS38895][175.41.128.0-175.41.159.255]
-#[Amazon.com][AS16509][176.32.96.0-176.32.103.255]
 0.0.0.0 cdn.adbooth.net
 0.0.0.0 rcm.amazon.com
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
@@ -334,10 +326,8 @@
 0.0.0.0 wms-eu.amazon-adsystem.com
 0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
-#[Amazon.com][AS16509][176.34.184.0-176.34.191.255]
 0.0.0.0 tv4play-se.c.richmetrics.com
 0.0.0.0 chuknu.sokrati.com
-#[Amazon.com][AS16509][176.34.232.0-176.34.239.255]
 0.0.0.0 adsradios.adswizz.com
 0.0.0.0 exchange.adswizz.com
 0.0.0.0 synchrobox.adswizz.com
@@ -355,15 +345,11 @@
 0.0.0.0 tracker.vinsight.de
 0.0.0.0 r.yieldkit.com
 0.0.0.0 srv.uk.znaptag.com
-#[Amazon.com][AS16509][177.71.190.213]
 0.0.0.0 dm.demdex.net
-#[Amazon.com][AS16509][178.236.0.0-178.236.7.255]
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 ir-de.amazon-adsystem.com
 0.0.0.0 ir-uk.amazon-adsystem.com
-#[Amazon.com][AS16509][184.169.128.0-184.169.255.255]
 0.0.0.0 abandonment.saas.seewhy.com
-#[Amazon.com][AS14618][184.72.0.0-184.73.255.255]
 0.0.0.0 www.adtaily.com
 0.0.0.0 analytics.bleacherreport.com
 0.0.0.0 s.btstatic.com
@@ -393,19 +379,16 @@
 0.0.0.0 rtb.tubemogul.com
 0.0.0.0 api.viglink.com
 0.0.0.0 www.webspectator.com
-#[Amazon.com][AS14618][204.236.128.0-204.236.255.255]
 0.0.0.0 cdn.beaconpush.com
 0.0.0.0 fedex.demdex.net
 0.0.0.0 tags.deployads.com
 0.0.0.0 track.keywordstrategy.org
 0.0.0.0 a.klaviyo.com
 0.0.0.0 cdn.segment.io
-#[Amazon.com][AS38895][204.246.160.0-204.246.191.255]
 0.0.0.0 cdn.boomtrain.com
 0.0.0.0 js.coinisrsdelivery.com
 0.0.0.0 s.idio.co
 0.0.0.0 cdn.yb0t.com
-#[Amazon.com][AS16509][205.251.192.0-205.251.255.255]
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 matchbin-assets.s3.amazonaws.com
 0.0.0.0 springclick-ads.s3.amazonaws.com
@@ -422,7 +405,6 @@
 0.0.0.0 secureredirect101.com
 0.0.0.0 static.springmetrics.com
 0.0.0.0 trkmydomain.com
-#[Amazon.com][AS16509][207.171.160.0-207.171.191.255]
 0.0.0.0 s.206solutions.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -432,7 +414,6 @@
 0.0.0.0 vml1.s3.amazonaws.com
 0.0.0.0 files.bannersnack.com
 0.0.0.0 tags.hypeads.org
-#[Amazon.com][AS16509][216.137.32.0-216.137.63.255]
 0.0.0.0 cdn.adk2.com
 0.0.0.0 cache.adnet-media.net
 0.0.0.0 ads.advertisespace.com
@@ -453,10 +434,8 @@
 0.0.0.0 static.parsely.com
 0.0.0.0 cdn.udmserve.net
 0.0.0.0 a1.vdna-assets.com
-#[Amazon.com][AS16509][13.32.0.0-13.35.255.255]
 0.0.0.0 connatix.com
 0.0.0.0 ads-d.viber.com
-#[Amazon.com][AS14618][23.20.0.0-23.23.255.255]
 0.0.0.0 ads.ad-center.com
 0.0.0.0 static.adk2.com
 0.0.0.0 async01.admantx.com
@@ -494,7 +473,6 @@
 0.0.0.0 ads.tunein.com
 0.0.0.0 services.webspectator.com
 0.0.0.0 cdn.vdopia.com
-#[Amazon.com][AS14618][34.192.0.0-34.255.255.255]
 0.0.0.0 mcafee-home.7eer.net
 0.0.0.0 blobar.org
 0.0.0.0 api.circularhub.com
@@ -514,11 +492,9 @@
 0.0.0.0 videe.tv
 0.0.0.0 pm.w55c.net
 0.0.0.0 www.whizstats.com
-#[Amazon.com][AS39111][35.152.0.0-35.183.255.255]
 0.0.0.0 www.currentupdateconcepts.com
 0.0.0.0 api.segment.io
 0.0.0.0 ssp.videostat.com
-#[Amazon.com][AS39111][46.137.0.0-46.137.127.255]
 0.0.0.0 code2.adtlgc.com
 0.0.0.0 l.linkpulse.com
 0.0.0.0 s248.meetrics.net
@@ -530,14 +506,11 @@
 0.0.0.0 js.smartredirect.de
 0.0.0.0 qa.stats.webs.com
 0.0.0.0 prod-js.aws.y-track.com
-#[Amazon.com][AS39111][46.51.128.0-46.51.191.255]
 0.0.0.0 dcinfos.abtasty.com
 0.0.0.0 1go.affec.tv27.0.0.1go.affec.tv
 0.0.0.0 www.smartredirect.de
-#[Amazon.com][AS16509][50.112.0.0-50.112.255.255]
 0.0.0.0 api.amplitude.com
 0.0.0.0 idsync.rlcdn.com
-#[Amazon.com][AS14618][50.16.0.0-50.19.255.255]
 0.0.0.0 web-t.9gag.com
 0.0.0.0 www.adotube.com
 0.0.0.0 pixel.adsafeprotected.com
@@ -599,7 +572,6 @@
 0.0.0.0 track.written.com
 0.0.0.0 www.wtp101.com
 0.0.0.0 zdbb.net
-#[Amazon.com][AS14618][52.0.0.0-52.31.255.255]
 0.0.0.0 datacollect3.abtasty.com
 0.0.0.0 datacollect6.abtasty.com
 0.0.0.0 ad.ad-arata.com
@@ -672,7 +644,6 @@
 0.0.0.0 zeroredirect1.com
 0.0.0.0 zs1.zeroredirect1.com
 0.0.0.0 t.zqtk.net
-#[Amazon.com][AS14618][52.32.0.0-52.79.255.255]
 0.0.0.0 trk.ablogica.com
 0.0.0.0 pool.admedo.com
 0.0.0.0 rudy.adsnative.com
@@ -700,7 +671,6 @@
 0.0.0.0 p4dt2-scyd6.ads.tremorhub.com
 0.0.0.0 slckg-2p3vy.ads.tremorhub.com
 0.0.0.0 dc.widespace.com
-#[Amazon.com][AS14618][52.84.0.0-52.95.255.255]
 0.0.0.0 ad-delivery.net
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.adsafeprotected.com
@@ -732,7 +702,6 @@
 0.0.0.0 outcome.supersonicads.com
 0.0.0.0 adserver.tappsgames.com
 0.0.0.0 core.videoegg.com
-#[Amazon.com][AS14618][54.144.0.0-54.159.255.255]
 0.0.0.0 t.adk2.com
 0.0.0.0 www.bitspresentdownload.com
 0.0.0.0 www.bundlerepositorycontent.com
@@ -740,7 +709,6 @@
 0.0.0.0 cdn.opensubcontent.com
 0.0.0.0 vid-io.springserve.net
 0.0.0.0 collector-195.tvsquared.com
-#[Amazon.com][AS14618][54.160.0.0-54.175.255.255]
 0.0.0.0 t.acxiom-online.com
 0.0.0.0 api.addnow.com
 0.0.0.0 adstract.adk2x.com
@@ -772,14 +740,12 @@
 0.0.0.0 wurfl.io
 0.0.0.0 app.yieldify.com
 0.0.0.0 zm1.zeroredirect5.com
-#[Amazon.com][AS16509][54.176.0.0-54.191.255.255]
 0.0.0.0 www.cloudtracked.com
 0.0.0.0 za-ssl.effectivemeasure.net
 0.0.0.0 tracker.freecharge.in
 0.0.0.0 ads.servebom.com
 0.0.0.0 neo.go.sonobi.com
 0.0.0.0 match.xg4ken.com
-#[Amazon.com][AS16509][54.192.0.0-54.207.255.255]
 0.0.0.0 admtpmp127.adsk2.co
 0.0.0.0 adplexmedia.adk2.co
 0.0.0.0 ad.adsrvr.org
@@ -833,7 +799,6 @@
 0.0.0.0 2664.tm.zedo.com
 0.0.0.0 3211.tm.zedo.com
 0.0.0.0 srv-us.znaptag.com
-#[Amazon.com][AS16509][54.208.0.0-54.221.255.255]
 0.0.0.0 tracking.affiliates.de
 0.0.0.0 arena.altitude-arena.com
 0.0.0.0 ca.altitude-arena.com
@@ -868,7 +833,6 @@
 0.0.0.0 i.yldbt.com
 0.0.0.0 z2.zedo.com
 0.0.0.0 segment-data.zqtk.net
-#[Amazon.com][AS16509][54.224.0.0-54.239.255.255]
 0.0.0.0 s.206ads.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 optimize.adpushup.com
@@ -1021,7 +985,6 @@
 0.0.0.0 mb.zam.com
 0.0.0.0 3165.tm.zedo.com
 0.0.0.0 www.zergnet.com
-#[Amazon.com][AS16509][54.240.0.0-54.255.255.255]
 0.0.0.0 d.254a.com
 0.0.0.0 kwserver.adhispanic.com
 0.0.0.0 ads.adiply.com
@@ -1100,10 +1063,8 @@
 0.0.0.0 track.youniversalmedia.com
 0.0.0.0 axp.zedo.com
 0.0.0.0 geo.ziffdavis.com
-#[Amazon.com][AS16509][54.64.0.0-54.71.255.255]
 0.0.0.0 api.proofpositivemedia.com
 0.0.0.0 s.pubmine.com
-#[Amazon.com][AS14618][54.72.0.0-54.95.255.255]
 0.0.0.0 t.254a.com
 0.0.0.0 r.254a.com
 0.0.0.0 yieldmanager.adbooth.com
@@ -1135,9 +1096,7 @@
 0.0.0.0 zc.zeroredirect1.com
 0.0.0.0 ze1.zeroredirect1.com
 0.0.0.0 zh1.zeroredirect11.com
-#[Amazon.com][AS16509][67.202.0.0-67.202.63.255]
 0.0.0.0 js.moatads.com
-#[Amazon.com][AS16509][72.21.192.0-72.21.223.255]
 0.0.0.0 adserver.advertisespace.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
@@ -1160,14 +1119,12 @@
 0.0.0.0 asset.pagefair.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 beacon.tunecore.com
-#[Amazon.com][AS14618][72.44.32.0-72.44.63.255]
 0.0.0.0 p.addthis.com
 0.0.0.0 rt3.infolinks.com
 0.0.0.0 adaptv.pixel.invitemedia.com
 0.0.0.0 g-pixel.invitemedia.com
 0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 t.invitemedia.com
-#[Amazon.com][75.101.128.0-75.101.255.255]
 0.0.0.0 engine.adzerk.net
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 www.bizographics.com
@@ -1185,7 +1142,6 @@
 0.0.0.0 click.searchnation.net
 0.0.0.0 revelations.trovus.co.uk
 0.0.0.0 ev.yieldbuild.com
-#[Amazon.com][AS39111][79.125.0.0-79.125.63.255]
 0.0.0.0 d.adroll.com
 0.0.0.0 s.adroll.com
 0.0.0.0 s32.research.de.com
@@ -1194,12 +1150,9 @@
 0.0.0.0 www.supersonicads.com
 0.0.0.0 app.ubertags.com
 0.0.0.0 stats3.unrulymedia.com
-#[Amazon.com][AS39111][87.238.82.0-87.238.83.255]
 0.0.0.0 adseu.novem.pl
-#[Amazon.com][16509][99.84.120.0/21]
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 cdn-v3.conductrics.com
-
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon.es
 0.0.0.0 aan.amazon.com
