@@ -327,7 +327,6 @@ admonkey.dapper.net
 admp-tc.delfi.lv
 admtpmp127.adsk2.co
 adn.impactradius.com
-adobe.demdex.net
 adplexmedia.adk2.co
 adrazzi.com
 ads-d.viber.com
@@ -395,7 +394,6 @@ advertize.amazon.com
 advertizing.amazon.com
 advice-ads.s3.amazonaws.com
 adwords.amazon.com
-aexp.demdex.net
 affiliate-blog.amazon.com
 affiliate-program.amazon.com
 affiliationjs.s3.amazonaws.com
@@ -528,7 +526,6 @@ beacon.livefyre.com
 beacon.sojern.com
 beacon.tunecore.com
 beam.hlserve.com
-bet.demdex.net
 bi-flogger-alb-ext-343643057.us-east-1.elb.amazonaws.com
 blobar.org
 blockmetrics.com
@@ -537,7 +534,6 @@ bob.dmpxs.com
 bomcl.richmetrics.com
 books.amazon.com
 bootstrap.livefyre.com
-bostonglobe.demdex.net
 branch.io
 bundle-geoip.herokuapp.com
 buybox.amazon.com
@@ -554,14 +550,12 @@ ca.altitude-arena.com
 cache.adnet-media.net
 cache.btrll.com
 cache.prod.amazon-blogs.psdops.com
-cam.demdex.net
 capture.condenastdigital.com
 catalog-eu.amazon.com
 catalog-retail.amazon.com
 catalog-retail.amazon.fr
 catalog.amazon.com
 catalyst.amazon.com
-cbsi.demdex.net
 cc.simplereach.com
 ccs.infospace.com
 cde-g7g.amazon.com
@@ -625,7 +619,6 @@ cdn5.js.ad.dotandad.com
 certify.alexametrics.com
 cf.ads.kontextua.com
 cf.effectivemeasure.net
-charter.demdex.net
 checkip.amazonaws.com
 chrooma-us.s3.amazonaws.com
 chuknu.sokrati.com
@@ -665,9 +658,7 @@ collector.githubapp.com
 collector.leaddyno.com
 collector.savvyads.com
 com.com
-comcast.demdex.net
 completion.amazon.com
-condenast.demdex.net
 config.parsely.com
 configuration-vending.service.amazonsilk.com
 connatix.com
@@ -743,7 +734,6 @@ d3ujids68p6xmq.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 d63r8xi1zu867.cloudfront.net
 d8rk54i4mohrb.cloudfront.net
-dailymotion.demdex.net
 data.adsrvr.org
 data.alexa.com
 data.apn.co.nz
@@ -759,7 +749,6 @@ dc8xl0ndzn2cb.cloudfront.net
 dcape-na.amazon.com
 dcinfos.abtasty.com
 dckappa.widespace.com
-de.demdex.net
 delivery-cdn-cf.adswizz.com
 delivery.vidible.tv
 desv383oqqc0.cloudfront.net
@@ -781,7 +770,6 @@ dk-gmtdmp.mookie1.com
 dl.gameplaylabs.com
 dl.keywordstrategy.org
 dl1d2m8ri9v3j.cloudfront.net
-dm.demdex.net
 dmp.gravity4.com
 dn.c.richmetrics.com
 dni.agcdn.com
@@ -791,7 +779,6 @@ download.ytdownloader.com
 dp-discovery-na-ext.amazon.com
 dp-gw-na.amazon.com
 dp-rsm-prod.amazon.com
-dpm.demdex.net
 dra.amazon-adsystem.com
 drmalb-677588359.eu-west-3.elb.amazonaws.com
 dts.innovid.com
@@ -815,7 +802,6 @@ ec2-3-213-70-200.compute-1.amazonaws.com
 ec2-46-51-216-0.ap-southeast-1.compute.amazonaws.com
 echo.amazon.com
 ecommstats.s3.amazonaws.com
-ecs.demdex.net
 edge.analytics.brightedge.com
 edge.metroleads.com
 edge.simplereach.com
@@ -829,26 +815,21 @@ engine.carbonads.com
 engine.nectarads.com
 engine.widespace.com
 engine2.adzerk.net
-error.demdex.net
 eu.api.amazonvideo.com
 eue.collect-opnet.com
 ev.yieldbuild.com
 eventlogger.soundcloud.com
 events-lb-1299892453.us-east-1.elb.amazonaws.com
 events.boomtrain.com
-everydayhealth.demdex.net
 exchange-elb-1566059120.us-east-1.elb.amazonaws.com
 exchange.adswizz.com
 exitsplash.s3.amazonaws.com
 f.media-amazon.com
 f.monetate.net
-fairfax.demdex.net
-fairfaxau.demdex.net
 fastdownload10.com
 fastlane-adv.rubiconproject.com
 fastnclick.com
 fba.amazon.com
-fedex.demdex.net
 felix.data.tm-awx.com
 fhg.digitaldesire.com
 filecdn2.dotandad.com
@@ -877,12 +858,9 @@ fls-na.amazon.com
 fls-na.amazon.com.br
 fls-na.amazon.com.mx
 fmsads.com
-ford.demdex.net
 forums.aws.amazon.com
 forums.developer.amazon.com
-foxnews.demdex.net
 frank-comp-na.amazon.com
-freecharge.demdex.net
 fresh.amazon.com
 frontpage-stats.rbl.ms
 ftv-smp.ntp-fireos.com
@@ -892,7 +870,6 @@ g-pixel.invitemedia.com
 g2.gumgum.com
 gamedev.amazon.com
 games.amazon.com
-gannett.demdex.net
 geo.jetpackdigital.com
 geo.qualaroo.com
 geo.ziffdavis.com
@@ -906,7 +883,6 @@ giveaway.amazon.com
 global.cmcs.service.amazonsilk.com
 global.configuration-vending.service.amazonsilk.com
 global.safebrowsing.service.amazonsilk.com
-gm.demdex.net
 go.goroost.com
 go.redirectingat.com
 go.searchlock.com
@@ -971,7 +947,6 @@ ir-na.amazon-adsystem.com
 ir-na.amazon-adsystems.com
 ir-uk.amazon-adsystem.com
 is-gateway.supersonicads.com
-iyogi.demdex.net
 j.flxpxl.com
 j.traffichunt.com
 jadserve.postrelease.com
@@ -1036,7 +1011,6 @@ mads.amazon.com
 magnetic.t.domdex.com
 mantodea.mantisadnetwork.com
 marketing.amazon.com
-marthastewart.demdex.net
 mas-ext.amazon.com
 mas-sdk.amazon.com
 master-mainserver-1943019976.us-west-2.elb.amazonaws.com
@@ -1062,11 +1036,9 @@ mobileanalytics.us-east-1.amazonaws.com
 mondoads.s3.amazonaws.com
 morehitserver.com
 motd.pinion.gg
-mscom.demdex.net
 msh.amazon.co.uk
 msh.amazon.com
 mtrx.go.sonobi.com
-mtvn.demdex.net
 music.amazon.com
 music.amazon.fr
 n.targetctracker.com
@@ -1074,14 +1046,11 @@ n4h9utzk4f.execute-api.us-east-1.amazonaws.com
 napi.lanistaads.com
 nationalpost-com.c.richmetrics.com
 nativead.s3.amazonaws.com
-nbcots.demdex.net
-nbcu.demdex.net
 ncads.s3.amazonaws.com
 neo.go.sonobi.com
 neowin.s3.amazonaws.com
 new.cetrk.com
 nexus.ensighten.com
-nfl.demdex.net
 ninja.onap.io
 nj-com.c.richmetrics.com
 notify.nuviad.com
@@ -1136,7 +1105,6 @@ payments.amazon.com
 pda-bes.amazon.com
 pdx1-br-rrr-r1.amazon.com
 phidataprod.signin.aws.amazon.com
-philly.demdex.net
 ping.chartbeat.net
 pinpoint.us-east-1.amazonaws.com
 pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com
@@ -1159,7 +1127,6 @@ pki.amazon.com
 pm.w55c.net
 pool.admedo.com
 portal.aws.amazon.com
-postmedia.demdex.net
 powr-counter.herokuapp.com
 preview.leadmediapartners.com
 prime.amazon.com
@@ -1264,9 +1231,7 @@ sandship-news.s3.us-west-1.amazonaws.com
 savvyads.com
 saxp.zedo.com
 sc-devel.s3.eu-central-1.amazonaws.com
-schwab.demdex.net
 science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com
-scripps.demdex.net
 script.crazyegg.com
 script.crsspxl.com
 script.opentracker.net
@@ -1276,7 +1241,6 @@ scripts.webspectator.com
 sdk-controller.widespace.com
 sdscdn.userreport.com
 search34.info.com
-sears.demdex.net
 seccdn-gl.imrworldwide.com
 secure.adwebster.com
 secureredirect101.com
@@ -1363,8 +1327,6 @@ studios.amazon.com
 sumome.com
 surveygizmobeacon.s3.amazonaws.com
 surveygizmolibrary.s3.amazonaws.com
-swa.demdex.net
-swisscom.demdex.net
 swrap.tradedoubler.com
 swvgdtt-gateway-eu.amazon.com
 swvgdtt-gateway.amazon.com
@@ -1408,18 +1370,14 @@ tap-client-stats.s3-eu-west-1.amazonaws.com
 tap-secure.rubiconproject.com
 tap.rubiconproject.com
 tar.tradedoubler.com
-td.demdex.net
 teachingcomemail.s3.amazonaws.com
 techvalidateproduction0-744364824.us-west-2.elb.amazonaws.com
 tf-lb-20171109165411125400000001-440806643.us-east-1.elb.amazonaws.com
 theinternetworksltd-news.t.domdex.com
 thelocalsearchnetwork.com
-timeinc.demdex.net
 timeseg.modules.jumptime.com
 tiscali.js.ad.dotandad.com
 todo-ta-g7g.amazon.com
-torontostar.demdex.net
-toyota.demdex.net
 tp.04788557e-frontier.amazon.sg
 tp.1fe6d5bb2-frontier.amazon.es
 tp.252df37b2-frontier.amazon.nl
@@ -1493,7 +1451,6 @@ trk.vidible.tv
 trkmydomain.com
 trueclickads.net
 tv4play-se.c.richmetrics.com
-twc.demdex.net
 twitter-badges.s3.amazonaws.com
 ua.supersonicads.com
 uadx.com
