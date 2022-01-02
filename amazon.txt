@@ -74,7 +74,6 @@ neowin.s3.amazonaws.com
 amazon.de.neue-agb.com
 nxtcfm.s3.amazonaws.com
 payments-amazon.com
-s3-amazonaws.com
 s3.amazonanewom
 s3.amazonaws.com
 s3.eu-central-1.amazonaws.com
