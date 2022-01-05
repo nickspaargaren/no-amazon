@@ -77,7 +77,9 @@ payments-amazon.com
 s3.amazonanewom
 s3.amazonaws.com
 s3.eu-central-1.amazonaws.com
-sc-devel.s3.eu-central-1.amazonaws.com surveygizmobeacon.s3.amazonaws.com surveygizmolibrary.s3.amazonaws.com
+sc-devel.s3.eu-central-1.amazonaws.com
+surveygizmobeacon.s3.amazonaws.com
+surveygizmolibrary.s3.amazonaws.com
 ws-tires.s3.amazonaws.com
 amazon-adsystem.com
 c.amazon-adsystem.com
@@ -1805,3 +1807,9 @@ video31.lax01.hls.ttvnw.net
 vod-storyboards.twitch.tv
 web-cdn.ttvnw.net
 www.twitch.tv
+s3-amazonaws.com
+aan.amazon-adsystem.com
+aan.amazon.com
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+windowsphishingalert158.s3.amazonaws.com
