@@ -440,7 +440,6 @@ amazon.nl
 amazon.sg
 amazon1.qualtrics.com
 amazon1.qualtrics.com 
-amazon3cpcunsub.blogspot.com
 amazonaax.com
 amazonadsi-a.akamaihd.net
 amazonalexa.com
@@ -452,7 +451,6 @@ amazonde1.qualtrics.com
 amazonmerchants.122.2o7.net
 amazonpay.com
 amazonshopbop.122.2o7.net
-amazonunsubslink.blogspot.com
 amazonvideo.com
 ambassador-production-v2-elb-506154624.eu-central-1.elb.amazonaws.com
 ams.amazon.com
@@ -661,7 +659,6 @@ click.clktraker.com
 click.gospect.com
 click.searchnation.net
 click.uamtrk.com
-clickamazonoffer.blogspot.com
 clickcdn.shareaholic.com
 clickerheroes-savedgames3-747864888.us-east-1.elb.amazonaws.com
 clicks.izea.com
@@ -718,7 +715,6 @@ count-server.sharethis.com
 counter.personyze.com
 counter.scribblelive.com
 coursematerials.amazon.com
-cpc3amazon.blogspot.com
 create.leadid.com
 creatives.ancoraplatform.com
 crtl.aimatch.com
