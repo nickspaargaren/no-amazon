@@ -430,7 +430,6 @@ amazon.com.au
 amazon.com.br
 amazon.com.mx
 amazon.de
-amazon.de.neue-agb.com
 amazon.es
 amazon.eu
 amazon.fr
@@ -439,7 +438,6 @@ amazon.it
 amazon.nl
 amazon.sg
 amazon1.qualtrics.com
-amazon1.qualtrics.com 
 amazonaax.com
 amazonadsi-a.akamaihd.net
 amazonalexa.com
@@ -448,9 +446,7 @@ amazonaws.com
 amazonaws.com.cn
 amazonclix.com
 amazonde1.qualtrics.com
-amazonmerchants.122.2o7.net
 amazonpay.com
-amazonshopbop.122.2o7.net
 amazonvideo.com
 ambassador-production-v2-elb-506154624.eu-central-1.elb.amazonaws.com
 ams.amazon.com
