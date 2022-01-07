@@ -292,6 +292,7 @@ aan.amazon.fr
 aax-cpm.amazon-adsystem.amazon.com
 aax-cpm.amazon-adsystem.com
 aax-eu-dub.amazon.com
+aax-eu-retail-direct.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-eu.amazon.es
 aax-fe-pek.amazon-adsystem.com
@@ -315,6 +316,7 @@ ace-ugc-pc-lnch.s3.amazonaws.com
 acsechocaptiveportal.com
 acuity.amazonaws.com
 ad-delivery.net
+ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
 ad.360yield.com
 ad.ad-arata.com
 ad.ad-stir.com
@@ -332,6 +334,8 @@ addshoppers.t.domdex.com
 adflash.affairsclub.com
 adg.bzgint.com
 adimg.luminate.com
+adktracking-1671721947.eu-west-3.elb.amazonaws.com
+admantx-cluster-nlb-eu-2071973585.eu-west-1.elb.amazonaws.com
 admarvel.s3.amazonaws.com
 admediator.unityads.unity3d.com
 admonkey.dapper.net
@@ -504,6 +508,7 @@ ardrone.swoop.com
 arena.altitude-arena.com
 as.eu.angsrvr.com
 as2.amazonaws.com
+asdasda-1426585087.eu-central-1.elb.amazonaws.com
 askads.ask.com
 askville.amazon.com
 asset.pagefair.com
@@ -831,7 +836,9 @@ dynamodb.us-west-2.amazonaws.com
 dz2fz0bgyq9tn.cloudfront.net
 e.targetfuel.com
 ec2-103-4-8-0.ap-northeast-1.compute.amazonaws.com
+ec2-15-237-117-139.eu-west-3.compute.amazonaws.com
 ec2-177-71-207-169.sa-east-1.compute.amazonaws.com
+ec2-18-133-158-255.eu-west-2.compute.amazonaws.com
 ec2-18-195-48-237.eu-central-1.compute.amazonaws.com
 ec2-18-195-48-238.eu-central-1.compute.amazonaws.com
 ec2-18-195-48-242.eu-central-1.compute.amazonaws.com
@@ -840,8 +847,15 @@ ec2-18-195-48-252.eu-central-1.compute.amazonaws.com
 ec2-18-195-48-253.eu-central-1.compute.amazonaws.com
 ec2-18-195-48-255.eu-central-1.compute.amazonaws.com
 ec2-18-216-208-225.us-east-2.compute.amazonaws.com
+ec2-3-10-207-184.eu-west-2.compute.amazonaws.com
 ec2-3-213-70-200.compute-1.amazonaws.com
+ec2-3-8-146-77.eu-west-2.compute.amazonaws.com
+ec2-35-178-235-52.eu-west-2.compute.amazonaws.com
+ec2-35-180-127-210.eu-west-3.compute.amazonaws.com
 ec2-46-51-216-0.ap-southeast-1.compute.amazonaws.com
+ec2-52-47-123-197.eu-west-3.compute.amazonaws.com
+ec2-54-149-151-196.us-west-2.compute.amazonaws.com
+ec2-54-246-59-57.eu-west-1.compute.amazonaws.com
 echo.amazon.com
 ecommstats.s3.amazonaws.com
 ecs.amazonaws.com
@@ -2158,6 +2172,7 @@ www.amazon.in.edgekey.net
 www.amazon.nl.edgekey.net
 www.amazonaws.com
 www.applicationsdeliveryupdate.com
+www.asdasda-1426585087.eu-central-1.elb.amazonaws.com
 www.assoc-amazon.ca
 www.assoc-amazon.co.uk
 www.assoc-amazon.com
@@ -2175,6 +2190,15 @@ www.clicktripz.com
 www.cloudtracked.com
 www.currentupdateconcepts.com
 www.dntx.com
+www.ec2-15-237-117-139.eu-west-3.compute.amazonaws.com
+www.ec2-18-133-158-255.eu-west-2.compute.amazonaws.com
+www.ec2-3-10-207-184.eu-west-2.compute.amazonaws.com
+www.ec2-3-8-146-77.eu-west-2.compute.amazonaws.com
+www.ec2-35-178-235-52.eu-west-2.compute.amazonaws.com
+www.ec2-35-180-127-210.eu-west-3.compute.amazonaws.com
+www.ec2-52-47-123-197.eu-west-3.compute.amazonaws.com
+www.ec2-54-149-151-196.us-west-2.compute.amazonaws.com
+www.ec2-54-246-59-57.eu-west-1.compute.amazonaws.com
 www.giftfunnew.com
 www.hotdogsandads.com
 www.i.matheranalytics.com
