@@ -425,7 +425,6 @@ alexametrics.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
 amazon-adsystems.com
-amazon-ck.heteml.net
 amazon-seo-service.com
 amazon.ae
 amazon.au
@@ -433,7 +432,6 @@ amazon.ca
 amazon.cn
 amazon.co.jp
 amazon.co.uk
-amazon.coins-swap.io
 amazon.com
 amazon.com.au
 amazon.com.br
@@ -2162,10 +2160,8 @@ www.adnigma.com
 www.adotube.com
 www.adtaily.com
 www.amazon-adsystem.com
-www.amazon-ck.heteml.net
 www.amazon.ca.edgekey.net
 www.amazon.co.jp
-www.amazon.coins-swap.io
 www.amazon.com
 www.amazon.com.edgekey.net
 www.amazon.com.mx.edgekey.net
@@ -2175,7 +2171,6 @@ www.amazon.fr.edgekey.net
 www.amazon.in.edgekey.net
 www.amazon.nl.edgekey.net
 www.amazonaws.com
-www.amazone-protectionrl8up8e6tcdfaiwzrvgp.com
 www.applicationsdeliveryupdate.com
 www.asdasda-1426585087.eu-central-1.elb.amazonaws.com
 www.assoc-amazon.ca
