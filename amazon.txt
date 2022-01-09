@@ -2483,3 +2483,11 @@ tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com
 eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
 live-collect-blue-lb-184443518.us-east-1.elb.amazonaws.com
 sgaas-vpc-garry-public-elb-644092612.eu-west-1.elb.amazonaws.com
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+amazonaax.com
+amazonclix.com
+assoc-amazon.com
