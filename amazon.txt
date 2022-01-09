@@ -2474,3 +2474,12 @@ d39hwpl5gxli7h.cloudfront.net
 d3azwz0fcakc5.cloudfront.net
 d3ieick982x8tp.cloudfront.net
 dzpu6za66svjl.cloudfront.net
+kinesis.us-east-1.amazonaws.com
+kinesis.us-west-2.amazonaws.com
+kinesis.ap-northeast-1.amazonaws.com
+ec2-52-26-54-44.us-west-2.compute.amazonaws.com
+tracking-website-prod07-epic-96184209.us-east-1.elb.amazonaws.com
+tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com
+eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
+live-collect-blue-lb-184443518.us-east-1.elb.amazonaws.com
+sgaas-vpc-garry-public-elb-644092612.eu-west-1.elb.amazonaws.com
