@@ -2491,3 +2491,13 @@ advertising-api-eu.amazon.com
 amazonaax.com
 amazonclix.com
 assoc-amazon.com
+spyhunter-download.s3.amazonaws.com
+wp-stat.s3.amazonasw.com
+amazon-france.xyz
+amazon34.linkpc.net
+yourmailamazon99.redirectme.net
+amazeamazon.ddns.net
+amazon34.duckdns.org
+m.twitch.tv
+clips.twitch.tv
+amazon-cornerstone.com
