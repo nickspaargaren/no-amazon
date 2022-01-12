@@ -1101,6 +1101,8 @@ marketing.amazon.com
 mas-ext.amazon.com
 mas-sdk.amazon.com
 master-mainserver-1943019976.us-west-2.elb.amazonaws.com
+server-204-246-164-0.sin2.r.cloudfront.net
+server-204-246-168-0.jfk1.r.cloudfront.net
 match.adsrvr.org
 match.rundsp.com
 match.xg4ken.com
@@ -2842,5 +2844,3 @@ dff7tx5c2qbxc.cloudfront.net
 dl1d2m8ri9v3j.cloudfront.net
 dz2fz0bgyq9tn.cloudfront.net
 dzpu6za66svjl.cloudfront.net
-server-204-246-164-0.sin2.r.cloudfront.net
-server-204-246-168-0.jfk1.r.cloudfront.net
