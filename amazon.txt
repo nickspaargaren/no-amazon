@@ -322,7 +322,6 @@ amazon34.duckdns.org
 certify-js.alexametrics.com
 alexametrics.com
 s3.amazonaws.com
-s3.amazonaws.com
 pacontainer.s3.amazonaws.com
 cloudfront-labs.amazonaws.com
 fkrkkmxsqeb5bj9r.s3.amazonaws.com
