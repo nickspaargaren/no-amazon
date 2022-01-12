@@ -1,5 +1,4 @@
 _domainkey.amazonaws.com
-cdn.jsdelivr.net
 154-10.amazon.com
 154-100.amazon.com
 154-101.amazon.com
@@ -2845,6 +2844,3 @@ dz2fz0bgyq9tn.cloudfront.net
 dzpu6za66svjl.cloudfront.net
 server-204-246-164-0.sin2.r.cloudfront.net
 server-204-246-168-0.jfk1.r.cloudfront.net
-amazon.com
-amazon.de
-amazon.ch
