@@ -315,9 +315,7 @@ mobileanalytics.us-east-1.amazonaws.com
 spyhunter-download.s3.amazonaws.com
 wp-stat.s3.amazonasw.com
 amazon-france.xyz
-amazeamazon.ddns.net
 yourmailamazon99.redirectme.net
-amazon34.duckdns.org
 certify-js.alexametrics.com
 alexametrics.com
 s3.amazonaws.com
