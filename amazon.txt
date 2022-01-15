@@ -356,6 +356,12 @@ abp.smartadcheck.de
 accelerator.amazon.co.uk
 accelerator.amazon.fr
 access.amazonaws.com
+adpublisher.s3.amazonaws.com
+yc-ads.s3.amazonaws.com
+assoc-amazon.com
+nativead.s3.amazonaws.com
+goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
+newsharecounts.s3-us-west-2.amazonaws.com
 ace-ugc-pc-lnch.s3.amazonaws.com
 acsechocaptiveportal.com
 acuity.amazonaws.com
@@ -387,7 +393,6 @@ admp-tc.delfi.lv
 admtpmp127.adsk2.co
 adn.impactradius.com
 adplexmedia.adk2.co
-adpublisher.s3.amazonaws.com
 adrazzi.com
 ads-d.viber.com
 ads-stream.com
@@ -576,7 +581,6 @@ asset.pagefair.net
 assets.loginwithamazon.com
 assets.luminate.com
 assets.tapad.com
-assoc-amazon.com
 assoc-amazon.es
 assoc-eu.associates-amazon.com
 assoc-msdk-us.amazon-adsystem.com
@@ -1160,7 +1164,6 @@ n.targetctracker.com
 n4h9utzk4f.execute-api.us-east-1.amazonaws.com
 napi.lanistaads.com
 nationalpost-com.c.richmetrics.com
-nativead.s3.amazonaws.com
 ncads.s3.amazonaws.com
 neo.go.sonobi.com
 neowin.s3.amazonaws.com
@@ -2250,7 +2253,6 @@ x1.amazonaws.com
 x2.amazonaws.com
 xch.smrtgs.com
 yab-adimages.s3.amazonaws.com
-yc-ads.s3.amazonaws.com
 ycv.clearshieldredirect.com
 yieldmanager.adbooth.com
 yp.amazon.com
