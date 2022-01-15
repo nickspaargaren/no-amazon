@@ -424,6 +424,7 @@ affiliate-program.amazon.com
 affiliationjs.s3.amazonaws.com
 affinity-xml.t.domdex.com
 afftracking.justanswer.com
+airpushmarketing.s3.amazonaws.com
 aiv-cdn.net
 aiv-delivery.net
 alb-aws-fr-bswx-2-1673521430.eu-central-1.elb.amazonaws.com
@@ -809,6 +810,7 @@ drive.amazonaws.com
 drmalb-677588359.eu-west-3.elb.amazonaws.com
 dszw6uu4t9.execute-api.us-east-1.amazonaws.com
 dts.innovid.com
+dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 dualstack.unrealengine-web-gateway-prod-1091263071.us-east-1.elb.amazonaws.com
 dy.adserve.io
 dynamic.cannedbanners.com
@@ -855,6 +857,7 @@ engine.carbonads.com
 engine.nectarads.com
 engine.widespace.com
 engine2.adzerk.net
+epowernetworktrackerimages.s3.amazonaws.com
 es.amazonaws.com
 ets-prd2-uw1-coll-elb-2013165758.us-west-2.elb.amazonaws.com
 eu.api.amazonvideo.com
@@ -922,6 +925,7 @@ g-pixel.invitemedia.com
 g2.gumgum.com
 gamedev.amazon.com
 games.amazon.com
+gateways.s3.amazonaws.com
 gcs.amazonaws.com
 geo.amazonaws.com
 geo.jetpackdigital.com
@@ -1002,6 +1006,8 @@ inscreen.widespace.com
 insight.adsrvr.org
 intbrands.t.domdex.com
 intljs.rmtag.com
+iotanalytics.eu-central-1.amazonaws.com
+iotanalytics.eu-west-1.amazonaws.com
 ir-ca.amazon-adsystem.com
 ir-de.amazon-adsystem.com
 ir-es.amazon-adsystem.com
@@ -1036,6 +1042,7 @@ jwpltx.com
 k.intellitxt.com
 k8s-analysis-lighthou-3f73de8e48-416670195.us-east-1.elb.amazonaws.com
 katie.runtnc.net
+kbnetworkz.s3.amazonaws.com
 kcmo.amazonaws.com
 kdp.amazon.com
 kindle-cpu.com
@@ -1047,6 +1054,8 @@ kindlescout.amazon.com
 kinesis.ap-northeast-1.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 kinesis.us-west-2.amazonaws.com
+kinesisanalytics.eu-central-1.amazonaws.com
+kinesisanalytics.eu-west-1.amazonaws.com
 konnect.videoplaza.tv
 ktpx-eu.amazon.com
 kwserver.adhispanic.com
@@ -1054,6 +1063,7 @@ l.betrad.com
 l.linkpulse.com
 l.sharethis.com
 lambton.amazonaws.com
+later-analytics-reports.s3-accelerate.amazonaws.com
 later.amazonaws.com
 layla.amazon.com
 lc.livefyre.com
@@ -1087,9 +1097,11 @@ mads-eu.amazon.com
 mads.amazon-adsystem.com
 mads.amazon.com
 magnetic.t.domdex.com
+magnify-app.s3.eu-west-2.amazonaws.com
 majestix.amazonaws.com
 mantodea.mantisadnetwork.com
 marketing.amazon.com
+marketingkaizen.s3-eu-west-1.amazonaws.com
 mas-ext.amazon.com
 mas-sdk.amazon.com
 master-mainserver-1943019976.us-west-2.elb.amazonaws.com
@@ -1842,6 +1854,7 @@ sds.amazonaws.com
 sdscdn.userreport.com
 search34.info.com
 seccdn-gl.imrworldwide.com
+secretmedia.s3.amazonaws.com
 secure.adwebster.com
 secureredirect101.com
 seg.sharethis.com
@@ -1869,6 +1882,7 @@ slate-ad-scripts.s3.amazonaws.com
 slckg-2p3vy.ads.tremorhub.com
 sm-campaign.s3-us-west-2.amazonaws.com
 smaato.net
+smblock.s3.amazonaws.com
 smile.amazon.com
 smtp-out.amazonaws.com
 sns.amazonaws.com
@@ -2122,6 +2136,7 @@ webstore.amazon.com
 wenner.collect.igodigital.com
 wesley.amazonaws.com
 wfpscripts.webspectator.com
+whistleout.s3.amazonaws.com
 wholefoodsmarket.co.uk
 wholefoodsmarket.com
 widget-cdn.rpxnow.com
@@ -2303,6 +2318,7 @@ eu-west-2.staging.playback.live-video.net
 eu-west-2.support.contribute.live-video.net
 ext-twitch.tv
 extension-files.twitch.tv
+fan.twitch.tv
 global-contribute-staging.live-video.net
 global-contribute.live-video.net
 global.poe.live-video.net
@@ -2414,6 +2430,7 @@ www.twitch.tv
 yichunc.us-west-2.beta.chat-edge.live-video.net
 # Cloudfront
 cdn.cloudflare.net
+cloudfront.loggly.com
 cloudfront.net
 cloudfront.qualtrics.com
 d10lumateci472.cloudfront.net
@@ -2464,6 +2481,7 @@ d1f05vr3sjsuy7.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
 d1fh3f0kkan5vq.cloudfront.net
 d1fs2ef81chg3.cloudfront.net
+d1grtyyel8f1mh.cloudfront.net
 d1il9t8pu4dsoj.cloudfront.net
 d1ilwohzbe4ao6.cloudfront.net
 d1iskralo6mo11.cloudfront.net
@@ -2547,6 +2565,7 @@ d27tpsznug51gz.cloudfront.net
 d28s7kbgrs6h2f.cloudfront.net
 d29dbajta0the9.cloudfront.net
 d29i6o40xcgdai.cloudfront.net
+d29qt51jeyi6xb.cloudfront.net
 d2axgrpnciinw7.cloudfront.net
 d2c3tmv7yw6ejm.cloudfront.net
 d2c4ylitp1qu24.cloudfront.net
@@ -2597,6 +2616,7 @@ d2q1qtsl33ql2r.cloudfront.net
 d2q52i8yx3j68p.cloudfront.net
 d2q9y3krdwohfj.cloudfront.net
 d2qhg50jab93jy.cloudfront.net
+d2qkpebv23oowx.cloudfront.net
 d2qz7ofajpstv5.cloudfront.net
 d2r3rw91i5z1w9.cloudfront.net
 d2r7bmv6l6bnd1.cloudfront.net
@@ -2640,6 +2660,7 @@ d34rdvn2ky3gnm.cloudfront.net
 d355vwft2pa8h6.cloudfront.net
 d359wjs9dpy12d.cloudfront.net
 d35y7ofb9zmrr6.cloudfront.net
+d36eyd5j1kt1m6.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
 d37abonb6ucrhx.cloudfront.net
 d38goz54x5g9rw.cloudfront.net
@@ -2709,6 +2730,7 @@ d3ud741uvs727m.cloudfront.net
 d3uf8d0lloeluq.cloudfront.net
 d3ujids68p6xmq.cloudfront.net
 d3uqm14ppr8tkw.cloudfront.net
+d3v1lb83psg9di.cloudfront.net
 d3v3bqdndm4erx.cloudfront.net
 d3vnm1492fpnm2.cloudfront.net
 d3vpf6i51y286p.cloudfront.net
