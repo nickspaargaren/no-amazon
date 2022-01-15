@@ -253,6 +253,18 @@ _domainkey.amazonaws.com
 21750.tctm.co
 2664.tm.zedo.com
 28516768.us-east-1.elb.amazonaws.com
+incoming-data-sense360.s3.amazonaws.com
+inneractive-assets.s3.amazonaws.com
+iotanalytics.eu-west-1.amazonaws.com
+iotanalytics.eu-central-1.amazonaws.com
+kinesisanalytics.eu-central-1.amazonaws.com
+kinesis.us-east-1.amazonaws.com
+kinesisanalytics.eu-west-1.amazonaws.com
+later-analytics-reports.s3-accelerate.amazonaws.com
+magnify-app.s3.eu-west-2.amazonaws.com
+mads.amazon-adsystem.com
+marketingkaizen.s3-eu-west-1.amazonaws.com
+mobileanalytics.us-east-1.amazonaws.com
 3-amazonaws.com
 3.amazonaws.com
 3165.tm.zedo.com
@@ -992,12 +1004,10 @@ img.pulsemgr.com
 in.amazon.com
 inbound-smtp.us-west-2.amazonaws.com
 inceptionads.go2cloud.org
-incoming-data-sense360.s3.amazonaws.com
 indium.openx.net
 infinityid.condenastdigital.com
 ing-district.clicktale.net
 init.supersonicads.com
-inneractive-assets.s3.amazonaws.com
 inscreen.widespace.com
 insight.adsrvr.org
 intbrands.t.domdex.com
@@ -1045,7 +1055,6 @@ kindleforpc.amazon.com
 kindlepreview.amazon.com
 kindlescout.amazon.com
 kinesis.ap-northeast-1.amazonaws.com
-kinesis.us-east-1.amazonaws.com
 kinesis.us-west-2.amazonaws.com
 konnect.videoplaza.tv
 ktpx-eu.amazon.com
@@ -1084,7 +1093,6 @@ m6dqx-ad3hl.ads.tremorhub.com
 macie.amazonaws.com
 mackeeper-land-672695126.us-east-1.elb.amazonaws.com
 mads-eu.amazon.com
-mads.amazon-adsystem.com
 mads.amazon.com
 magnetic.t.domdex.com
 majestix.amazonaws.com
@@ -1113,7 +1121,6 @@ metrics.brightcove.com
 mix-test.uts.ngdata.com
 mmtrkpy.com
 mobile.amazonaws.com
-mobileanalytics.us-east-1.amazonaws.com
 mondoads.s3.amazonaws.com
 monitoring.amazonaws.com
 morehitserver.com
@@ -1746,6 +1753,15 @@ rcm-na.amazon-adsystems.com
 rcm.amazon.com
 rdn.amazonaws.com
 rds.amazonaws.com
+airpushmarketing.s3.amazonaws.com
+dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
+epowernetworktrackerimages.s3.amazonaws.com
+gateways.s3.amazonaws.com
+kbnetworkz.s3.amazonaws.com
+sdb.amazonaws.com
+secretmedia.s3.amazonaws.com
+smblock.s3.amazonaws.com
+whistleout.s3.amazonaws.com
 rds.us-east-1.amazonaws.com
 read.amazon.com
 receive.inplay.scanscout.com
@@ -1836,7 +1852,6 @@ script.opentracker.net
 scripts.demandbase.com
 scripts.kissmetrics.com
 scripts.webspectator.com
-sdb.amazonaws.com
 sdk-controller.widespace.com
 sds.amazonaws.com
 sdscdn.userreport.com
@@ -2269,6 +2284,8 @@ ap-south-1.support.contribute.live-video.net
 ap-southeast-1.support.contribute.live-video.net
 api.twitch.tv
 api.twitchsvc.net
+fan.twitch.tv
+spade.twitch.tv
 app.twitch.tv
 appeals-backend-canary.a.twitchcdn.net
 appeals-backend.a.twitchcdn.net
@@ -2343,7 +2360,6 @@ sentinel-desktop.twitchsvc.net
 sentinel-mweb.twitchsvc.net
 sentinel.twitchsvc.net
 spade.sci.twitch.tv
-spade.twitch.tv
 spotlight-assets.twitchcdn.net
 spotlight-udpates.twitchsvc.net
 spotlight-updates.twitchsvc.net
@@ -2415,7 +2431,16 @@ yichunc.us-west-2.beta.chat-edge.live-video.net
 # Cloudfront
 cdn.cloudflare.net
 cloudfront.net
+cloudfront.loggly.com
 cloudfront.qualtrics.com
+d1grtyyel8f1mh.cloudfront.net
+d1zgderxoe1a.cloudfront.net
+d29qt51jeyi6xb.cloudfront.net
+d2qkpebv23oowx.cloudfront.net
+d31qbv1cthcecs.cloudfront.net
+d36eyd5j1kt1m6.cloudfront.net
+d3v1lb83psg9di.cloudfront.net
+d5nxst8fruw4z.cloudfront.net
 d10lumateci472.cloudfront.net
 d10lv7w3g0jvk9.cloudfront.net
 d10nkw6w2k1o10.cloudfront.net
@@ -2513,7 +2538,6 @@ d1ybdlg8aoufn.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1z9autcf703pk.cloudfront.net
 d1zatounuylvwg.cloudfront.net
-d1zgderxoe1a.cloudfront.net
 d1zkodo2u3p4pe.cloudfront.net
 d20903hof2l33q.cloudfront.net
 d20duyjzb7cuoc.cloudfront.net
@@ -2629,7 +2653,6 @@ d30sxnvlkawtwa.cloudfront.net
 d30wo2lffetbp8.cloudfront.net
 d31dn7nfpuwjnm.cloudfront.net
 d31mxuhvwrofft.cloudfront.net
-d31qbv1cthcecs.cloudfront.net
 d31vxm9ubutrmw.cloudfront.net
 d32z5ni8t5127x.cloudfront.net
 d33otidwg56k90.cloudfront.net
@@ -2714,7 +2737,6 @@ d3vnm1492fpnm2.cloudfront.net
 d3vpf6i51y286p.cloudfront.net
 d4ngwggzm3w7j.cloudfront.net
 d5g0nxmbdku6r.cloudfront.net
-d5nxst8fruw4z.cloudfront.net
 d5pb47xzjz3fc.cloudfront.net
 d60y8cj1tje2a.cloudfront.net
 d63a3au5lqmtu.cloudfront.net
