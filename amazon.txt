@@ -2192,6 +2192,8 @@ www.amazon.es.edgekey.net
 www.amazon.fr.edgekey.net
 www.amazon.in.edgekey.net
 www.amazon.nl.edgekey.net
+wwww.amazon.com
+yp.amazon.com
 www.amazonaws.com
 www.applicationsdeliveryupdate.com
 www.asdasda-1426585087.eu-central-1.elb.amazonaws.com
@@ -2247,7 +2249,6 @@ www.whizstats.com
 www.wtp101.com
 www.ytdownloader.com
 www.zergnet.com
-wwww.amazon.com
 x.bidswitch.net
 x1.amazonaws.com
 x2.amazonaws.com
@@ -2255,7 +2256,6 @@ xch.smrtgs.com
 yab-adimages.s3.amazonaws.com
 ycv.clearshieldredirect.com
 yieldmanager.adbooth.com
-yp.amazon.com
 z-fe.amazon-adsystem.com
 z-in.amazon-adsystem.com
 z-na.amazon-adsystems.com
