@@ -2142,6 +2142,8 @@ voice-prod-78694282.us-west-2.elb.amazonaws.com
 voice-prod-clips-393eefd0cba28c270ced0f9587a4f6ae601ca91e.s3.dualstack.us-west-2.amazonaws.com
 vpc.altitude-arena.com
 vungle2-cdn-prod.s3.amazonaws.com
+prod.amcs-tachyon.com
+web.diagnostic.networking.aws.dev
 w.usabilla.com
 w.visualdna.com
 web-clients.mynativeads.com
@@ -2297,6 +2299,18 @@ appeals-backend-canary.a.twitchcdn.net
 appeals-backend.a.twitchcdn.net
 badges.twitch.tv
 blog.twitch.tv
+ext-twitch.tv
+jtvnw.net
+live-video.net
+ttvnw.net
+twitch.okta.com
+twitch.map.fastly.net
+twitchcdn.net
+twitchsvc.net
+ink1001.com
+spade.twitch.tv
+outwitch.com
+twitchguru.us.intellitxt.com
 broadcast.live-video.net
 broadcast.stats.live-video.net
 canary.assets.clips.twitchcdn.net
@@ -2324,7 +2338,6 @@ eu-west-1.staging.playback.live-video.net
 eu-west-2.playback.live-video.net
 eu-west-2.staging.playback.live-video.net
 eu-west-2.support.contribute.live-video.net
-ext-twitch.tv
 extension-files.twitch.tv
 fan.twitch.tv
 global-contribute-staging.live-video.net
@@ -2336,9 +2349,7 @@ help.twitch.tv
 hove.us-west-2.beta.chat-edge.live-video.net
 images.twitchcdn.net
 irc-ws.chat.twitch.tv
-jtvnw.net
 jtvnw.twitchcdn.net
-live-video.net
 login.twitch.tv
 m.twitch.tv
 m.twitchcdn.net
@@ -2367,7 +2378,6 @@ sentinel-desktop.twitchsvc.net
 sentinel-mweb.twitchsvc.net
 sentinel.twitchsvc.net
 spade.sci.twitch.tv
-spade.twitch.tv
 spotlight-assets.twitchcdn.net
 spotlight-udpates.twitchsvc.net
 spotlight-updates.twitchsvc.net
@@ -2390,10 +2400,7 @@ streams.twitch.tv
 telegraph.twitch.tv
 test.stg.support.contribute.live-video.net
 trowel.twitch.tv
-ttvnw.net
-twitch.map.fastly.net
 twitch.tv
-twitchcdn.net
 twitchmediagroup.com
 us-east-1.playback.live-video.net
 us-east-1.staging.playback.live-video.net
@@ -2437,6 +2444,10 @@ www-cdn.jtvnw.net
 www.twitch.tv
 yichunc.us-west-2.beta.chat-edge.live-video.net
 # Cloudfront
+d3p8zr0ffa9t17.cloudfront.net
+dxz5jxhrrzigf.cloudfront.net
+d25xi40x97liuc.cloudfront.net
+dmqdd6hw24ucf.cloudfront.net
 dsh7ky7308k4b.cloudfront.net
 d2o9ozfswytaqz.cloudfront.net
 dsms0mj1bbhn4.cloudfront.net
@@ -2785,7 +2796,6 @@ d3nel6rcmq5lzw.cloudfront.net
 d3nvrqlo8rj1kw.cloudfront.net
 d3ou4areduq72f.cloudfront.net
 d3p8w7to4066sy.cloudfront.net
-d3p8zr0ffa9t17.cloudfront.net
 d3pe8wzpurrzss.cloudfront.net
 d3pk579obpqv7b.cloudfront.net
 d3pvcolmug0tz6.cloudfront.net
