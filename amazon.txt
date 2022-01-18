@@ -1964,6 +1964,7 @@ stream1.livefyre.com
 stream1.marketwatch.fyre.co
 strikeadcdn.s3.amazonaws.com
 sts.amazonaws.com
+1faax-us-east.amazon-adsystem.com
 studios.amazon.com
 sumome.com
 support.amazonaws.com
@@ -2446,8 +2447,10 @@ yichunc.us-west-2.beta.chat-edge.live-video.net
 # Cloudfront
 d3p8zr0ffa9t17.cloudfront.net
 dxz5jxhrrzigf.cloudfront.net
+d3dkhq0wwdwodv.cloudfront.net
 d25xi40x97liuc.cloudfront.net
 dmqdd6hw24ucf.cloudfront.net
+d3lvir7538n0oi.cloudfront.net
 dsh7ky7308k4b.cloudfront.net
 d2o9ozfswytaqz.cloudfront.net
 dsms0mj1bbhn4.cloudfront.net
