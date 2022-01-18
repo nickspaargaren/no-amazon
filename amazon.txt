@@ -593,7 +593,9 @@ associates-amazon.com
 associates.amazon.com
 ast.amazonaws.com
 astore.amazon.com
+atv-ext.amazon.com
 async01.admantx.com
+atv-ext-fe.amazon.com
 atrk.alexametrics.com
 ats.amazonaws.com
 atv-ext-eu.amazon.com
@@ -1740,14 +1742,20 @@ pixel.watch
 pixel.yabidos.com
 pixelservice.apphb.com
 pixiedust.buzzfeed.com
+atv-ps.amazon.com
 pki.amazon.com
+pv-cdn.net
+aiv-cdn.net
+aiv-cdn.net.c.footprint.net
 pm.w55c.net
+video.a2z.com
 pool.admedo.com
 portal.aws.amazon.com
 powr-counter.herokuapp.com
 preview.leadmediapartners.com
 prime.amazon.com
 prime.amazon.eu
+primevideo.com
 primenow.amazon.com
 prod-0-dailykos-routing-lb-1067863233.us-west-2.elb.amazonaws.com
 prod-js.aws.y-track.com
@@ -1897,6 +1905,7 @@ siniature.com
 site-stats.rbl.ms
 sjs.bizographics.com
 slate-ad-scripts.s3.amazonaws.com
+truecaller-marketing.s3-eu-west-1.amazonaws.com
 slckg-2p3vy.ads.tremorhub.com
 sm-campaign.s3-us-west-2.amazonaws.com
 smaato.net
@@ -2298,6 +2307,7 @@ api.twitchsvc.net
 app.twitch.tv
 appeals-backend-canary.a.twitchcdn.net
 appeals-backend.a.twitchcdn.net
+countess-prod-public-176850629.us-west-2.elb.amazonaws.com
 badges.twitch.tv
 blog.twitch.tv
 ext-twitch.tv
@@ -2615,6 +2625,7 @@ d1nssfq3xl2t6b.cloudfront.net
 d1nx2jii03b4ju.cloudfront.net
 d1oxccu2k3w6jx.cloudfront.net
 d1p3zboe6tz3yy.cloudfront.net
+d3w2id5zlqvvik.cloudfront.net
 d1piupybsgr6dr.cloudfront.net
 d1qc76gneygidm.cloudfront.net
 d1qggq1at2gusn.cloudfront.net
