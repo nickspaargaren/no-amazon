@@ -2085,6 +2085,8 @@ tracking.hubspot.com
 tracking.listhub.net
 tracking.olx-st.com
 tracking.opencandy.com.s3.amazonaws.com
+bv-analytics-js-prod.s3.amazonaws.com
+bv-analytics-js-qa.s3.amazonaws.com
 tracking.optimatic.com
 tracking.percentmobile.com
 tracking.revimedia.com
@@ -2456,6 +2458,7 @@ www.twitch.tv
 yichunc.us-west-2.beta.chat-edge.live-video.net
 # Cloudfront
 d3p8zr0ffa9t17.cloudfront.net
+d1miuq6afqay8u.cloudfront.net
 dxz5jxhrrzigf.cloudfront.net
 d3dkhq0wwdwodv.cloudfront.net
 d25xi40x97liuc.cloudfront.net
@@ -2472,8 +2475,12 @@ d1ac2du043ydir.cloudfront.net
 d1d3jupgwm7m5r.cloudfront.net
 d1fh3f0kkan5vq.cloudfront.net
 d1lxz4vuik53pc.cloudfront.net
+d28nwox1gdjlve.cloudfront.net
 d1nxn87txdj54y.cloudfront.net
+dlp4luwpus5kr.cloudfront.net
 d1syybz12l0mqy.cloudfront.net
+d2p8taqyjofgrq.cloudfront.net
+d2swpuhpwp3khd.cloudfront.net
 d1v9u0bgi1uimx.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d22w7z2ll3p8mg.cloudfront.net
