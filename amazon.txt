@@ -2223,6 +2223,7 @@ www.ec2-35-180-127-210.eu-west-3.compute.amazonaws.com
 www.ec2-52-47-123-197.eu-west-3.compute.amazonaws.com
 www.ec2-54-149-151-196.us-west-2.compute.amazonaws.com
 www.ec2-54-246-59-57.eu-west-1.compute.amazonaws.com
+0bxxaty1ad.execute-api.us-east-1.amazonaws.com
 www.giftfunnew.com
 www.hotdogsandads.com
 www.i.matheranalytics.com
@@ -2491,7 +2492,6 @@ whois.cloudflare.com
 will.ns.cloudflare.com
 www.cloudflare.com
 zara.ns.cloudflare.com
-0bxxaty1ad.execute-api.us-east-1.amazonaws.com
 cloudfront.loggly.com
 cloudfront.net
 cloudfront.qualtrics.com
