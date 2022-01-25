@@ -1164,6 +1164,7 @@ ns-intl-0.awsdns-cn-00.com
 ns-intl-1024.awsdns-cn-00.net
 ntracking.optimatic.com
 nxtcfm.s3.amazonaws.com
+amazon-dss.com
 nz-ssl.effectivemeasure.net
 nzxt-main-site-1987901289.us-west-2.elb.amazonaws.com
 o1.inviziads.com
@@ -1172,6 +1173,7 @@ oasis-track-alb-442894360.us-west-2.elb.amazonaws.com
 ocsp.rootca1.amazontrust.com
 ocsp.rootg2.amazontrust.com
 ocsp.sca1b.amazontrust.com
+amazontrust.com
 of.inviziads.com
 onlgc.voluumtrk.com
 opfcaptcha-prod.s3.amazonaws.com
@@ -1716,6 +1718,7 @@ pixelservice.apphb.com
 pixiedust.buzzfeed.com
 pki.amazon.com
 pm.w55c.net
+aws.com
 pool.admedo.com
 portal.aws.amazon.com
 powr-counter.herokuapp.com
@@ -1723,10 +1726,16 @@ preview.leadmediapartners.com
 prime.amazon.com
 prime.amazon.eu
 primenow.amazon.com
+amazonrobotics.com
+abebooks.com
+abebooks.co.uk
+aboutamazon.com
+audible.com
 prod-0-dailykos-routing-lb-1067863233.us-west-2.elb.amazonaws.com
 prod-js.aws.y-track.com
 prod-services.interactiveone.com
 prod.amazoncrl.com
+amazoncrl.com
 productio-elasticl-35189evuisr9-1896115268.us-west-2.elb.amazonaws.com
 promo.clicnscores.com
 promotions.betfred.com
