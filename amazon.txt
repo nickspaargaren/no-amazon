@@ -308,6 +308,7 @@ aax-us-pdx.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
 aax-us.amazon-adsystem.com
 aax.amazon-adsystem.com
+amazon-adsystem.com
 aax.amazon-adsystems.com
 aax.amazon.com
 abandonment.saas.seewhy.com
@@ -431,10 +432,24 @@ alb-aws-fr-bswx-2-1673521430.eu-central-1.elb.amazonaws.com
 alexa-sitestats.s3.amazonaws.com
 alexa.amazon.com
 alexa.com
+traffic.alexa.com
 alexametrics.com
 amazon-adsystem.amazon.com
-amazon-adsystem.com
 amazon-adsystems.com
+amazon.de
+associates-amazon.com
+www.amazon.de
+opodo.de
+coin-eu.amazonpay.com
+g-ecx.images-amazon.com
+images-amazon.com
+g-ec2.images-amazon.com
+certify-js.alexametrics.com
+fls-eu.amazon.de
+images-eu.ssl-images-amazon.com
+amzn.to
+track.adform.net
+static-eu.payments-amazon.com
 amazon-cornerstone.com
 amazon-france.xyz
 amazon-seo-service.com
@@ -448,7 +463,6 @@ amazon.com
 amazon.com.au
 amazon.com.br
 amazon.com.mx
-amazon.de
 amazon.es
 amazon.eu
 amazon.fr
@@ -540,7 +554,6 @@ assoc-amazon.com
 assoc-amazon.es
 assoc-eu.associates-amazon.com
 assoc-msdk-us.amazon-adsystem.com
-associates-amazon.com
 associates.amazon.com
 ast.amazonaws.com
 astore.amazon.com
@@ -671,7 +684,6 @@ cdn.yb0t.com
 cdn.yldbt.com
 cdn5.js.ad.dotandad.com
 cdws.us-east-1.amazonaws.com
-certify-js.alexametrics.com
 certify.alexametrics.com
 cf.ads.kontextua.com
 cf.effectivemeasure.net
@@ -985,7 +997,6 @@ idvisitor.washingtonpost.com
 ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com
 imads.integral-marketing.com
 images-eu.amazon.com
-images-eu.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images.ads.supplyframe.com
 images.amazon.com
@@ -2190,7 +2201,6 @@ www.amazon.com
 www.amazon.com.edgekey.net
 www.amazon.com.mx.edgekey.net
 www.amazon.com.tr.edgekey.net
-www.amazon.de
 www.amazon.de.edgekey.net
 www.amazon.es.edgekey.net
 www.amazon.fr.edgekey.net
