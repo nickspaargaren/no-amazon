@@ -431,6 +431,16 @@ alb-aws-fr-bswx-2-1673521430.eu-central-1.elb.amazonaws.com
 alexa-sitestats.s3.amazonaws.com
 alexa.amazon.com
 alexa.com
+mas-ssr.amazon.com
+mas-ssr-eu.amazon.com
+aviary.amazon.co.uk
+aviary.amazon.com
+aviary.amazon.de
+msh.amazon
+aviary.amazon
+device-metrics
+msh.amazon.com
+msh.amazon.de
 alexametrics.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
@@ -549,7 +559,6 @@ atrk.alexametrics.com
 ats.amazonaws.com
 atv-ext-eu.amazon.com
 authorcentral.amazon.com
-aviary.amazon.de
 avidtrak.com
 avs.eu.amazonalexa.com
 awis.amazonaws.com
@@ -1131,7 +1140,6 @@ monitoring.amazonaws.com
 morehitserver.com
 motd.pinion.gg
 msh.amazon.co.uk
-msh.amazon.com
 mtrx.go.sonobi.com
 music.amazon.com
 music.amazon.fr
