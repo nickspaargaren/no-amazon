@@ -2293,6 +2293,7 @@ zh1.zeroredirect11.com
 zm1.zeroredirect5.com
 znaptag-us.s3.amazonaws.com
 zs1.zeroredirect1.com
+amzn.to
 # Twitch
 0.us-west-2.beta.chat-edge.live-video.net
 0.us-west-2.gamma.chat-edge.live-video.net
