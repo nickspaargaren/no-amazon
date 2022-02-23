@@ -436,9 +436,7 @@ mas-ssr-eu.amazon.com
 aviary.amazon.co.uk
 aviary.amazon.com
 aviary.amazon.de
-msh.amazon
 aviary.amazon
-device-metrics
 msh.amazon.com
 msh.amazon.de
 alexametrics.com
@@ -787,6 +785,11 @@ delivery-cdn-cf.adswizz.com
 delivery.vidible.tv
 det-ta-g7g.amazon.com
 dev-to.s3.us-east-2.amazonaws.com
+ec2-63-35-76-112.eu-west-1.compute.amazonaws.com
+ec2-54-72-248-64.eu-west-1.compute.amazonaws.com
+ec2-34-241-84-150.eu-west-1.compute.amazonaws.com
+ec2-63-32-155-164.eu-west-1.compute.amazonaws.com
+a92-122-104-90.deploy.static.akamaitechnologies.com
 developer.amazon.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
@@ -2450,6 +2453,10 @@ www.twitch.tv
 yichunc.us-west-2.beta.chat-edge.live-video.net
 # Cloudfront
 cdn.cloudflare.net
+ocsp.comodoca.com.cdn.cloudflare.net
+a.nel.cloudflare.com
+cdn.bncloudfl.com.cdn.cloudflare.net
+cookie.brealtime.com.cdn.cloudflare.net
 ajax.cloudflare.com
 api.cloudflare.com
 beth.ns.cloudflare.com
