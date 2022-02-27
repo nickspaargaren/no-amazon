@@ -250,6 +250,29 @@ _domainkey.amazonaws.com
 178-86.amazon.com
 1go.affec.tv27.0.0.1go.affec.tv
 2.android.pool.ntp.org
+api.eu.amazonalexa.com
+arcus-uswest.amazon.com
+avs-alexa-18-eu.amazon.com
+fireoscaptiveportal.com
+aftv-25-amnazon-aftmm-3248.eu.api.amazonvideo.com
+amazon-b6f3e7027 bob-dispatch-prod-eu.amazon.com
+dp-discovery-na-ext.amazon.com
+dp-gw-na.amazon.com
+fra.t100.prod.ter.amazonvideo.com
+g-exc.images-amazon.com
+images-na.ssl-images-amazon.com
+ktpx-eu.amazon.com
+m.media-amazon.com
+mas-ext-eu.amazon.com
+mas-sdk-eu.amazon.com
+media.amazon.map.fastly.net
+prime.amazon.eu
+ftv-smp.ntp-fireos.com
+kinesis.us-east-1.amazonaws.com
+kraken-measurements.s3-external-1.amazonaws.com
+msh.amazon.co.uk
+unagi-eu.amazon.com
+unagi-na.amazon.com
 21750.tctm.co
 2664.tm.zedo.com
 28516768.us-east-1.elb.amazonaws.com
@@ -483,7 +506,6 @@ glacier.us-west-2.amazonaws.com
 glacier.us-gov-west-1.amazonaws.com
 iam.amazonaws.com
 importexport.amazonaws.com
-kinesis.us-east-1.amazonaws.com
 kinesis.us-west-2.amazonaws.com
 kinesis.ap-northeast-1.amazonaws.com
 kms.us-east-1.amazonaws.com
@@ -648,7 +670,6 @@ appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
 apx.moatads.com
 ar.mytrack.pro
 arc-native-apps.s3.amazonaws.com
-arcus-uswest.amazon.com
 ardrone.swoop.com
 arena.altitude-arena.com
 as.eu.angsrvr.com
@@ -926,8 +947,6 @@ dns.amazonaws.com
 docs.aws.amazon.com
 dove.saymedia.com
 download.ytdownloader.com
-dp-discovery-na-ext.amazon.com
-dp-gw-na.amazon.com
 dp-rsm-prod.amazon.com
 dra.amazon-adsystem.com
 drive.amazonaws.com
@@ -1041,7 +1060,6 @@ frank-comp-na.amazon.com
 fresh.amazon.com
 frontpage-stats.rbl.ms
 ftsherdn-tcaccis.amazonaws.com
-ftv-smp.ntp-fireos.com
 ftvr-na.amazon.com
 fw.adsafeprotected.com
 g-pixel.invitemedia.com
@@ -1108,7 +1126,6 @@ ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com
 imads.integral-marketing.com
 images-eu.amazon.com
 images-eu.ssl-images-amazon.com
-images-na.ssl-images-amazon.com
 images.ads.supplyframe.com
 images.amazon.com
 images1.cliqueclack.com
@@ -1176,7 +1193,6 @@ kindlescout.amazon.com
 kinesisanalytics.eu-central-1.amazonaws.com
 kinesisanalytics.eu-west-1.amazonaws.com
 konnect.videoplaza.tv
-ktpx-eu.amazon.com
 kwserver.adhispanic.com
 l.betrad.com
 l.linkpulse.com
@@ -1208,7 +1224,6 @@ logs-01.loggly.com
 logs.loggly.com
 lt.retargeter.com
 m.amazon.com
-m.media-amazon.com
 m6dqx-ad3hl.ads.tremorhub.com
 macie.amazonaws.com
 mackeeper-land-672695126.us-east-1.elb.amazonaws.com
@@ -1249,7 +1264,6 @@ mondoads.s3.amazonaws.com
 monitoring.amazonaws.com
 morehitserver.com
 motd.pinion.gg
-msh.amazon.co.uk
 msh.amazon.com
 mtrx.go.sonobi.com
 music.amazon.com
@@ -1843,7 +1857,6 @@ portal.aws.amazon.com
 powr-counter.herokuapp.com
 preview.leadmediapartners.com
 prime.amazon.com
-prime.amazon.eu
 primenow.amazon.com
 amazonrobotics.com
 abebooks.com
@@ -2210,7 +2223,6 @@ ecx.images-amazon.com
 firebat-25-aftmm-271593.eu.api.amazonvideo.com
 firebat.api.amazonvideo.com 
 ktpx-naws-eu.amazon.com
-mas-ext-eu.amazon.com
 www.amazon.co.uk
 www.amazon.com
 www.amazon.de
@@ -2221,10 +2233,8 @@ ags-ext.amazon.com
 alexa.amazon.de
 andr-25-aftmm-0.api.amazonvideo.com
 andr-25-aftmm-633004410.api.amazonvideo.com
-api.eu.amazonalexa.com
 appstore-tv-prod-eu.amazon.com
 aviary.amazon.com
-avs-alexa-18-eu.amazon.com
 cdws.eu-west-1.amazonaws.com
 cs-ext-eu.amazon.com
 d21m0ezw6fosyw.cloudfront.net
@@ -2235,17 +2245,13 @@ endeavour.amazon.com
 eu-west-1.telemetry.insights.video.a2z.com
 eu.prism.digital.amazon.dev
 firebat-25-aftmm-291945.eu.api.amazonvideo.com
-fireoscaptiveportal.com
 firetvcaptiveportal.com
 idc-service-oz-eu.amazon.com
-kraken-measurements.s3-external-1.amazonaws.com
 location-services-measurements.s3-external-1.amazonaws.com
 remoteconfig-eu.amazon.com
 sessions.prod.bugs.firebat.prime-video.amazon.dev
 tap-events-kinesis-max-size-breach.s3-external-1.amazonaws.com
 u03lw25r9l.execute-api.us-east-1.amazonaws.com
-unagi-eu.amazon.com
-unagi-na.amazon.com
 wl.amazon-dss.com
 u1.amazonaws.com
 u2.amazonaws.com
