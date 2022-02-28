@@ -2307,7 +2307,6 @@ canary.assets.clips.twitchcdn.net
 client-event-reporter.twitch.tv
 polyfill.twitchsvc.net
 toolkit.twitch-extension-backend.com
-twitch-social-extension.appspot.com
 irc.chat.twitch.tv
 passport.twitch.tv
 twitchxboxrp.twitch.tv
