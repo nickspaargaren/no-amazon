@@ -439,7 +439,6 @@ amazon-adsystems.com
 amazon.de
 associates-amazon.com
 www.amazon.de
-opodo.de
 coin-eu.amazonpay.com
 g-ecx.images-amazon.com
 images-amazon.com
@@ -448,7 +447,6 @@ certify-js.alexametrics.com
 fls-eu.amazon.de
 images-eu.ssl-images-amazon.com
 amzn.to
-track.adform.net
 static-eu.payments-amazon.com
 amazon-cornerstone.com
 amazon-france.xyz
