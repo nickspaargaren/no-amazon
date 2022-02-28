@@ -431,6 +431,14 @@ alb-aws-fr-bswx-2-1673521430.eu-central-1.elb.amazonaws.com
 alexa-sitestats.s3.amazonaws.com
 alexa.amazon.com
 alexa.com
+mas-ssr.amazon.com
+mas-ssr-eu.amazon.com
+aviary.amazon.co.uk
+aviary.amazon.com
+aviary.amazon.de
+aviary.amazon
+msh.amazon.com
+msh.amazon.de
 alexametrics.com
 amazon-adsystem.amazon.com
 amazon-adsystem.com
@@ -549,7 +557,6 @@ atrk.alexametrics.com
 ats.amazonaws.com
 atv-ext-eu.amazon.com
 authorcentral.amazon.com
-aviary.amazon.de
 avidtrak.com
 avs.eu.amazonalexa.com
 awis.amazonaws.com
@@ -778,6 +785,10 @@ delivery-cdn-cf.adswizz.com
 delivery.vidible.tv
 det-ta-g7g.amazon.com
 dev-to.s3.us-east-2.amazonaws.com
+ec2-63-35-76-112.eu-west-1.compute.amazonaws.com
+ec2-54-72-248-64.eu-west-1.compute.amazonaws.com
+ec2-34-241-84-150.eu-west-1.compute.amazonaws.com
+ec2-63-32-155-164.eu-west-1.compute.amazonaws.com
 developer.amazon.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
@@ -1131,7 +1142,6 @@ monitoring.amazonaws.com
 morehitserver.com
 motd.pinion.gg
 msh.amazon.co.uk
-msh.amazon.com
 mtrx.go.sonobi.com
 music.amazon.com
 music.amazon.fr
@@ -2282,6 +2292,7 @@ zh1.zeroredirect11.com
 zm1.zeroredirect5.com
 znaptag-us.s3.amazonaws.com
 zs1.zeroredirect1.com
+amzn.to
 # Twitch
 0.us-west-2.beta.chat-edge.live-video.net
 0.us-west-2.gamma.chat-edge.live-video.net
@@ -2442,6 +2453,10 @@ www.twitch.tv
 yichunc.us-west-2.beta.chat-edge.live-video.net
 # Cloudfront
 cdn.cloudflare.net
+ocsp.comodoca.com.cdn.cloudflare.net
+a.nel.cloudflare.com
+cdn.bncloudfl.com.cdn.cloudflare.net
+cookie.brealtime.com.cdn.cloudflare.net
 ajax.cloudflare.com
 api.cloudflare.com
 beth.ns.cloudflare.com
