@@ -3069,13 +3069,10 @@ server-204-246-168-0.jfk1.r.cloudfront.net
 1dot1dot1dot3.cloudflare-dns.com
 1dot1dot1dot.cloudflare-dns.com
 1dot.cloudflare-dns.com
-ajax.cloudflare.com
 algin.ns.cloudflare-dns.com
 api.cloudflare-dns.com
 azure.cloudflare-dns.com
 bc81c677f335277f324c3ce13a.cloudflare-dns.com
-cdn.cloudflare.net
-cdnjs.cloudflare.com
 chrome.cloudflare-dns.com
 chrome-security.cloudflare-dns.com
 claro.cloudflare-dns.com
@@ -3086,8 +3083,6 @@ cloudflare.net
 cloudflarestatus.com
 com.cdn.cloudflare.net
 commozilla.cloudflare-dns.com
-community.cloudflare.com
-connectmozilla.cloudflare-dns.com
 community.cloudflare.com
 connectmozilla.cloudflare-dns.com
 dot1dot1do1.cloudflare-dns.com
@@ -3125,13 +3120,10 @@ tor.cloudflare-dns.com
 tunnelbear.cloudflare-dns.com
 two.cloudflare-dns.com
 warp.cloudflare-dns.com
-www.cloudflare.com
 www.cloudflare-dns.com
 www.cloudflare.net
 www.cloudflarestatus.com
 youtube.com.cloudflare-dns.com
-cloudfront.net
-d186rixkn5ruba.cloudfront.net
 d1iqki3au1knww.cloudfront.net
 d1mcl48byel3gl.cloudfront.net
 d1oekzkhxk2c7a.cloudfront.net
