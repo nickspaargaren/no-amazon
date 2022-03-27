@@ -2856,3 +2856,14 @@ dzupi9b81okew.cloudfront.net
 dzv1ekshu2vbs.cloudfront.net
 server-204-246-164-0.sin2.r.cloudfront.net
 server-204-246-168-0.jfk1.r.cloudfront.net
+# More
+telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com
+click.dl-now.app
+adserver-prod-1937829349.us-east-2.elb.amazonaws.com
+cdn.krxd.net
+a3bwx220ks5p1x-ats.iot.ap-northeast-1.amazonaws.com
+prod-apne1-jamf-jpt-configs.s3.amazonaws.com
+shared-jamf-jpt-generic-packages.s3.amazonaws.com
+traffic.alexa.com
+mp.twitch.tv
+concierge.analytics.console.aws.a2z.com 
