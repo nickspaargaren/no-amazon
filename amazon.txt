@@ -3162,7 +3162,6 @@ a107avoddashs3ww-a.akamaihd.net
 a38avoddashs3ww-a.akamaihd.net
 s3-dub-2.cf.dash.row.aiv-cdn.net
 m-2543s3.ll.dash.row.aiv-cdn.net
-api.auth.adobe.com
 zwyr157wwiu6eior.com
 api.dkyweipsds.com
 telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com
