@@ -3138,12 +3138,9 @@ aftv-25-amazon-aftmm-4.eu.api.amazonvideo.com
 alexa.amazon.de
 andr-25-aftmm-0.api.amazonvideo.com
 andr-25-aftmm-633004410.api.amazonvideo.com
-api.eu.amazonalexa.com
 eu-west-1.telemetry.insights.video.a2z.com
 eu.prism.digital.amazon.dev
 firebat-25-aftmm-291945.eu.api.amazonvideo.com
-fireoscaptiveportal.com
-firetvcaptiveportal.com
 firetvcaptiveportal.com
 sessions.prod.bugs.firebat.prime-video.amazon.dev
 wl.amazon-dss.com
@@ -3161,7 +3158,6 @@ m-2543s3.ll.dash.row.aiv-cdn.net
 api.auth.adobe.com
 zwyr157wwiu6eior.com
 api.dkyweipsds.com
-wl.amazon-dss.com
 pubster.twitch.tv
 telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com
 cdn.krxd.net
@@ -3183,6 +3179,4 @@ twitch.okta.com
 twitchsvc.net
 ink1001.com
 outwitch.com
-amazon1.qualtrics.com
-amazonde1.qualtrics.com
 cloudfront.qualtrics.com
