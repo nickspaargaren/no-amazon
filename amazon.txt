@@ -268,6 +268,7 @@ _domainkey.amazonaws.com
 841f20eada1de78d939f5f84b3f65502-1712114959.us-west-2.elb.amazonaws.com
 89-194-231-18.gsurfnet.com.br
 96gjjs0zuh.execute-api.us-east-1.amazonaws.com
+982b762063fc2544cee0e2dcd38ecc8013de47c88bca28ae25044c4da969ba8.us-east-1.prod.service.minerva.devices.a2z.com
 a-prod-1469611339-2101282857.eu-west-1.elb.amazonaws.com
 a.adtpix.com
 a.cdn.intentmedia.net
@@ -469,14 +470,15 @@ amazon.in
 amazon.it
 amazon.nl
 amazon.sg
+amazon1.qualtrics.com
 amazonaax.com
-amazonadsi-a.akamaihd.net
 amazonalexa.com
 amazonaws.cn
 amazonaws.com
 amazonaws.com.cn
 amazonclix.com
 amazoncrl.com
+amazonde1.qualtrics.com
 amazonpay.com
 amazonrobotics.com
 amazontrust.com
@@ -520,6 +522,7 @@ api.boomtrain.com
 api.circularhub.com
 api.content-ad.net
 api.demandbase.com
+api.eu-west-1.aiv-delivery.net
 api.eu.amazonalexa.com
 api.iris.tv
 api.lanistaads.com
@@ -707,6 +710,8 @@ cdws.eu-west-1.amazonaws.com
 cdws.us-east-1.amazonaws.com
 certify-js.alexametrics.com
 certify.alexametrics.com
+cf-timedtext.aux.pv-cdn.net
+cf-trickplay.aux.pv-cdn.net
 cf.ads.kontextua.com
 cf.effectivemeasure.net
 checkip.amazonaws.com
@@ -732,6 +737,7 @@ cloudformation.us-west-1.amazonaws.com
 cloudformation.us-west-2.amazonaws.com
 cloudfront-labs.amazonaws.com
 cloudfront.amazonaws.com
+cloudfront.qualtrics.com
 cloudhsm.us-east-1.amazonaws.com
 cloudhsm.us-west-2.amazonaws.com
 cloudsearch.us-east-1.amazonaws.com
@@ -771,6 +777,7 @@ collector.savvyads.com
 com.com
 completion.amazon.com
 compute-1.amazonaws.com
+concierge.analytics.console.aws.a2z.com
 config.parsely.com
 config.us-east-1.amazonaws.com
 configuration-vending.service.amazonsilk.com
@@ -962,6 +969,7 @@ engine2.adzerk.net
 epowernetworktrackerimages.s3.amazonaws.com
 es.amazonaws.com
 ets-prd2-uw1-coll-elb-2013165758.us-west-2.elb.amazonaws.com
+eu-west-1.telemetry.insights.video.a2z.com
 eu.prism.digital.amazon.dev
 eue.collect-opnet.com
 eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
@@ -994,6 +1002,8 @@ firehose.ap-northeast-1.amazonaws.com
 firehose.ap-southeast-2.amazonaws.com
 firehose.eu-central-1.amazonaws.com
 firehose.us-east-1.amazonaws.com
+fireoscaptiveportal.com
+firetvcaptiveportal.com
 firetvdeviceprofilemanagementservice-na.amazon.com
 firs-ta-g7g.amazon.com
 firstaid.amazon.com
@@ -1213,6 +1223,7 @@ logs.loggly.com
 logs.us-east-1.amazonaws.com
 logs.us-west-2.amazonaws.com
 lt.retargeter.com
+m-2543s3.ll.dash.row.aiv-cdn.net
 m.amazon.com
 m.media-amazon.com
 m6dqx-ad3hl.ads.tremorhub.com
@@ -1882,6 +1893,7 @@ ps.ns-cdn.com
 pstats.blogworks.com
 pulse.amazon.com
 purdue.amazon.com
+pv-cdn.net
 px.dynamicyield.com
 qa.stats.webs.com
 queue.amazonaws.com
@@ -1976,7 +1988,11 @@ s3-ap-southeast-1-w.amazonaws.com
 s3-ap-southeast-2-amazonaws.com
 s3-ap-southeast-2-w.amazonaws.com
 s3-deprecated-sa-east-1.amazonaws.com
+s3-dub-2.cf.dash.row.aiv-cdn.net
+s3-dub-2.cf.trailer.row.aiv-cdn.net
+s3-dub-2.cf.videorolls.row.aiv-cdn.net
 s3-eu-west-1.amazonaws.com
+s3-iad-2.cf.trailer.row.aiv-cdn.net
 s3-sa-east-1-w.amazonaws.com
 s3-us-gov-west-1.amazonaws.com
 s3-us-west-1-r-w.amazonaws.com
@@ -2186,6 +2202,8 @@ tar.tradedoubler.com
 target.amazonaws.com
 teachingcomemail.s3.amazonaws.com
 techvalidateproduction0-744364824.us-west-2.elb.amazonaws.com
+telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com
+ters.eu-west-1.aiv-delivery.net
 tf-lb-20171109165411125400000001-440806643.us-east-1.elb.amazonaws.com
 thebenjamin.s3.amazonaws.com
 theinternetworksltd-news.t.domdex.com
@@ -2254,6 +2272,7 @@ tracking.sokrati.com
 tracking.websitealive.com
 tracking2.channeladvisor.com
 traffic-offers.com
+traffic.alexa.com
 traffic.pubexchange.com
 traffic.shareaholic.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
@@ -2313,6 +2332,7 @@ vid-io-dub.springserve.com
 vid-io.springserve.net
 vid.springserve.com
 videe.tv
+video.a2z.com
 viewerstats.docstoc.com.s3.amazonaws.com
 vml1.s3.amazonaws.com
 voice-prod-78694282.us-west-2.elb.amazonaws.com
@@ -3113,32 +3133,10 @@ andr.eu.ec.api.amazonvideo.com
 eu.api.amazonvideo.com
 ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com
 # More
-fireoscaptiveportal.com
-982b762063fc2544cee0e2dcd38ecc8013de47c88bca28ae25044c4da969ba8.us-east-1.prod.service.minerva.devices.a2z.com
-eu-west-1.telemetry.insights.video.a2z.com
-firetvcaptiveportal.com
 wl.amazon-dss.com
-api.eu-west-1.aiv-delivery.net
-cf-trickplay.aux.pv-cdn.net
-cf-timedtext.aux.pv-cdn.net
-s3-iad-2.cf.trailer.row.aiv-cdn.net
-s3-dub-2.cf.trailer.row.aiv-cdn.net
-s3-dub-2.cf.videorolls.row.aiv-cdn.net
-ters.eu-west-1.aiv-delivery.net
-a107avoddashs3ww-a.akamaihd.net
-a38avoddashs3ww-a.akamaihd.net
-s3-dub-2.cf.dash.row.aiv-cdn.net
-m-2543s3.ll.dash.row.aiv-cdn.net
 zwyr157wwiu6eior.com
 api.dkyweipsds.com
-telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com
 cdn.krxd.net
-traffic.alexa.com
-concierge.analytics.console.aws.a2z.com
-amazon1.qualtrics.com
-amazonde1.qualtrics.com
-pv-cdn.net
-video.a2z.com
 primevideo.com
 prod.amcs-tachyon.com
 web.diagnostic.networking.aws.dev
@@ -3146,4 +3144,3 @@ twitch.okta.com
 twitchsvc.net
 ink1001.com
 outwitch.com
-cloudfront.qualtrics.com
