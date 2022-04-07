@@ -3135,9 +3135,3 @@ andr-59e19706d5-968e2d5b08687bf4-a86b2c24f191cc7b6b-2610163.eu.api.amazonvideo.c
 andr.eu.ec.api.amazonvideo.com
 eu.api.amazonvideo.com
 ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com
-# More
-wl.amazon-dss.com
-cdn.krxd.net
-prod.amcs-tachyon.com
-web.diagnostic.networking.aws.dev
-twitch.okta.com
