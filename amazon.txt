@@ -3048,6 +3048,15 @@ dhk392xr5kwlc.cloudfront.net
 dj1rg9ymqb58z.cloudfront.net
 dnere6g15e5vs.cloudfront.net
 www.cloudfront.net
+telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com
+adserver-prod-1937829349.us-east-2.elb.amazonaws.com
+cdn.krxd.net
+a3bwx220ks5p1x-ats.iot.ap-northeast-1.amazonaws.com
+prod-apne1-jamf-jpt-configs.s3.amazonaws.com
+shared-jamf-jpt-generic-packages.s3.amazonaws.com
+traffic.alexa.com
+mp.twitch.tv
+concierge.analytics.console.aws.a2z.com 
 media.amazon.map.fastly.netimages-eu.ssl-images-amazon.com
 media.amazon.map.fastly.netm.media-amazon.com
 amazon1.qualtrics.com 
