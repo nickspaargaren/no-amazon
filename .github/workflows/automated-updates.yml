@@ -1,0 +1,47 @@
+name: Update automated lists
+on:
+  push:
+    branches:
+        - master
+    paths:
+      - 'amazon.txt'
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+    - uses: actions/checkout@v2
+      name: Python setup
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Update categories
+      run: |
+        python3 convert.py categories
+    - name: Commit categories
+      run: |
+        git config --global user.name 'Nick Spaargaren'
+        git config --global user.email 'nickspaargaren@users.noreply.github.com'
+        git add . && git commit -am "Automated categories update"
+        git push
+    - name: Update AdGuard list
+      run: |
+        python3 convert.py adguard
+    - name: Commit AdGuard list
+      run: |
+        git add . && git commit -am "Automated AdGuard list update"
+        git push
+    - name: Update parsed list
+      run: |
+        python3 convert.py pihole
+    - name: Commit parsed list
+      run: |
+        git add . && git commit -am "Automated parsed list update"
+        git push
+    - name: Update Unbound list
+      run: |
+        python3 convert.py unbound
+    - name: Commit parsed list
+      run: |
+        git add . && git commit -am "Automated Unbound list update"
+        git push
