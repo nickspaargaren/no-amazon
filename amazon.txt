@@ -2857,6 +2857,5 @@ dzv1ekshu2vbs.cloudfront.net
 server-204-246-164-0.sin2.r.cloudfront.net
 server-204-246-168-0.jfk1.r.cloudfront.net
 # More
-amazon.map.fastly.net
 media.amazon.map.fastly.netimages-eu.ssl-images-amazon.com
 media.amazon.map.fastly.netm.media-amazon.com
