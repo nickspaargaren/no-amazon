@@ -2892,7 +2892,6 @@ api.eu.amazonalexa.com
 avs-alexa-18-eu.amazon.com
 fireoscaptiveportal.com
 aftv-25-amnazon-aftmm-3248.eu.api.amazonvideo.com
-amazon-b6f3e7027 bob-dispatch-prod-eu.amazon.com
 fra.t100.prod.ter.amazonvideo.com
 g-exc.images-amazon.com
 mas-ext-eu.amazon.com
@@ -3015,8 +3014,8 @@ ab2xb7ra6e44.eu.api.amazonvideo.com
 api.amazon.de
 ecx.images-amazon.com
 firebat-25-aftmm-271593.eu.api.amazonvideo.com
-firebat.api.amazonvideo.com 
-ktpx-eu.amazon.com 
+firebat.api.amazonvideo.com
+ktpx-eu.amazon.com
 ktpx-naws-eu.amazon.com
 mas-ext-eu.amazon.com
 ktpx-naws-eu.amazon.com
@@ -3062,7 +3061,7 @@ ters.eu-west-1.aiv-delivery.net
 a107avoddashs3ww-a.akamaihd.net
 a38avoddashs3ww-a.akamaihd.net
 s3-dub-2.cf.dash.row.aiv-cdn.net
-m-2543s3.ll.dash.row.aiv-cdn.net 
+m-2543s3.ll.dash.row.aiv-cdn.net
 api.auth.adobe.com
 zwyr157wwiu6eior.com
 api.dkyweipsds.com
@@ -3112,10 +3111,10 @@ prod-apne1-jamf-jpt-configs.s3.amazonaws.com
 shared-jamf-jpt-generic-packages.s3.amazonaws.com
 traffic.alexa.com
 mp.twitch.tv
-concierge.analytics.console.aws.a2z.com 
+concierge.analytics.console.aws.a2z.com
 media.amazon.map.fastly.netimages-eu.ssl-images-amazon.com
 media.amazon.map.fastly.netm.media-amazon.com
-amazon1.qualtrics.com 
+amazon1.qualtrics.com
 amazonde1.qualtrics.com
 ec2-54-158-118-216.compute-1.amazonaws.com
 ec2-54-234-69-45.compute-1.amazonaws.com
