@@ -2908,7 +2908,6 @@ twitch.okta.com
 twitchsvc.net
 ink1001.com
 outwitch.com
-twitchguru.us.intellitxt.com
 d23yon11msnwwl.cloudfront.net
 d3fr49y3ejekk5.cloudfront.net
 d3jspkulkfw0bk.cloudfront.net
