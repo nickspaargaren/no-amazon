@@ -2894,7 +2894,6 @@ guipitan.amazon.com
 cdn-simpli-fi.s3-accelerate.amazonaws.com
 atv-ps.amazon.com
 pv-cdn.net
-aiv-cdn.net.c.footprint.net
 video.a2z.com
 primevideo.com
 truecaller-marketing.s3-eu-west-1.amazonaws.com
