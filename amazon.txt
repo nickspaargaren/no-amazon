@@ -2317,6 +2317,12 @@ broadcast.live-video.net
 broadcast.stats.live-video.net
 canary.assets.clips.twitchcdn.net
 client-event-reporter.twitch.tv
+polyfill.twitchsvc.net
+toolkit.twitch-extension-backend.com
+irc.chat.twitch.tv
+passport.twitch.tv
+twitchxboxrp.twitch.tv
+pubsub-edge.twitch.tv
 clips-media-assets2.twitch.tv
 clips.twitch.tv
 contribute.live-video.net
@@ -2362,14 +2368,11 @@ mil.contribute.live-video.net
 minixperiment.twitch.tv
 music.twitch.tv
 p.twitchcdn.net
-passport.twitch.tv
 player.live-video.net
 player.stats.live-video.net
 player.twitch.tv
 poe.live-video.net
-polyfill.twitchsvc.net
 production.assets.clips.twitchcdn.net
-pubsub-edge.twitch.tv
 radio-assets.twitchcdn.net
 radio.twitchsvc.net
 rist-staging.live-video.net
