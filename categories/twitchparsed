@@ -59,6 +59,7 @@ help.twitch.tv
 hove.us-west-2.beta.chat-edge.live-video.net
 images.twitchcdn.net
 irc-ws.chat.twitch.tv
+irc.chat.twitch.tv
 jtvnw.net
 jtvnw.twitchcdn.net
 live-video.net
@@ -67,6 +68,7 @@ m.twitch.tv
 m.twitchcdn.net
 mil.contribute.live-video.net
 minixperiment.twitch.tv
+mp.twitch.tv
 music.twitch.tv
 p.twitchcdn.net
 passport.twitch.tv
@@ -76,6 +78,7 @@ player.twitch.tv
 poe.live-video.net
 polyfill.twitchsvc.net
 production.assets.clips.twitchcdn.net
+pubster.twitch.tv
 pubsub-edge.twitch.tv
 radio-assets.twitchcdn.net
 radio.twitchsvc.net
@@ -112,12 +115,15 @@ stats.jtvnw.net
 streams.twitch.tv
 telegraph.twitch.tv
 test.stg.support.contribute.live-video.net
+toolkit.twitch-extension-backend.com
 trowel.twitch.tv
 ttvnw.net
 twitch.map.fastly.net
 twitch.tv
 twitchcdn.net
 twitchmediagroup.com
+twitchsvc.net
+twitchxboxrp.twitch.tv
 us-east-1.playback.live-video.net
 us-east-1.staging.playback.live-video.net
 us-east-2.stg.support.contribute.live-video.net
