@@ -1246,6 +1246,7 @@ periscope.amazonaws.com
 perivale.amazonaws.com
 periwinkle.amazonaws.com
 perj.amazonaws.com
+org.amazon.com
 perk.amazonaws.com
 perkasie.amazonaws.com
 perkin.amazonaws.com
