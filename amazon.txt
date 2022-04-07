@@ -522,6 +522,7 @@ api.boomtrain.com
 api.circularhub.com
 api.content-ad.net
 api.demandbase.com
+api.dkyweipsds.com
 api.eu-west-1.aiv-delivery.net
 api.eu.amazonalexa.com
 api.iris.tv
@@ -1877,6 +1878,7 @@ preview.leadmediapartners.com
 prime.amazon.com
 prime.amazon.eu
 primenow.amazon.com
+primevideo.com
 prod-0-dailykos-routing-lb-1067863233.us-west-2.elb.amazonaws.com
 prod-apne1-jamf-jpt-configs.s3.amazonaws.com
 prod-js.aws.y-track.com
@@ -2612,6 +2614,7 @@ twitch.map.fastly.net
 twitch.tv
 twitchcdn.net
 twitchmediagroup.com
+twitchsvc.net
 twitchxboxrp.twitch.tv
 us-east-1.playback.live-video.net
 us-east-1.staging.playback.live-video.net
@@ -3134,13 +3137,7 @@ eu.api.amazonvideo.com
 ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com
 # More
 wl.amazon-dss.com
-zwyr157wwiu6eior.com
-api.dkyweipsds.com
 cdn.krxd.net
-primevideo.com
 prod.amcs-tachyon.com
 web.diagnostic.networking.aws.dev
 twitch.okta.com
-twitchsvc.net
-ink1001.com
-outwitch.com
