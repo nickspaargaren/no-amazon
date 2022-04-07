@@ -3130,13 +3130,7 @@ dzv1ekshu2vbs.cloudfront.net
 server-204-246-164-0.sin2.r.cloudfront.net
 server-204-246-168-0.jfk1.r.cloudfront.net
 www.cloudfront.net
-# amazonvideo
-amazonvideo.com
-andr-59e19706d5-968e2d5b08687bf4-a86b2c24f191cc7b6b-2610163.eu.api.amazonvideo.com
-andr.eu.ec.api.amazonvideo.com
-eu.api.amazonvideo.com
-ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com
-# amazonvideo
+# Amazonvideo
 aftv-25-amnazon-aftmm-3248.eu.api.amazonvideo.com
 fra.t100.prod.ter.amazonvideo.com
 ab2xb7ra6e44.eu.api.amazonvideo.com
@@ -3146,6 +3140,11 @@ aftv-25-amazon-aftmm-4.eu.api.amazonvideo.com
 andr-25-aftmm-0.api.amazonvideo.com
 andr-25-aftmm-633004410.api.amazonvideo.com
 firebat-25-aftmm-291945.eu.api.amazonvideo.com
+amazonvideo.com
+andr-59e19706d5-968e2d5b08687bf4-a86b2c24f191cc7b6b-2610163.eu.api.amazonvideo.com
+andr.eu.ec.api.amazonvideo.com
+eu.api.amazonvideo.com
+ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com
 # More
 fireoscaptiveportal.com
 982b762063fc2544cee0e2dcd38ecc8013de47c88bca28ae25044c4da969ba8.us-east-1.prod.service.minerva.devices.a2z.com
