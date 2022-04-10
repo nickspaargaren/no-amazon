@@ -3144,7 +3144,6 @@ s3-1.amazonaws.com
 concierge.analytics.console.aws.a2z.com
 pinpoint.us-east-1.amazonaws.com
 mas-ext.amazon.com
-c.media-amazon.com
 fls-na.amazon.com
 dcape-na.amazon.com
 msh.amazon.com
