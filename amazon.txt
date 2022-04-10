@@ -3135,3 +3135,20 @@ andr-59e19706d5-968e2d5b08687bf4-a86b2c24f191cc7b6b-2610163.eu.api.amazonvideo.c
 andr.eu.ec.api.amazonvideo.com
 eu.api.amazonvideo.com
 ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com
+# More
+traffic.alexa.com
+mp.twitch.tv
+kinesis.us-east-1.amazonaws.com
+s3.amazonaws.com
+s3-1.amazonaws.com
+concierge.analytics.console.aws.a2z.com
+pinpoint.us-east-1.amazonaws.com
+mas-ext.amazon.com
+c.media-amazon.com
+fls-na.amazon.com
+api.amazonalexa.com
+dcape-na.amazon.com
+arcus-uswest.amazon.com
+msh.amazon.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
