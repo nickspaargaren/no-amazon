@@ -3146,7 +3146,6 @@ pinpoint.us-east-1.amazonaws.com
 mas-ext.amazon.com
 c.media-amazon.com
 fls-na.amazon.com
-api.amazonalexa.com
 dcape-na.amazon.com
 arcus-uswest.amazon.com
 msh.amazon.com
