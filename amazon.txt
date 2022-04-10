@@ -3147,7 +3147,6 @@ mas-ext.amazon.com
 c.media-amazon.com
 fls-na.amazon.com
 dcape-na.amazon.com
-arcus-uswest.amazon.com
 msh.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
