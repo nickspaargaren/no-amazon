@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-# Last updated: 2022-04-07
+# Last updated: 2022-05-02
 # Twitch
 
 0.us-west-2.beta.chat-edge.live-video.net
@@ -118,6 +118,7 @@ test.stg.support.contribute.live-video.net
 toolkit.twitch-extension-backend.com
 trowel.twitch.tv
 ttvnw.net
+twitch.com
 twitch.map.fastly.net
 twitch.tv
 twitchcdn.net
