@@ -3205,6 +3205,7 @@
 ||13thfloor.imdb.com^
 ||6degrees.imdb.com^
 ||addpro.imdb.com^
+||admin.boxofficemojo.com^
 ||admin.imdb.com^
 ||akas.imdb.com^
 ||allocine.imdb.com^
@@ -3330,6 +3331,7 @@
 ||poll.imdb.com^
 ||portuguese.imdb.com^
 ||posters.imdb.com^
+||preview.boxofficemojo.com^
 ||primevideo-dp-na-gamma.imdb.com^
 ||primevideo-dp-na.imdb.com^
 ||pro-labs.imdb.com^
@@ -3346,6 +3348,7 @@
 ||royalrumble.imdb.com^
 ||rss.imdb.com^
 ||scoot.imdb.com^
+||secure.boxofficemojo.com^
 ||secure.imdb.com^
 ||shonext.imdb.com^
 ||showtime.imdb.com^
@@ -3370,7 +3373,9 @@
 ||webtv.imdb.com^
 ||widgets.imdb.com^
 ||www.amazon.imdb.com^
+||www.boxofficemojo.com^
 ||www.imdb.com^
 ||www.uk.imdb.com^
 ||www.us.imdb.com^
+||www2.boxofficemojo.com^
 ||yoursay.imdb.com^
