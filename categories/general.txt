@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-# Last updated: 2022-04-07
+# Last updated: 2022-05-02
 # General
 
 0.0.0.0 _domainkey.amazonaws.com
@@ -456,23 +456,74 @@
 0.0.0.0 amazon-france.xyz
 0.0.0.0 amazon-seo-service.com
 0.0.0.0 amazon.ae
+0.0.0.0 amazon.at
 0.0.0.0 amazon.au
 0.0.0.0 amazon.ca
+0.0.0.0 amazon.ch
+0.0.0.0 amazon.clothing
 0.0.0.0 amazon.cn
+0.0.0.0 amazon.co
 0.0.0.0 amazon.co.jp
 0.0.0.0 amazon.co.uk
 0.0.0.0 amazon.com
 0.0.0.0 amazon.com.au
 0.0.0.0 amazon.com.br
 0.0.0.0 amazon.com.mx
+0.0.0.0 amazon.company
+0.0.0.0 amazon.cruises
+0.0.0.0 amazon.cz
 0.0.0.0 amazon.de
+0.0.0.0 amazon.dk
+0.0.0.0 amazon.dog
+0.0.0.0 amazon.energy
 0.0.0.0 amazon.es
 0.0.0.0 amazon.eu
+0.0.0.0 amazon.express
 0.0.0.0 amazon.fr
+0.0.0.0 amazon.fund
+0.0.0.0 amazon.game
+0.0.0.0 amazon.gd
+0.0.0.0 amazon.gent
+0.0.0.0 amazon.gr
+0.0.0.0 amazon.hockey
+0.0.0.0 amazon.hu
+0.0.0.0 amazon.id
+0.0.0.0 amazon.ie
 0.0.0.0 amazon.in
+0.0.0.0 amazon.international
+0.0.0.0 amazon.io
 0.0.0.0 amazon.it
+0.0.0.0 amazon.jobs
+0.0.0.0 amazon.jp
+0.0.0.0 amazon.kiwi
+0.0.0.0 amazon.kr
+0.0.0.0 amazon.ltda
+0.0.0.0 amazon.lu
+0.0.0.0 amazon.me
+0.0.0.0 amazon.mk
+0.0.0.0 amazon.mx
 0.0.0.0 amazon.nl
+0.0.0.0 amazon.no
+0.0.0.0 amazon.or
+0.0.0.0 amazon.pl
+0.0.0.0 amazon.press
+0.0.0.0 amazon.pt
+0.0.0.0 amazon.re
+0.0.0.0 amazon.ro
+0.0.0.0 amazon.rs
+0.0.0.0 amazon.ru
+0.0.0.0 amazon.sa
+0.0.0.0 amazon.salon
 0.0.0.0 amazon.sg
+0.0.0.0 amazon.shoophing
+0.0.0.0 amazon.soccer
+0.0.0.0 amazon.su
+0.0.0.0 amazon.tickets
+0.0.0.0 amazon.tienda
+0.0.0.0 amazon.tours
+0.0.0.0 amazon.training
+0.0.0.0 amazon.tv
+0.0.0.0 amazon.wiki
 0.0.0.0 amazon1.qualtrics.com
 0.0.0.0 amazonaax.com
 0.0.0.0 amazonalexa.com
@@ -482,7 +533,9 @@
 0.0.0.0 amazonclix.com
 0.0.0.0 amazoncrl.com
 0.0.0.0 amazonde1.qualtrics.com
+0.0.0.0 amazoninspire.com
 0.0.0.0 amazonpay.com
+0.0.0.0 amazonpay.in
 0.0.0.0 amazonrobotics.com
 0.0.0.0 amazontrust.com
 0.0.0.0 ambassador-production-v2-elb-506154624.eu-central-1.elb.amazonaws.com
@@ -593,6 +646,8 @@
 0.0.0.0 aws.amazon.com
 0.0.0.0 aws.amazonaws.com
 0.0.0.0 aws.com
+0.0.0.0 awscloud.com
+0.0.0.0 awsevents.net
 0.0.0.0 awsstatic.com
 0.0.0.0 axp.zedo.com
 0.0.0.0 b.ensighten.com
@@ -779,6 +834,7 @@
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector.savvyads.com
 0.0.0.0 com.com
+0.0.0.0 comixology.com
 0.0.0.0 completion.amazon.com
 0.0.0.0 compute-1.amazonaws.com
 0.0.0.0 concierge.analytics.console.aws.a2z.com
@@ -806,6 +862,7 @@
 0.0.0.0 countess-prod-public-176850629.us-west-2.elb.amazonaws.com
 0.0.0.0 coursematerials.amazon.com
 0.0.0.0 create.leadid.com
+0.0.0.0 createspace.com
 0.0.0.0 creatives.ancoraplatform.com
 0.0.0.0 creatives.s3.amazonaws.com
 0.0.0.0 crossyroadrageanalytics-157863293.us-east-1.elb.amazonaws.com
@@ -875,6 +932,7 @@
 0.0.0.0 dp-discovery-na-ext.amazon.com
 0.0.0.0 dp-gw-na.amazon.com
 0.0.0.0 dp-rsm-prod.amazon.com
+0.0.0.0 dpreview.com
 0.0.0.0 dra.amazon-adsystem.com
 0.0.0.0 drive.amazonaws.com
 0.0.0.0 drmalb-677588359.eu-west-3.elb.amazonaws.com
@@ -987,6 +1045,7 @@
 0.0.0.0 exitsplash.s3.amazonaws.com
 0.0.0.0 f.media-amazon.com
 0.0.0.0 f.monetate.net
+0.0.0.0 fabric.com
 0.0.0.0 fastdownload10.com
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fastnclick.com
@@ -1073,6 +1132,7 @@
 0.0.0.0 go.sonobi.com
 0.0.0.0 go.tracksz.co
 0.0.0.0 gonzogrape.gumgum.com
+0.0.0.0 goodreads.com
 0.0.0.0 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 goshawk.amazonaws.com
 0.0.0.0 granite.amazonaws.com
@@ -1166,6 +1226,7 @@
 0.0.0.0 js4.ringrevenue.com
 0.0.0.0 json4.ringrevenue.com
 0.0.0.0 jump.aragontrack.com
+0.0.0.0 junglee.com
 0.0.0.0 jwpltx.com
 0.0.0.0 k.intellitxt.com
 0.0.0.0 k8s-analysis-lighthou-3f73de8e48-416670195.us-east-1.elb.amazonaws.com
@@ -1287,6 +1348,7 @@
 0.0.0.0 msh.amazon.com
 0.0.0.0 msh.amazon.de
 0.0.0.0 mtrx.go.sonobi.com
+0.0.0.0 mturk.com
 0.0.0.0 music.amazon.com
 0.0.0.0 music.amazon.fr
 0.0.0.0 mws.amazonaws.com
@@ -2034,6 +2096,7 @@
 0.0.0.0 sds.amazonaws.com
 0.0.0.0 sdscdn.userreport.com
 0.0.0.0 search34.info.com
+0.0.0.0 seattlespheres.com
 0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 secretmedia.s3.amazonaws.com
 0.0.0.0 secure.adwebster.com
@@ -2057,6 +2120,7 @@
 0.0.0.0 shareaholic.com
 0.0.0.0 shared-jamf-jpt-generic-packages.s3.amazonaws.com
 0.0.0.0 sharedid-2070269664.us-east-1.elb.amazonaws.com
+0.0.0.0 shopbop.com
 0.0.0.0 sift-campaign-creatives.s3.amazonaws.com
 0.0.0.0 sikkim.amazonaws.com
 0.0.0.0 simplora-recipe-transfer-scripts.s3.amazonaws.com
@@ -2208,6 +2272,7 @@
 0.0.0.0 teachingcomemail.s3.amazonaws.com
 0.0.0.0 techvalidateproduction0-744364824.us-west-2.elb.amazonaws.com
 0.0.0.0 telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com
+0.0.0.0 tenmarks.com
 0.0.0.0 ters.eu-west-1.aiv-delivery.net
 0.0.0.0 tf-lb-20171109165411125400000001-440806643.us-east-1.elb.amazonaws.com
 0.0.0.0 thebenjamin.s3.amazonaws.com
@@ -2371,6 +2436,7 @@
 0.0.0.0 wms-fe.amazon-adsystem.com
 0.0.0.0 wms-in.amazon-adsystem.com
 0.0.0.0 wms-na.amazon-adsystem.com
+0.0.0.0 woot.com
 0.0.0.0 wooting-update.s3.amazonaws.com
 0.0.0.0 workspaces.us-east-1.amazonaws.com
 0.0.0.0 workspaces.us-west-2.amazonaws.com

@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-! Last updated: 2022-04-07
+! Last updated: 2022-05-02
 ! General
 ||_domainkey.amazonaws.com^
 ||0bxxaty1ad.execute-api.us-east-1.amazonaws.com^
@@ -455,23 +455,74 @@
 ||amazon-france.xyz^
 ||amazon-seo-service.com^
 ||amazon.ae^
+||amazon.at^
 ||amazon.au^
 ||amazon.ca^
+||amazon.ch^
+||amazon.clothing^
 ||amazon.cn^
+||amazon.co^
 ||amazon.co.jp^
 ||amazon.co.uk^
 ||amazon.com^
 ||amazon.com.au^
 ||amazon.com.br^
 ||amazon.com.mx^
+||amazon.company^
+||amazon.cruises^
+||amazon.cz^
 ||amazon.de^
+||amazon.dk^
+||amazon.dog^
+||amazon.energy^
 ||amazon.es^
 ||amazon.eu^
+||amazon.express^
 ||amazon.fr^
+||amazon.fund^
+||amazon.game^
+||amazon.gd^
+||amazon.gent^
+||amazon.gr^
+||amazon.hockey^
+||amazon.hu^
+||amazon.id^
+||amazon.ie^
 ||amazon.in^
+||amazon.international^
+||amazon.io^
 ||amazon.it^
+||amazon.jobs^
+||amazon.jp^
+||amazon.kiwi^
+||amazon.kr^
+||amazon.ltda^
+||amazon.lu^
+||amazon.me^
+||amazon.mk^
+||amazon.mx^
 ||amazon.nl^
+||amazon.no^
+||amazon.or^
+||amazon.pl^
+||amazon.press^
+||amazon.pt^
+||amazon.re^
+||amazon.ro^
+||amazon.rs^
+||amazon.ru^
+||amazon.sa^
+||amazon.salon^
 ||amazon.sg^
+||amazon.shoophing^
+||amazon.soccer^
+||amazon.su^
+||amazon.tickets^
+||amazon.tienda^
+||amazon.tours^
+||amazon.training^
+||amazon.tv^
+||amazon.wiki^
 ||amazon1.qualtrics.com^
 ||amazonaax.com^
 ||amazonalexa.com^
@@ -481,7 +532,9 @@
 ||amazonclix.com^
 ||amazoncrl.com^
 ||amazonde1.qualtrics.com^
+||amazoninspire.com^
 ||amazonpay.com^
+||amazonpay.in^
 ||amazonrobotics.com^
 ||amazontrust.com^
 ||ambassador-production-v2-elb-506154624.eu-central-1.elb.amazonaws.com^
@@ -592,6 +645,8 @@
 ||aws.amazon.com^
 ||aws.amazonaws.com^
 ||aws.com^
+||awscloud.com^
+||awsevents.net^
 ||awsstatic.com^
 ||axp.zedo.com^
 ||b.ensighten.com^
@@ -778,6 +833,7 @@
 ||collector.leaddyno.com^
 ||collector.savvyads.com^
 ||com.com^
+||comixology.com^
 ||completion.amazon.com^
 ||compute-1.amazonaws.com^
 ||concierge.analytics.console.aws.a2z.com^
@@ -805,6 +861,7 @@
 ||countess-prod-public-176850629.us-west-2.elb.amazonaws.com^
 ||coursematerials.amazon.com^
 ||create.leadid.com^
+||createspace.com^
 ||creatives.ancoraplatform.com^
 ||creatives.s3.amazonaws.com^
 ||crossyroadrageanalytics-157863293.us-east-1.elb.amazonaws.com^
@@ -874,6 +931,7 @@
 ||dp-discovery-na-ext.amazon.com^
 ||dp-gw-na.amazon.com^
 ||dp-rsm-prod.amazon.com^
+||dpreview.com^
 ||dra.amazon-adsystem.com^
 ||drive.amazonaws.com^
 ||drmalb-677588359.eu-west-3.elb.amazonaws.com^
@@ -986,6 +1044,7 @@
 ||exitsplash.s3.amazonaws.com^
 ||f.media-amazon.com^
 ||f.monetate.net^
+||fabric.com^
 ||fastdownload10.com^
 ||fastlane-adv.rubiconproject.com^
 ||fastnclick.com^
@@ -1072,6 +1131,7 @@
 ||go.sonobi.com^
 ||go.tracksz.co^
 ||gonzogrape.gumgum.com^
+||goodreads.com^
 ||goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com^
 ||goshawk.amazonaws.com^
 ||granite.amazonaws.com^
@@ -1165,6 +1225,7 @@
 ||js4.ringrevenue.com^
 ||json4.ringrevenue.com^
 ||jump.aragontrack.com^
+||junglee.com^
 ||jwpltx.com^
 ||k.intellitxt.com^
 ||k8s-analysis-lighthou-3f73de8e48-416670195.us-east-1.elb.amazonaws.com^
@@ -1286,6 +1347,7 @@
 ||msh.amazon.com^
 ||msh.amazon.de^
 ||mtrx.go.sonobi.com^
+||mturk.com^
 ||music.amazon.com^
 ||music.amazon.fr^
 ||mws.amazonaws.com^
@@ -2033,6 +2095,7 @@
 ||sds.amazonaws.com^
 ||sdscdn.userreport.com^
 ||search34.info.com^
+||seattlespheres.com^
 ||seccdn-gl.imrworldwide.com^
 ||secretmedia.s3.amazonaws.com^
 ||secure.adwebster.com^
@@ -2056,6 +2119,7 @@
 ||shareaholic.com^
 ||shared-jamf-jpt-generic-packages.s3.amazonaws.com^
 ||sharedid-2070269664.us-east-1.elb.amazonaws.com^
+||shopbop.com^
 ||sift-campaign-creatives.s3.amazonaws.com^
 ||sikkim.amazonaws.com^
 ||simplora-recipe-transfer-scripts.s3.amazonaws.com^
@@ -2207,6 +2271,7 @@
 ||teachingcomemail.s3.amazonaws.com^
 ||techvalidateproduction0-744364824.us-west-2.elb.amazonaws.com^
 ||telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com^
+||tenmarks.com^
 ||ters.eu-west-1.aiv-delivery.net^
 ||tf-lb-20171109165411125400000001-440806643.us-east-1.elb.amazonaws.com^
 ||thebenjamin.s3.amazonaws.com^
@@ -2370,6 +2435,7 @@
 ||wms-fe.amazon-adsystem.com^
 ||wms-in.amazon-adsystem.com^
 ||wms-na.amazon-adsystem.com^
+||woot.com^
 ||wooting-update.s3.amazonaws.com^
 ||workspaces.us-east-1.amazonaws.com^
 ||workspaces.us-west-2.amazonaws.com^
@@ -2612,6 +2678,7 @@
 ||toolkit.twitch-extension-backend.com^
 ||trowel.twitch.tv^
 ||ttvnw.net^
+||twitch.com^
 ||twitch.map.fastly.net^
 ||twitch.tv^
 ||twitchcdn.net^
@@ -3137,3 +3204,5 @@
 ||andr.eu.ec.api.amazonvideo.com^
 ||eu.api.amazonvideo.com^
 ||ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com^
+! IMDB
+||boxofficemojo.com^
