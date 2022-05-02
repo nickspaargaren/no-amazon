@@ -1177,8 +1177,6 @@
 0.0.0.0 images.ads.supplyframe.com
 0.0.0.0 images.amazon.com
 0.0.0.0 images1.cliqueclack.com
-0.0.0.0 imdb.amazon-adsystem.com
-0.0.0.0 imdb.com
 0.0.0.0 img.pulsemgr.com
 0.0.0.0 importexport.amazonaws.com
 0.0.0.0 in.amazon.com
@@ -1320,7 +1318,6 @@
 0.0.0.0 mcafee-home.7eer.net
 0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 media-amazon.com
-0.0.0.0 media-imdb.com
 0.0.0.0 media-match.com
 0.0.0.0 media.amazon.map.fastly.net
 0.0.0.0 media.amazon.map.fastly.netimages-eu.ssl-images-amazon.com
