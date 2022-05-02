@@ -5,6 +5,7 @@
 0.0.0.0 13thfloor.imdb.com
 0.0.0.0 6degrees.imdb.com
 0.0.0.0 addpro.imdb.com
+0.0.0.0 admin.boxofficemojo.com
 0.0.0.0 admin.imdb.com
 0.0.0.0 akas.imdb.com
 0.0.0.0 allocine.imdb.com
@@ -130,6 +131,7 @@
 0.0.0.0 poll.imdb.com
 0.0.0.0 portuguese.imdb.com
 0.0.0.0 posters.imdb.com
+0.0.0.0 preview.boxofficemojo.com
 0.0.0.0 primevideo-dp-na-gamma.imdb.com
 0.0.0.0 primevideo-dp-na.imdb.com
 0.0.0.0 pro-labs.imdb.com
@@ -146,6 +148,7 @@
 0.0.0.0 royalrumble.imdb.com
 0.0.0.0 rss.imdb.com
 0.0.0.0 scoot.imdb.com
+0.0.0.0 secure.boxofficemojo.com
 0.0.0.0 secure.imdb.com
 0.0.0.0 shonext.imdb.com
 0.0.0.0 showtime.imdb.com
@@ -170,7 +173,9 @@
 0.0.0.0 webtv.imdb.com
 0.0.0.0 widgets.imdb.com
 0.0.0.0 www.amazon.imdb.com
+0.0.0.0 www.boxofficemojo.com
 0.0.0.0 www.imdb.com
 0.0.0.0 www.uk.imdb.com
 0.0.0.0 www.us.imdb.com
+0.0.0.0 www2.boxofficemojo.com
 0.0.0.0 yoursay.imdb.com
