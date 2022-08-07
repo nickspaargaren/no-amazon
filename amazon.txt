@@ -2038,6 +2038,7 @@ rtr.innovid.com
 rudy.adsnative.com
 rumds.wpdigital.net
 rv-gateway.supersonicads.com
+s-beta.amazon-adsystem.com
 s.206ads.com
 s.206solutions.com
 s.admathhd.com
