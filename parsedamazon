@@ -1349,6 +1349,7 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 mix-test.uts.ngdata.com
 0.0.0.0 mmtrkpy.com
+0.0.0.0 mobfox.com
 0.0.0.0 mobile.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mondoads.s3.amazonaws.com
@@ -1369,6 +1370,7 @@
 0.0.0.0 music.amazon.fr
 0.0.0.0 mws.amazonaws.com
 0.0.0.0 mws.amazonservices.com
+0.0.0.0 my.mobfox.com
 0.0.0.0 n.targetctracker.com
 0.0.0.0 n4h9utzk4f.execute-api.us-east-1.amazonaws.com
 0.0.0.0 napi.lanistaads.com
