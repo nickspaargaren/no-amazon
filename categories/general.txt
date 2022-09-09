@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-# Last updated: 2022-08-07
+# Last updated: 2022-09-09
 # General
 
 0.0.0.0 _domainkey.amazonaws.com
@@ -665,6 +665,7 @@
 0.0.0.0 awscloud.com
 0.0.0.0 awsevents.net
 0.0.0.0 awsstatic.com
+0.0.0.0 awstrack.me
 0.0.0.0 axp.zedo.com
 0.0.0.0 b.ensighten.com
 0.0.0.0 b.siftscience.com
