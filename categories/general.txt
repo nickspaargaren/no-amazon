@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-# Last updated: 2022-09-09
+# Last updated: 2022-10-11
 # General
 
 0.0.0.0 _domainkey.amazonaws.com
@@ -287,6 +287,7 @@
 0.0.0.0 a.rvttrack.com
 0.0.0.0 a.teads.tv
 0.0.0.0 a.wishabi.com
+0.0.0.0 a0.awsstatic.com
 0.0.0.0 a1.amazonaws.com
 0.0.0.0 a1.vdna-assets.com
 0.0.0.0 a2s.amazonaws.com
@@ -554,6 +555,8 @@
 0.0.0.0 amazonpay.in
 0.0.0.0 amazonrobotics.com
 0.0.0.0 amazontrust.com
+0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
+0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
 0.0.0.0 ambassador-production-v2-elb-506154624.eu-central-1.elb.amazonaws.com
 0.0.0.0 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 0.0.0.0 ams-ads-cornerstone-creatives-fe.s3.amazonaws.com
@@ -901,6 +904,7 @@
 0.0.0.0 d.skimresources.com
 0.0.0.0 d.t.tailtarget.com
 0.0.0.0 d.tailtarget.com
+0.0.0.0 d1.awsstatic.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.alexa.com
 0.0.0.0 data.apn.co.nz
@@ -1968,7 +1972,9 @@
 0.0.0.0 prod-apne1-jamf-jpt-configs.s3.amazonaws.com
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prod-services.interactiveone.com
+0.0.0.0 prod-us-west-2.csp-report.marketing.aws.dev
 0.0.0.0 prod.amazoncrl.com
+0.0.0.0 prod.log.shortbread.aws.dev
 0.0.0.0 productio-elasticl-35189evuisr9-1896115268.us-west-2.elb.amazonaws.com
 0.0.0.0 promo.clicnscores.com
 0.0.0.0 promotions.betfred.com
