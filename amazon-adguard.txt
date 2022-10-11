@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-! Last updated: 2022-09-09
+! Last updated: 2022-10-11
 ! General
 ||_domainkey.amazonaws.com^
 ||0bxxaty1ad.execute-api.us-east-1.amazonaws.com^
@@ -286,6 +286,7 @@
 ||a.rvttrack.com^
 ||a.teads.tv^
 ||a.wishabi.com^
+||a0.awsstatic.com^
 ||a1.amazonaws.com^
 ||a1.vdna-assets.com^
 ||a2s.amazonaws.com^
@@ -553,6 +554,8 @@
 ||amazonpay.in^
 ||amazonrobotics.com^
 ||amazontrust.com^
+||amazonwebservices.d2.sc.omtrdc.net^
+||amazonwebservicesinc.tt.omtrdc.net^
 ||ambassador-production-v2-elb-506154624.eu-central-1.elb.amazonaws.com^
 ||ams-ads-cornerstone-creatives-eu.s3.amazonaws.com^
 ||ams-ads-cornerstone-creatives-fe.s3.amazonaws.com^
@@ -900,6 +903,7 @@
 ||d.skimresources.com^
 ||d.t.tailtarget.com^
 ||d.tailtarget.com^
+||d1.awsstatic.com^
 ||data.adsrvr.org^
 ||data.alexa.com^
 ||data.apn.co.nz^
@@ -1967,7 +1971,9 @@
 ||prod-apne1-jamf-jpt-configs.s3.amazonaws.com^
 ||prod-js.aws.y-track.com^
 ||prod-services.interactiveone.com^
+||prod-us-west-2.csp-report.marketing.aws.dev^
 ||prod.amazoncrl.com^
+||prod.log.shortbread.aws.dev^
 ||productio-elasticl-35189evuisr9-1896115268.us-west-2.elb.amazonaws.com^
 ||promo.clicnscores.com^
 ||promotions.betfred.com^
