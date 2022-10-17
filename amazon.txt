@@ -3514,4 +3514,3 @@ www.amazongames.com
 www.amazon.com.au
 www.amazon.es
 www.amazon.jobs
-www.amazon.*
