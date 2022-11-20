@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-# Last updated: 2022-10-11
+# Last updated: 2022-11-20
 # General
 
 _domainkey.amazonaws.com
@@ -343,6 +343,7 @@ aca-livecards-service-eu.amazon.com
 accelerator.amazon.co.uk
 accelerator.amazon.fr
 access.amazonaws.com
+account.amazon.jobs
 ace-ugc-pc-lnch.s3.amazonaws.com
 acsechocaptiveportal.com
 acuity.amazonaws.com
@@ -648,6 +649,7 @@ atv-ext-fe.amazon.com
 atv-ext.amazon.com
 atv-ps.amazon.com
 audible.com
+author.amazon.com
 authorcentral.amazon.com
 autoscaling.us-east-1.amazonaws.com
 autoscaling.us-gov-west-1.amazonaws.com
@@ -698,9 +700,11 @@ bomcl.richmetrics.com
 books.amazon.com
 bootstrap.livefyre.com
 branch.io
+brandservices.amazon.com
 btf-analytics.s3.amazonaws.com
 bugsnag.appstore.a2z.com
 bundle-geoip.herokuapp.com
+business.amazon.com
 buybox.amazon.com
 bv-analytics-js-prod.s3.amazonaws.com
 bv-analytics-js-qa.s3.amazonaws.com
@@ -1129,6 +1133,7 @@ g-pixel.invitemedia.com
 g2.gumgum.com
 gamedev.amazon.com
 games.amazon.com
+gaming.amazon.com
 gateways.s3.amazonaws.com
 gcs.amazonaws.com
 geo.amazonaws.com
@@ -1167,6 +1172,7 @@ guipitan.amazon.com
 h.nexac.com
 health.amazonaws.com
 heapanalytics.com
+hiring.amazon.com
 hits.epochstats.com
 hj.flxpxl.com
 hl-legals.s3-us-west-2.amazonaws.com
@@ -1194,6 +1200,7 @@ id.washingtonpost.com
 idc-service-oz-eu.amazon.com
 idsync.rlcdn.com
 idvisitor.washingtonpost.com
+ignite.amazon.com
 imads.integral-marketing.com
 images-eu.amazon.com
 images-eu.ssl-images-amazon.com
@@ -1262,6 +1269,7 @@ kindle.amazon.com
 kindleformac.amazon.com
 kindleforpc.amazon.com
 kindlepreview.amazon.com
+kindlepublishing.amazon.com
 kindlescout.amazon.com
 kinesis.ap-northeast-1.amazonaws.com
 kinesis.us-east-1.amazonaws.com
@@ -1414,6 +1422,7 @@ ocsp.rootca1.amazontrust.com
 ocsp.rootg2.amazontrust.com
 ocsp.sca1b.amazontrust.com
 of.inviziads.com
+one.amazon.com
 onlgc.voluumtrk.com
 opfcaptcha-prod.s3.amazonaws.com
 opsworks.us-east-1.amazonaws.com
@@ -1437,6 +1446,7 @@ pacontainer.s3.amazonaws.com
 pagefair.com
 pages-stats.rbl.ms
 pages.payments.amazon.com
+panel.amazon.com
 papi.mynativeads.com
 papi.mynativeplatform.com
 parkcloud.dynadot.com
@@ -1444,6 +1454,7 @@ partenaires.amazon.fr
 partner.shareaholic.com
 partners.tremorhub.com
 pay.amazon.com
+payeecentral.amazon.com
 payments-amazon.com
 payments-de.amazon.com
 payments.amazon.com
@@ -2133,7 +2144,9 @@ secureredirect101.com
 seg.sharethis.com
 segment-data.zqtk.net
 segment-pixel.invitemedia.com
+sell.amazon.com
 sellercentral-europe.amazon.com
+sellercentral.amazon.ca
 sellercentral.amazon.com
 sentry.io
 server1.beaconpush.com
@@ -2244,6 +2257,7 @@ street-production.s3.amazonaws.com
 strikeadcdn.s3.amazonaws.com
 sts.amazonaws.com
 studios.amazon.com
+substainability.aboutamazon.com
 sumome.com
 support.amazonaws.com
 support.us-east-1.amazonaws.com
@@ -2415,6 +2429,7 @@ us-east-1.dc.ads.linkedin.com
 us-gmtdmp.mookie1.com
 us-west-2.console.aws.amazon.com
 us.ads.justpremium.com
+us.amazon.com
 us.pixel.newscgp.com
 us.tracking.justpremium.com
 use.convertglobal.com
@@ -2426,6 +2441,7 @@ vast.optimatic.com
 vcp-nlb-production-d26d6674c58943d2.elb.eu-west-1.amazonaws.com
 vd.contents.prod.eu.s3.amazonaws.com
 vd.emp.prd.s3.amazonaws.com
+vendorcentral.amazon.com
 vendorexpress.amazon.com
 vfw-us.amazon-adsystem.com
 vg-no.c.richmetrics.com
@@ -2434,6 +2450,7 @@ vid-io.springserve.net
 vid.springserve.com
 videe.tv
 video.a2z.com
+videodirect.amazon.com
 viewerstats.docstoc.com.s3.amazonaws.com
 vml1.s3.amazonaws.com
 voice-prod-78694282.us-west-2.elb.amazonaws.com
@@ -2512,11 +2529,13 @@ www.amazon.cn
 www.amazon.co.jp
 www.amazon.co.uk
 www.amazon.com
+www.amazon.com.au
 www.amazon.coupon
 www.amazon.de
 www.amazon.deal
 www.amazon.dev
 www.amazon.drive
+www.amazon.es
 www.amazon.fast
 www.amazon.fire
 www.amazon.fr
@@ -2526,6 +2545,7 @@ www.amazon.got
 www.amazon.group
 www.amazon.hot
 www.amazon.imdb
+www.amazon.jobs
 www.amazon.jot
 www.amazon.joy
 www.amazon.kids
@@ -2569,6 +2589,7 @@ www.amazon.zappos
 www.amazon.zero
 www.amazonaws.com
 www.amazonforum.com
+www.amazongames.com
 www.amazonpay.com
 www.amazonregistry.com
 www.amazonstinks.com
