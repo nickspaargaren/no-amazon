@@ -3492,3 +3492,25 @@ www.uk.imdb.com
 www.us.imdb.com
 www2.boxofficemojo.com
 yoursay.imdb.com
+# More
+account.amazon.jobs
+author.amazon.com
+brandservices.amazon.com
+business.amazon.com
+gaming.amazon.com
+hiring.amazon.com
+ignite.amazon.com
+kindlepublishing.amazon.com
+one.amazon.com
+panel.amazon.com
+payeecentral.amazon.com
+sell.amazon.com
+sellercentral.amazon.ca
+substainability.aboutamazon.com
+us.amazon.com
+vendorcentral.amazon.com
+videodirect.amazon.com
+www.amazongames.com
+www.amazon.com.au
+www.amazon.es
+www.amazon.jobs
