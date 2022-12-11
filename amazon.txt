@@ -529,7 +529,7 @@ amazon.ru
 amazon.sa
 amazon.salon
 amazon.sg
-amazon.shoophing
+amazon.shopping
 amazon.soccer
 amazon.su
 amazon.tickets
