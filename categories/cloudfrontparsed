@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-# Last updated: 2022-12-11
+# Last updated: 2022-12-12
 # Cloudfront
 
 cloudfront.loggly.com
