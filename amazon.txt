@@ -855,7 +855,6 @@ collector-428.tvsquared.com
 collector.githubapp.com
 collector.leaddyno.com
 collector.savvyads.com
-com.com
 comixology.com
 completion.amazon.com
 compute-1.amazonaws.com
