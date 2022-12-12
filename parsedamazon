@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-# Last updated: 2022-12-11
+# Last updated: 2022-12-12
 # General
 0.0.0.0 _domainkey.amazonaws.com
 0.0.0.0 0bxxaty1ad.execute-api.us-east-1.amazonaws.com
@@ -857,7 +857,6 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector.savvyads.com
-0.0.0.0 com.com
 0.0.0.0 comixology.com
 0.0.0.0 completion.amazon.com
 0.0.0.0 compute-1.amazonaws.com
