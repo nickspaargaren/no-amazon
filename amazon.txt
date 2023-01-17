@@ -382,6 +382,7 @@ ads.adiply.com
 ads.adthrive.com
 ads.adual.net
 ads.advertisespace.com
+ads.amazon
 ads.aws.viber.com
 ads.chango.com
 ads.chargeads.com
@@ -458,6 +459,7 @@ aiv-cdn.net
 aiv-delivery.net
 alb-aws-fr-bswx-2-1673521430.eu-central-1.elb.amazonaws.com
 alexa-sitestats.s3.amazonaws.com
+alexa.amazon
 alexa.amazon.com
 alexa.amazon.de
 alexa.com
@@ -470,6 +472,7 @@ amazon-dss.com
 amazon-france.xyz
 amazon-seo-service.com
 amazon.ae
+amazon.app
 amazon.at
 amazon.au
 amazon.ca
@@ -487,6 +490,7 @@ amazon.company
 amazon.cruises
 amazon.cz
 amazon.de
+amazon.dev
 amazon.dk
 amazon.dog
 amazon.energy
@@ -515,6 +519,7 @@ amazon.ltda
 amazon.lu
 amazon.me
 amazon.mk
+amazon.moi
 amazon.mx
 amazon.nl
 amazon.no
@@ -1008,6 +1013,7 @@ ec2.us-east-1.amazonaws.com
 ec2.us-gov-west-1.amazonaws.com
 ec2.us-west-1.amazonaws.com
 ec2.us-west-2.amazonaws.com
+echo.amazon
 echo.amazon.com
 ecommstats.s3.amazonaws.com
 ecs.amazonaws.com
@@ -1160,6 +1166,7 @@ gonzogrape.gumgum.com
 goodreads.com
 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 goshawk.amazonaws.com
+grandchallenge.amazon
 granite.amazonaws.com
 gscounters.eu1.gigya.com
 gsf-cf.softonic.com
@@ -1261,6 +1268,7 @@ kcmo.amazonaws.com
 kdp.amazon.com
 kindle-cpu.com
 kindle-time.amazon.com
+kindle.amazon
 kindle.amazon.com
 kindleformac.amazon.com
 kindleforpc.amazon.com
@@ -1363,6 +1371,8 @@ mobfox.com
 mobile.amazonaws.com
 mobileanalytics.us-east-1.amazonaws.com
 mondoads.s3.amazonaws.com
+monitor-nominet.amazon
+monitor-nominet.yamaxun
 monitoring.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
@@ -1395,6 +1405,8 @@ new.cetrk.com
 neweden.amazonaws.com
 newsharecounts.s3-us-west-2.amazonaws.com
 nexus.ensighten.com
+nic.amazon
+nic.yamaxun
 ninja.onap.io
 nj-com.c.richmetrics.com
 notify.nuviad.com
@@ -1722,7 +1734,9 @@ pharlap.amazonaws.com
 pharm.amazonaws.com
 pharma.amazonaws.com
 pharmacology.amazonaws.com
+pharmacy.amazon
 pharmacy.amazonaws.com
+pharmacyservices.amazon
 pharmclient.amazonaws.com
 pharris.amazonaws.com
 phascogale.amazonaws.com
@@ -1971,9 +1985,11 @@ pool.admedo.com
 portal.aws.amazon.com
 powr-counter.herokuapp.com
 preview.leadmediapartners.com
+prime.amazon
 prime.amazon.com
 prime.amazon.eu
 primenow.amazon.com
+primevideo.amazon
 primevideo.com
 prod-0-dailykos-routing-lb-1067863233.us-west-2.elb.amazonaws.com
 prod-apne1-jamf-jpt-configs.s3.amazonaws.com
@@ -1983,6 +1999,7 @@ prod-us-west-2.csp-report.marketing.aws.dev
 prod.amazoncrl.com
 prod.log.shortbread.aws.dev
 productio-elasticl-35189evuisr9-1896115268.us-west-2.elb.amazonaws.com
+projectkuiper.amazon
 promo.clicnscores.com
 promotions.betfred.com
 ps-eu.amazon-adsystem.com
