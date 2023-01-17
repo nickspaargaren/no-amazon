@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-# Last updated: 2022-12-12
+# Last updated: 2023-01-17
 # General
 
 0.0.0.0 _domainkey.amazonaws.com
@@ -385,6 +385,7 @@
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.adual.net
 0.0.0.0 ads.advertisespace.com
+0.0.0.0 ads.amazon
 0.0.0.0 ads.aws.viber.com
 0.0.0.0 ads.chango.com
 0.0.0.0 ads.chargeads.com
@@ -461,6 +462,7 @@
 0.0.0.0 aiv-delivery.net
 0.0.0.0 alb-aws-fr-bswx-2-1673521430.eu-central-1.elb.amazonaws.com
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
+0.0.0.0 alexa.amazon
 0.0.0.0 alexa.amazon.com
 0.0.0.0 alexa.amazon.de
 0.0.0.0 alexa.com
@@ -473,6 +475,7 @@
 0.0.0.0 amazon-france.xyz
 0.0.0.0 amazon-seo-service.com
 0.0.0.0 amazon.ae
+0.0.0.0 amazon.app
 0.0.0.0 amazon.at
 0.0.0.0 amazon.au
 0.0.0.0 amazon.ca
@@ -490,6 +493,7 @@
 0.0.0.0 amazon.cruises
 0.0.0.0 amazon.cz
 0.0.0.0 amazon.de
+0.0.0.0 amazon.dev
 0.0.0.0 amazon.dk
 0.0.0.0 amazon.dog
 0.0.0.0 amazon.energy
@@ -518,6 +522,7 @@
 0.0.0.0 amazon.lu
 0.0.0.0 amazon.me
 0.0.0.0 amazon.mk
+0.0.0.0 amazon.moi
 0.0.0.0 amazon.mx
 0.0.0.0 amazon.nl
 0.0.0.0 amazon.no
@@ -1011,6 +1016,7 @@
 0.0.0.0 ec2.us-gov-west-1.amazonaws.com
 0.0.0.0 ec2.us-west-1.amazonaws.com
 0.0.0.0 ec2.us-west-2.amazonaws.com
+0.0.0.0 echo.amazon
 0.0.0.0 echo.amazon.com
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 ecs.amazonaws.com
@@ -1163,6 +1169,7 @@
 0.0.0.0 goodreads.com
 0.0.0.0 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 0.0.0.0 goshawk.amazonaws.com
+0.0.0.0 grandchallenge.amazon
 0.0.0.0 granite.amazonaws.com
 0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gsf-cf.softonic.com
@@ -1264,6 +1271,7 @@
 0.0.0.0 kdp.amazon.com
 0.0.0.0 kindle-cpu.com
 0.0.0.0 kindle-time.amazon.com
+0.0.0.0 kindle.amazon
 0.0.0.0 kindle.amazon.com
 0.0.0.0 kindleformac.amazon.com
 0.0.0.0 kindleforpc.amazon.com
@@ -1366,6 +1374,8 @@
 0.0.0.0 mobile.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mondoads.s3.amazonaws.com
+0.0.0.0 monitor-nominet.amazon
+0.0.0.0 monitor-nominet.yamaxun
 0.0.0.0 monitoring.amazonaws.com
 0.0.0.0 monitoring.sa-east-1.amazonaws.com
 0.0.0.0 monitoring.us-east-1.amazonaws.com
@@ -1398,6 +1408,8 @@
 0.0.0.0 neweden.amazonaws.com
 0.0.0.0 newsharecounts.s3-us-west-2.amazonaws.com
 0.0.0.0 nexus.ensighten.com
+0.0.0.0 nic.amazon
+0.0.0.0 nic.yamaxun
 0.0.0.0 ninja.onap.io
 0.0.0.0 nj-com.c.richmetrics.com
 0.0.0.0 notify.nuviad.com
@@ -1725,7 +1737,9 @@
 0.0.0.0 pharm.amazonaws.com
 0.0.0.0 pharma.amazonaws.com
 0.0.0.0 pharmacology.amazonaws.com
+0.0.0.0 pharmacy.amazon
 0.0.0.0 pharmacy.amazonaws.com
+0.0.0.0 pharmacyservices.amazon
 0.0.0.0 pharmclient.amazonaws.com
 0.0.0.0 pharris.amazonaws.com
 0.0.0.0 phascogale.amazonaws.com
@@ -1974,9 +1988,11 @@
 0.0.0.0 portal.aws.amazon.com
 0.0.0.0 powr-counter.herokuapp.com
 0.0.0.0 preview.leadmediapartners.com
+0.0.0.0 prime.amazon
 0.0.0.0 prime.amazon.com
 0.0.0.0 prime.amazon.eu
 0.0.0.0 primenow.amazon.com
+0.0.0.0 primevideo.amazon
 0.0.0.0 primevideo.com
 0.0.0.0 prod-0-dailykos-routing-lb-1067863233.us-west-2.elb.amazonaws.com
 0.0.0.0 prod-apne1-jamf-jpt-configs.s3.amazonaws.com
@@ -1986,6 +2002,7 @@
 0.0.0.0 prod.amazoncrl.com
 0.0.0.0 prod.log.shortbread.aws.dev
 0.0.0.0 productio-elasticl-35189evuisr9-1896115268.us-west-2.elb.amazonaws.com
+0.0.0.0 projectkuiper.amazon
 0.0.0.0 promo.clicnscores.com
 0.0.0.0 promotions.betfred.com
 0.0.0.0 ps-eu.amazon-adsystem.com
