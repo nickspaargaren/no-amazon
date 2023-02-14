@@ -3425,6 +3425,7 @@ hwr.imdb.com
 i.imdb.com
 ia.ec.imdb.com
 ia.imdb.com
+ia.media-imdb.com
 iafrica.imdb.com
 iai.imdb.com
 icons.imdb.com
