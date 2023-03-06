@@ -670,6 +670,7 @@ aws.amazon.com
 aws.amazonaws.com
 aws.com
 awscloud.com
+awsevents.com
 awsevents.net
 awsstatic.com
 awstrack.me
