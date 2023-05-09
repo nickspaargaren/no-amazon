@@ -3536,7 +3536,6 @@ windowsphishingalert158.s3.amazonaws.com
 aax-dtb-cf.amazon-adsystem.com
 amazon-adsystem.com
 aax.amazon-adsystem.com
-aax-eu-retail-direct.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-us.amazon-adsystem.com
