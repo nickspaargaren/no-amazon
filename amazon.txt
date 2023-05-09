@@ -3538,7 +3538,6 @@ amazon-adsystem.com
 aax.amazon-adsystem.com
 aax-us.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
-aax-us-east-retail-direct.amazon-adsystem.com
 c.amazon-adsystem.com
 cdn-a.amazon-adsystem.com
 fls-eu.amazon-adsystem.com
