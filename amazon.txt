@@ -3551,7 +3551,6 @@ rcm.amazon.com
 vendorcentral-identifier-amazon.com
 vendorcentral-sign-amazon.com
 alexa-sitestats.s3.amazonaws.com
-advice-ads.s3.amazonaws.com
 device-metrics-us.amazon.com
 fls-eu.amazon.es
 neowin.s3.amazonaws.com
