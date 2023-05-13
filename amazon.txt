@@ -3533,7 +3533,6 @@ www2.boxofficemojo.com
 yoursay.imdb.com
 # More
 aax-dtb-cf.amazon-adsystem.com
-ws-eu.amazon-adsystem.com
 ws-na.amazon-adsystem.com
 z-eu.amazon-adsystem
 amazonservices.122.2o7.net
