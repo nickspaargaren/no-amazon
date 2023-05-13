@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-# Last updated: 2023-03-06
+# Last updated: 2023-05-13
 # Cloudfront
 
 cloudfront.loggly.com
@@ -97,6 +97,7 @@ d1u6a9571c8boi.cloudfront.net
 d1ukp4rdr0i4nl.cloudfront.net
 d1ulmmr4d4i8j4.cloudfront.net
 d1upt0rqzff34l.cloudfront.net
+d1v5ir2lpwr8os.cloudfront.net
 d1v99qnc7usc0g.cloudfront.net
 d1v9u0bgi1uimx.cloudfront.net
 d1verl253w8evz.cloudfront.net
@@ -288,6 +289,7 @@ d3dkhq0wwdwodv.cloudfront.net
 d3dq1nh1l1pzqy.cloudfront.net
 d3dr8uw4cn1f4d.cloudfront.net
 d3dytsf4vrjn5x.cloudfront.net
+d3e54v103j8qbb.cloudfront.net
 d3em0905j9y6sm.cloudfront.net
 d3f4nuq5dskrej.cloudfront.net
 d3fr49y3ejekk5.cloudfront.net
@@ -422,6 +424,7 @@ dqhi3ea93ztgv.cloudfront.net
 dr3k6qonw2kee.cloudfront.net
 dr8pk6ovub897.cloudfront.net
 drf8e429z5jzt.cloudfront.net
+dryu1iq1bameu.cloudfront.net
 ds02gfqy6io6i.cloudfront.net
 ds88pc0kw6cvc.cloudfront.net
 dsh7ky7308k4b.cloudfront.net
