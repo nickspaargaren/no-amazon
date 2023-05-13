@@ -3534,7 +3534,6 @@ yoursay.imdb.com
 # More
 windowsphishingalert158.s3.amazonaws.com
 aax-dtb-cf.amazon-adsystem.com
-fls-na.amazon-adsystem.com
 ir-na.amazon-adsystem.com
 mads.amazon-adsystem.com
 s.amazon-adsystem.com
