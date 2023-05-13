@@ -3539,6 +3539,5 @@ ws-eu.amazon-adsystem.com
 ws-na.amazon-adsystem.com
 z-eu.amazon-adsystem
 amazonservices.122.2o7.net
-rcm.amazon.com
 vendorcentral-identifier-amazon.com
 vendorcentral-sign-amazon.com
