@@ -3542,4 +3542,3 @@ amazonservices.122.2o7.net
 rcm.amazon.com
 vendorcentral-identifier-amazon.com
 vendorcentral-sign-amazon.com
-neowin.s3.amazonaws.com
