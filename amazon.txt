@@ -544,7 +544,6 @@ amazon.training
 amazon.tv
 amazon.wiki
 amazon1.qualtrics.com
-amazonaax.com
 amazonalexa.com
 amazonaws.cn
 amazonaws.com
