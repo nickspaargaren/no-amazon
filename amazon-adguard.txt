@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-! Last updated: 2023-05-13
+! Last updated: 2023-06-26
 ! General
 ||_domainkey.amazonaws.com^
 ||0bxxaty1ad.execute-api.us-east-1.amazonaws.com^
@@ -546,7 +546,6 @@
 ||amazon.tv^
 ||amazon.wiki^
 ||amazon1.qualtrics.com^
-||amazonaax.com^
 ||amazonalexa.com^
 ||amazonaws.cn^
 ||amazonaws.com^
