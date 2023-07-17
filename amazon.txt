@@ -3533,10 +3533,6 @@ www2.boxofficemojo.com
 yoursay.imdb.com
 # More
 aax-dtb-cf.amazon-adsystem.com
-vendorcentral-identifier-amazon.com
-vendorcentral-sign-amazon.com
-twitchs-cs2.com
-ad.twitchguru.com
 analytics.m7g.twitch.tv
 edge.ads.twitch.tv
 ns1.amzndns.co.uk
