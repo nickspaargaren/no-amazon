@@ -3597,7 +3597,6 @@ vestel.tv.twitch.tv
 fastly.vod.hls.ttvnw.net
 u.m.twitch.tv
 _spf.twitch.tv
-awsdns-hostmaster.amazon.com
 lightstep-collectors-v2-lb-1186262765.us-west-2.elb.amazonaws.com
 awsdns-hostmaster.amazon.com
 ec2-52-24-120-220.us-west-2.compute.amazonaws.com
