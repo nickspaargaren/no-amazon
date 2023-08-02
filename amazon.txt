@@ -3598,3 +3598,15 @@ fastly.vod.hls.ttvnw.net
 u.m.twitch.tv
 _spf.twitch.tv
 awsdns-hostmaster.amazon.com
+lightstep-collectors-v2-lb-1186262765.us-west-2.elb.amazonaws.com
+awsdns-hostmaster.amazon.com
+ec2-52-24-120-220.us-west-2.compute.amazonaws.com
+root.amazon.com
+amazon-smtp.amazon.com
+amazonses.com
+ns-1130.awsdns-13.org
+ns-1722.awsdns-23.co.uk
+ns-265.awsdns-33.com
+ns-882.awsdns-46.net
+dns-external-master.amazon.com
+s3-console-us-standard.console.aws.amazon.com
