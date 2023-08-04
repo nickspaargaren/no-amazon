@@ -3620,7 +3620,6 @@ msh.amazon.es
 msh.amazon.fr
 msh.amazon.in
 msh.amazon.it
-prod.amazoncrl.com
 web.diagnostic.networking.aws.dev
 retail-direct.amazon-adsystem.com
 retail-direct.amazon.com
