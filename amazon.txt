@@ -3692,7 +3692,6 @@ assoc-amazon.fr
 assoc-amazon.it
 assoc-amazon.jp
 aviary.amazon.co.jp
-fls-eu.amazon.co.uk
 fls-fe.amazon.co.jp
 rcm-uk.amazon.co.uk
 unagi.amazon.co.jp
