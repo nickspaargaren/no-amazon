@@ -3631,7 +3631,6 @@ aax-eu.amazon.ae
 aax-eu.amazon.co.uk
 aax-eu.amazon.com
 aax-eu.amazon.com.tr
-aax-eu.amazon.es
 aax-eu.amazon.fr
 aax-eu.amazon.in
 aax-eu.amazon.it
