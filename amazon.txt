@@ -3614,7 +3614,6 @@ dxz5jxhrrzigf.cloudfront.net
 msh.amazon.ca
 msh.amazon.cn
 msh.amazon.co.jp
-msh.amazon.com
 msh.amazon.com.br
 msh.amazon.com.mx
 msh.amazon.de
