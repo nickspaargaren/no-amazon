@@ -3616,7 +3616,6 @@ msh.amazon.cn
 msh.amazon.co.jp
 msh.amazon.com.br
 msh.amazon.com.mx
-msh.amazon.de
 msh.amazon.es
 msh.amazon.fr
 msh.amazon.in
