@@ -3610,7 +3610,6 @@ ns-882.awsdns-46.net
 dns-external-master.amazon.com
 s3-console-us-standard.console.aws.amazon.com
 bbuseruploads.s3.amazonaws.com
-dxz5jxhrrzigf.cloudfront.net
 msh.amazon.ca
 msh.amazon.cn
 msh.amazon.co.jp
