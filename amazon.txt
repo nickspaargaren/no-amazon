@@ -3699,7 +3699,6 @@ advertising.amazon.com.mx
 advertising.amazon.com.tr
 fls-eu.amazon.com.be
 fls-eu.amazon.com.tr
-fls-fe.amazon.com.au
 fls-na.amazon.com.br
 fls-na.amazon.com.mx
 unagi.amazon.com.au
