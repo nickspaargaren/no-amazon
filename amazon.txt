@@ -3660,7 +3660,6 @@ fls-eu.amazon.nl
 fls-eu.amazon.pl
 fls-eu.amazon.sa
 fls-eu.amazon.se
-fls-fe.amazon.com
 fls-fe.amazon.sg
 fls-fe-opf.amazon.com
 fls-na.amazon.ca
