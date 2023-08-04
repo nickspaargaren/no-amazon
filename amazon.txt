@@ -3700,7 +3700,6 @@ rcm-uk.amazon.co.uk
 unagi.amazon.co.jp
 unagi.amazon.co.uk
 assoc-amazon.co.uk
-advertising.amazon.com.au
 advertising.amazon.com.br
 advertising.amazon.com.mx
 advertising.amazon.com.tr
