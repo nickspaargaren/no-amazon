@@ -3617,7 +3617,6 @@ msh.amazon.co.jp
 msh.amazon.com
 msh.amazon.com.br
 msh.amazon.com.mx
-msh.amazon.co.uk
 msh.amazon.de
 msh.amazon.es
 msh.amazon.fr
@@ -3646,3 +3645,4 @@ schneevonmorgen.com.s3.amazonaws.com
 dtioykqj1u8de.cloudfront.net
 amazonadsi-a.akamaihd.net
 amazonforum.com
+aiv-cdn.net.c.footprint.net
