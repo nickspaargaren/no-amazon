@@ -3641,7 +3641,6 @@ aax-fe.amazon.co.jp
 aax-fe.amazon.com
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
-m.media-amazon.com
 d3ag4hukkh62yn.cloudfront.net
 schneevonmorgen.com.s3.amazonaws.com
 dtioykqj1u8de.cloudfront.net
