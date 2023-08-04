@@ -3654,7 +3654,6 @@ aan.amazon.it
 aviary.amazon.es
 fls-eu.amazon.ae
 fls-eu.amazon.eg
-fls-eu.amazon.es
 fls-eu.amazon.fr
 fls-eu.amazon.in
 fls-eu.amazon.it
