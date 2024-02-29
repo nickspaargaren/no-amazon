@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-# Last updated: 2023-06-26
+# Last updated: 2024-02-29
 # General
 0.0.0.0 _domainkey.amazonaws.com
 0.0.0.0 0bxxaty1ad.execute-api.us-east-1.amazonaws.com
@@ -254,7 +254,6 @@
 0.0.0.0 178-86.amazon.com
 0.0.0.0 1faax-us-east.amazon-adsystem.com
 0.0.0.0 1go.affec.tv27.0.0.1go.affec.tv
-0.0.0.0 2.android.pool.ntp.org
 0.0.0.0 21750.tctm.co
 0.0.0.0 2664.tm.zedo.com
 0.0.0.0 28516768.us-east-1.elb.amazonaws.com
