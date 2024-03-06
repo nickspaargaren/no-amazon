@@ -1,5 +1,5 @@
 # This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-# Last updated: 2024-02-29
+# Last updated: 2024-03-06
 # General
 0.0.0.0 _domainkey.amazonaws.com
 0.0.0.0 0bxxaty1ad.execute-api.us-east-1.amazonaws.com
@@ -871,16 +871,6 @@
 0.0.0.0 configuration-vending.service.amazonsilk.com
 0.0.0.0 connatix.com
 0.0.0.0 console.aws.amazon.com
-0.0.0.0 content.mkt51.net
-0.0.0.0 content.mkt922.com
-0.0.0.0 content.mkt931.com
-0.0.0.0 content.mkt932.com
-0.0.0.0 content.mkt941.com
-0.0.0.0 contentz.mkt51.net
-0.0.0.0 contentz.mkt61.net
-0.0.0.0 contentz.mkt912.com
-0.0.0.0 contentz.mkt932.com
-0.0.0.0 contentz.mkt941.com
 0.0.0.0 core-server.s3-website-us-east-1.amazonaws.com
 0.0.0.0 core.videoegg.com
 0.0.0.0 cortana-gateway.amazon.com
