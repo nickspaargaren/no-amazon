@@ -11,6 +11,15 @@ To aid in completing the GAFAM PiHole list, here is a list of known Amazon relat
 
 Note: Some items on the list may break some websites/services so please be prepared to edit/whitelist as needed.
 
+## Testing
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+pytest tests/
+```
+
 ## Warning for Fire TV Stick Users
 
 If you block the domains `fireoscaptiveportal.com` and `firetvcaptiveportal.com`, your Fire TV Stick may repeatedly crash on the home screen, complaining about a lack of network connectivity. Restarting the device will not resolve the issue.
