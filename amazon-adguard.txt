@@ -618,6 +618,7 @@
 ||assets.loginwithamazon.com^
 ||assets.luminate.com^
 ||assets.tapad.com^
+||assets.wholefoodsmarket.com^
 ||assoc-amazon.com^
 ||assoc-amazon.es^
 ||assoc-eu.associates-amazon.com^
@@ -708,6 +709,7 @@
 ||cache.prod.amazon-blogs.psdops.com^
 ||campaign-tapad.s3.amazonaws.com^
 ||capture.condenastdigital.com^
+||careers.wholefoodsmarket.co.uk^
 ||catalog-eu.amazon.com^
 ||catalog-retail.amazon.com^
 ||catalog-retail.amazon.fr^
@@ -1328,6 +1330,7 @@
 ||media.amazon.map.fastly.net^
 ||media.amazon.map.fastly.netimages-eu.ssl-images-amazon.com^
 ||media.amazon.map.fastly.netm.media-amazon.com^
+||media.wholefoodsmarket.com^
 ||merch.amazon.com^
 ||meridian.amazonaws.com^
 ||meter-svc.nytimes.com^
@@ -2600,6 +2603,8 @@
 ||www.ntp-g7g.amazon.com^
 ||www.s.amazon-adsystem.com^
 ||www.unagi-na.amazon.com^
+||www.wholefoodsmarket.co.uk^
+||www.wholefoodsmarket.com^
 ||wwww.amazon.com^
 ||x.bidswitch.net^
 ||x1.amazonaws.com^
