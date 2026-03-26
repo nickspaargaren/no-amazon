@@ -618,6 +618,7 @@
 0.0.0.0 assets.loginwithamazon.com
 0.0.0.0 assets.luminate.com
 0.0.0.0 assets.tapad.com
+0.0.0.0 assets.wholefoodsmarket.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 assoc-amazon.es
 0.0.0.0 assoc-eu.associates-amazon.com
@@ -708,6 +709,7 @@
 0.0.0.0 cache.prod.amazon-blogs.psdops.com
 0.0.0.0 campaign-tapad.s3.amazonaws.com
 0.0.0.0 capture.condenastdigital.com
+0.0.0.0 careers.wholefoodsmarket.co.uk
 0.0.0.0 catalog-eu.amazon.com
 0.0.0.0 catalog-retail.amazon.com
 0.0.0.0 catalog-retail.amazon.fr
@@ -1328,6 +1330,7 @@
 0.0.0.0 media.amazon.map.fastly.net
 0.0.0.0 media.amazon.map.fastly.netimages-eu.ssl-images-amazon.com
 0.0.0.0 media.amazon.map.fastly.netm.media-amazon.com
+0.0.0.0 media.wholefoodsmarket.com
 0.0.0.0 merch.amazon.com
 0.0.0.0 meridian.amazonaws.com
 0.0.0.0 meter-svc.nytimes.com
@@ -2600,6 +2603,8 @@
 0.0.0.0 www.ntp-g7g.amazon.com
 0.0.0.0 www.s.amazon-adsystem.com
 0.0.0.0 www.unagi-na.amazon.com
+0.0.0.0 www.wholefoodsmarket.co.uk
+0.0.0.0 www.wholefoodsmarket.com
 0.0.0.0 wwww.amazon.com
 0.0.0.0 x.bidswitch.net
 0.0.0.0 x1.amazonaws.com
