@@ -1,5 +1,5 @@
 ! This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
-! Last updated: 2024-03-06
+! Last updated: 2026-03-26
 ! General
 ||_domainkey.amazonaws.com^
 ||0bxxaty1ad.execute-api.us-east-1.amazonaws.com^
@@ -253,7 +253,6 @@
 ||178-85.amazon.com^
 ||178-86.amazon.com^
 ||1faax-us-east.amazon-adsystem.com^
-||1go.affec.tv27.0.0.1go.affec.tv^
 ||21750.tctm.co^
 ||2664.tm.zedo.com^
 ||28516768.us-east-1.elb.amazonaws.com^
@@ -267,24 +266,9 @@
 ||6i1bamfxoi.execute-api.us-east-1.amazonaws.com^
 ||7a0qo1zj1m.execute-api.us-west-1.amazonaws.com^
 ||841f20eada1de78d939f5f84b3f65502-1712114959.us-west-2.elb.amazonaws.com^
-||89-194-231-18.gsurfnet.com.br^
 ||96gjjs0zuh.execute-api.us-east-1.amazonaws.com^
 ||982b762063fc2544cee0e2dcd38ecc8013de47c88bca28ae25044c4da969ba8.us-east-1.prod.service.minerva.devices.a2z.com^
 ||a-prod-1469611339-2101282857.eu-west-1.elb.amazonaws.com^
-||a.adtpix.com^
-||a.cdn.intentmedia.net^
-||a.company-target.com^
-||a.dpmsrv.com^
-||a.goember.com^
-||a.idio.co^
-||a.imonomy.com^
-||a.klaviyo.com^
-||a.komoona.com^
-||a.monetate.net^
-||a.remarketstats.com^
-||a.rvttrack.com^
-||a.teads.tv^
-||a.wishabi.com^
 ||a0.awsstatic.com^
 ||a1.amazonaws.com^
 ||a1.vdna-assets.com^
@@ -369,7 +353,6 @@
 ||admantx-cluster-nlb-eu-2071973585.eu-west-1.elb.amazonaws.com^
 ||admarvel.s3.amazonaws.com^
 ||admediator.unityads.unity3d.com^
-||admonkey.dapper.net^
 ||admp-tc.delfi.lv^
 ||admtpmp127.adsk2.co^
 ||adn.impactradius.com^
@@ -702,7 +685,6 @@
 ||bomcl.richmetrics.com^
 ||books.amazon.com^
 ||bootstrap.livefyre.com^
-||branch.io^
 ||brandservices.amazon.com^
 ||btf-analytics.s3.amazonaws.com^
 ||bugsnag.appstore.a2z.com^
@@ -1067,9 +1049,6 @@
 ||f.media-amazon.com^
 ||f.monetate.net^
 ||fabric.com^
-||fastdownload10.com^
-||fastlane-adv.rubiconproject.com^
-||fastnclick.com^
 ||fba.amazon.com^
 ||fe-pew1-ext-openapi-lb-547958838.eu-west-1.elb.amazonaws.com^
 ||feanor.amazonaws.com^
@@ -1134,7 +1113,6 @@
 ||geo.qualaroo.com^
 ||geo.ziffdavis.com^
 ||geobeacon.ign.com^
-||gernewt.info^
 ||gh-contractor-zcbenz.s3.amazonaws.com^
 ||gio-catalog-eu.amazon.com^
 ||github-cloud.s3.amazonaws.com^
@@ -2152,7 +2130,6 @@
 ||sellercentral-europe.amazon.com^
 ||sellercentral.amazon.ca^
 ||sellercentral.amazon.com^
-||sentry.io^
 ||server1.beaconpush.com^
 ||server1.opentracker.net^
 ||server10.opentracker.net^
@@ -2262,7 +2239,6 @@
 ||sts.amazonaws.com^
 ||studios.amazon.com^
 ||substainability.aboutamazon.com^
-||sumome.com^
 ||support.amazonaws.com^
 ||support.us-east-1.amazonaws.com^
 ||surveygizmobeacon.s3.amazonaws.com^
@@ -2596,8 +2572,6 @@
 ||www.amazongames.com^
 ||www.amazonpay.com^
 ||www.amazonregistry.com^
-||www.amazonstinks.com^
-||www.amazonsucks.com^
 ||www.amazontrust.com^
 ||www.applicationsdeliveryupdate.com^
 ||www.asdasda-1426585087.eu-central-1.elb.amazonaws.com^
@@ -2605,20 +2579,7 @@
 ||www.assoc-amazon.co.uk^
 ||www.assoc-amazon.com^
 ||www.assoc-amazon.es^
-||www.badassjv.com^
-||www.bestfactorydelivery.com^
-||www.bitspresentdownload.com^
-||www.bizographics.com^
-||www.boycottamazon.com^
-||www.bundlerepositorycontent.com^
-||www.centralsignnew.com^
-||www.chuckledeliveryhosting.com^
-||www.chucklefunhead.com^
 ||www.clickmeter.com^
-||www.clicktripz.com^
-||www.cloudtracked.com^
-||www.currentupdateconcepts.com^
-||www.dntx.com^
 ||www.ec2-15-237-117-139.eu-west-3.compute.amazonaws.com^
 ||www.ec2-18-133-158-255.eu-west-2.compute.amazonaws.com^
 ||www.ec2-3-10-207-184.eu-west-2.compute.amazonaws.com^
@@ -2632,43 +2593,13 @@
 ||www.fls-eu.amazon.de^
 ||www.fls-na.amazon.com^
 ||www.fresh.amazon.com^
-||www.fuckamazon.com^
-||www.get.bot^
-||www.giftfunnew.com^
-||www.hotdogsandads.com^
-||www.i.matheranalytics.com^
-||www.ihateamazon.com^
 ||www.images-eu.ssl-images-amazon.com^
 ||www.images-na.ssl-images-amazon.com^
-||www.intellisuggest.com^
-||www.jetpackdigital.com^
 ||www.joyo.com.cn^
-||www.livefyre.com^
 ||www.media-amazon.com^
-||www.megagiftcity.com^
-||www.mftracking.com^
 ||www.ntp-g7g.amazon.com^
-||www.onesafe-software.com^
-||www.pinion.gg^
-||www.quickbitsdownloads.com^
-||www.ranchapptag.com^
-||www.reelcentric.com^
 ||www.s.amazon-adsystem.com^
-||www.screwamazon.com^
-||www.sendori.com^
-||www.smartredirect.de^
-||www.storygize.net^
-||www.supersonicads.com^
-||www.trackingclick.net^
 ||www.unagi-na.amazon.com^
-||www.updatesoftwaresend.com^
-||www.vaultsappsbyte.com^
-||www.w3counter.com^
-||www.webspectator.com^
-||www.whizstats.com^
-||www.wtp101.com^
-||www.ytdownloader.com^
-||www.zergnet.com^
 ||wwww.amazon.com^
 ||x.bidswitch.net^
 ||x1.amazonaws.com^
