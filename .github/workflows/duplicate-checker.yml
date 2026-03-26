@@ -3,12 +3,10 @@ on:
   push:
     branches:
       - master
-    paths:
-      - 'amazon.txt'
   pull_request:
     branches:
       - master
-      - develop
+
 jobs:
   duplicates:
     runs-on: ubuntu-latest
