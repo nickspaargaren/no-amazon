@@ -8,7 +8,7 @@ This blocklist prevents all devices on your home network from accessing Amazon w
 
 ---
 
-## ⚠️ What Will Stop Working
+## What Will Stop Working
 
 When you use this blocklist, the following services and websites will **completely stop working**:
 
