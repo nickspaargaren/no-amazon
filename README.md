@@ -10,3 +10,12 @@ Protect yourself from Amazon monopoly by using this blocklist!
 To aid in completing the GAFAM PiHole list, here is a list of known Amazon related trackers/spyware.
 
 Note: Some items on the list may break some websites/services so please be prepared to edit/whitelist as needed.
+
+## Testing
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+pytest tests/
+```
