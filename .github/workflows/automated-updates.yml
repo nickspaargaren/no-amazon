@@ -41,7 +41,7 @@ jobs:
       - name: Update Unbound list
         run: |
           python3 convert.py unbound
-      - name: Commit parsed list
+      - name: Commit Unbound list
         run: |
           git add . && git commit -am "Automated Unbound list update"
           git push
