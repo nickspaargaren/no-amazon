@@ -1289,8 +1289,6 @@
 0.0.0.0 logging-vpc-new-1656974903.us-east-1.elb.amazonaws.com
 0.0.0.0 login.amazon.com
 0.0.0.0 logistics.amazon.com
-0.0.0.0 logs-01.loggly.com
-0.0.0.0 logs.loggly.com
 0.0.0.0 logs.us-east-1.amazonaws.com
 0.0.0.0 logs.us-west-2.amazonaws.com
 0.0.0.0 lt.retargeter.com
@@ -3290,7 +3288,6 @@
 0.0.0.0 zh-cn.twitch.tv
 0.0.0.0 zh-tw.twitch.tv
 # Cloudfront
-0.0.0.0 cloudfront.loggly.com
 0.0.0.0 cloudfront.net
 0.0.0.0 d10lumateci472.cloudfront.net
 0.0.0.0 d10lv7w3g0jvk9.cloudfront.net
