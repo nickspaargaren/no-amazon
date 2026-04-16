@@ -2,7 +2,6 @@
 # Last updated: 2026-04-16
 # Cloudfront
 
-0.0.0.0 cloudfront.loggly.com
 0.0.0.0 cloudfront.net
 0.0.0.0 d10lumateci472.cloudfront.net
 0.0.0.0 d10lv7w3g0jvk9.cloudfront.net
