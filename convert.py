@@ -17,11 +17,11 @@ class DomainBlocklistConverter:
 
     BLOCKLIST_ABOUT = "This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon"
 
-    def __init__(self):
-        self.data: Dict[List] = OrderedDict()
+    def __init__(self) -> None:
+        self.data: Dict[str, List[str]] = OrderedDict()
         self.timestamp: str = date.today().strftime("%Y-%m-%d")
 
-    def read(self):
+    def read(self) -> None:
         """
         Read input file into `self.data`, a dictionary mapping category names to lists of member items.
         """
@@ -37,13 +37,13 @@ class DomainBlocklistConverter:
                         raise ValueError("Unable to store item without category")
                     self.data[category].append(line)
 
-    def dump(self):
+    def dump(self) -> None:
         """
         Output data in JSON format on STDOUT.
         """
         print(json.dumps(self.data, indent=4))
 
-    def pihole(self):
+    def pihole(self) -> None:
         """
         Produce blocklist for the Pi-hole.
         """
@@ -55,7 +55,7 @@ class DomainBlocklistConverter:
                 for entry in entries:
                     f.write(f"0.0.0.0 {entry}\n")
 
-    def unbound(self):
+    def unbound(self) -> None:
         """
         Produce blocklist for the Unbound DNS server.
         """
@@ -67,7 +67,7 @@ class DomainBlocklistConverter:
                 for entry in entries:
                     f.write(f'local-zone: "{entry}" always_refuse\n')
 
-    def adguard(self):
+    def adguard(self) -> None:
         """
         Produce blocklist for AdGuard.
         """
@@ -79,12 +79,12 @@ class DomainBlocklistConverter:
                 for entry in entries:
                     f.write(f"||{entry}^\n")
 
-    def categories(self):
+    def categories(self) -> None:
         """
         Produce individual per-category blocklist files.
         """
 
-        def write_file(path, category, entries, line_prefix=""):
+        def write_file(path: Path, category: str, entries: List[str], line_prefix: str = "") -> None:
             """
             Generic function to write per-category file in both flavours.
             """
@@ -102,7 +102,7 @@ class DomainBlocklistConverter:
             filename = category.replace(" ", "").lower()
             filepath = Path(self.CATEGORIES_PATH).joinpath(filename)
             text_file = filepath.with_suffix(".txt")
-            parsed_file = str(filepath) + "parsed"
+            parsed_file = Path(str(filepath) + "parsed")
 
             # Write two flavours of per-category file.
             write_file(text_file, category, entries, line_prefix="0.0.0.0 ")
@@ -112,7 +112,7 @@ app = typer.Typer(help="Amazon domain blocklist converter")
 
 
 @app.callback()
-def setup(ctx: typer.Context):
+def setup(ctx: typer.Context) -> None:
     """
     Initialize converter and read input file.
     """
@@ -122,7 +122,7 @@ def setup(ctx: typer.Context):
 
 
 @app.command()
-def pihole(ctx: typer.Context):
+def pihole(ctx: typer.Context) -> None:
     """
     Produce blocklist for Pi-hole.
     """
@@ -131,7 +131,7 @@ def pihole(ctx: typer.Context):
 
 
 @app.command()
-def unbound(ctx: typer.Context):
+def unbound(ctx: typer.Context) -> None:
     """
     Produce blocklist for Unbound DNS server.
     """
@@ -140,7 +140,7 @@ def unbound(ctx: typer.Context):
 
 
 @app.command()
-def adguard(ctx: typer.Context):
+def adguard(ctx: typer.Context) -> None:
     """
     Produce blocklist for AdGuard.
     """
@@ -149,7 +149,7 @@ def adguard(ctx: typer.Context):
 
 
 @app.command()
-def categories(ctx: typer.Context):
+def categories(ctx: typer.Context) -> None:
     """
     Produce individual per-category blocklist files.
     """
@@ -158,7 +158,7 @@ def categories(ctx: typer.Context):
 
 
 @app.command()
-def all(ctx: typer.Context):
+def all(ctx: typer.Context) -> None:
     """
     Generate all blocklist formats.
     """
@@ -173,7 +173,7 @@ def all(ctx: typer.Context):
 
 
 @app.command(name="json")
-def json_output(ctx: typer.Context):
+def json_output(ctx: typer.Context) -> None:
     """
     Output data in JSON format for debugging.
     """

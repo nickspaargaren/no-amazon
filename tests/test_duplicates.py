@@ -3,7 +3,7 @@ from pathlib import Path
 from collections import Counter
 
 
-def test_no_duplicate_domains():
+def test_no_duplicate_domains() -> None:
     """Test that amazon.txt contains no duplicate domains."""
     amazon_file = Path(__file__).parent.parent / "amazon.txt"
     
