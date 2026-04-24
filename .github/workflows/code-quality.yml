@@ -14,3 +14,5 @@ jobs:
         run: pip install -r requirements.txt
       - name: Type check
         run: mypy
+      - name: Code formatting check
+        run: black --check .

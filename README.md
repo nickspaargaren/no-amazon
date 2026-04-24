@@ -188,16 +188,21 @@ This project is part of a broader effort to reduce dependence on these tech gian
 
 ### For Developers
 
-**Testing the blocklist:**
+**Setup**
 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+```
+
+**Testing the blocklist**
+
+```bash
 pytest tests/
 ```
 
-**Type checking:**
+**Type checking**
 
 ```bash
 mypy
@@ -205,7 +210,21 @@ mypy
 
 Type checking runs automatically in CI on all pull requests.
 
-**Generating blocklist formats:**
+**Code formatting:**
+
+Check formatting
+```bash
+black --check .
+```
+
+Fix formatting
+```bash
+black .
+```
+
+Code formatting is checked automatically in CI on all pull requests.
+
+**Generating blocklist formats**
 
 ```bash
 python3 convert.py --help       # Show all available commands

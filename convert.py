@@ -84,7 +84,9 @@ class DomainBlocklistConverter:
         Produce individual per-category blocklist files.
         """
 
-        def write_file(path: Path, category: str, entries: List[str], line_prefix: str = "") -> None:
+        def write_file(
+            path: Path, category: str, entries: List[str], line_prefix: str = ""
+        ) -> None:
             """
             Generic function to write per-category file in both flavours.
             """
@@ -107,6 +109,7 @@ class DomainBlocklistConverter:
             # Write two flavours of per-category file.
             write_file(text_file, category, entries, line_prefix="0.0.0.0 ")
             write_file(parsed_file, category, entries)
+
 
 app = typer.Typer(help="Amazon domain blocklist converter")
 
