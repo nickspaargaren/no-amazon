@@ -107,26 +107,6 @@ class DomainBlocklistConverter:
             write_file(text_file, category, entries, line_prefix="0.0.0.0 ")
             write_file(parsed_file, category, entries)
 
-    def duplicates(self):
-        """
-        Find duplicates in main source file.
-        """
-        hashes = defaultdict(int)
-        for category, entries in self.data.items():
-            for entry in entries:
-                hashes[hash(entry)] += 1
-        for category, entries in self.data.items():
-            for entry in entries:
-                hashvalue = hash(entry)
-                if hashvalue in hashes:
-                    count = hashes[hashvalue]
-                    if count > 1:
-                        print(
-                            f"Domain {entry} found {count} times, please remove duplicate domains."
-                        )
-                        hashes[hashvalue] = 0
-
-
 def run(action: str):
     """
     Invoke different actions on converter engine.
@@ -158,7 +138,7 @@ if __name__ == "__main__":
 
     # Read subcommand from command line, with error handling.
     action_candidates = ["pihole", "unbound", "adguard", "categories"]
-    special_candidates = ["all", "duplicates", "json"]
+    special_candidates = ["all", "json"]
     subcommand = None
     try:
         subcommand = sys.argv[1]

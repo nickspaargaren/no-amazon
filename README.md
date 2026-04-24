@@ -205,7 +205,6 @@ python3 convert.py pihole       # Pi-hole format only
 python3 convert.py adguard      # AdGuard format only
 python3 convert.py unbound      # Unbound format only
 python3 convert.py categories   # Category-specific lists
-python3 convert.py duplicates   # Check for duplicates
 ```
 
 ---
