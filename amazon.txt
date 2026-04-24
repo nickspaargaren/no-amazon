@@ -687,7 +687,6 @@ bootstrap.livefyre.com
 brandservices.amazon.com
 btf-analytics.s3.amazonaws.com
 bugsnag.appstore.a2z.com
-bundle-geoip.herokuapp.com
 business.amazon.com
 buybox.amazon.com
 bv-analytics-js-prod.s3.amazonaws.com
@@ -1951,7 +1950,6 @@ pki.amazon.com
 pm.w55c.net
 pool.admedo.com
 portal.aws.amazon.com
-powr-counter.herokuapp.com
 preview.leadmediapartners.com
 prime.amazon
 prime.amazon.com
