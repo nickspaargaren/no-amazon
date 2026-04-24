@@ -200,11 +200,18 @@ pytest tests/
 **Generating blocklist formats:**
 
 ```bash
+python3 convert.py --help       # Show all available commands
 python3 convert.py all          # Generate all formats
 python3 convert.py pihole       # Pi-hole format only
 python3 convert.py adguard      # AdGuard format only
 python3 convert.py unbound      # Unbound format only
 python3 convert.py categories   # Category-specific lists
+python3 convert.py json         # Output data in JSON format
+```
+
+For detailed help on any command:
+```bash
+python3 convert.py <command> --help
 ```
 
 ---

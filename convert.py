@@ -1,9 +1,10 @@
 import json
-import sys
-from collections import OrderedDict, defaultdict
+from collections import OrderedDict
 from datetime import date
 from pathlib import Path
 from typing import Dict, List
+
+import typer
 
 
 class DomainBlocklistConverter:
@@ -107,48 +108,77 @@ class DomainBlocklistConverter:
             write_file(text_file, category, entries, line_prefix="0.0.0.0 ")
             write_file(parsed_file, category, entries)
 
-def run(action: str):
-    """
-    Invoke different actions on converter engine.
-    """
+app = typer.Typer(help="Amazon domain blocklist converter")
 
-    # Create converter instance and read input file.
+
+@app.callback()
+def setup(ctx: typer.Context):
+    """
+    Initialize converter and read input file.
+    """
     converter = DomainBlocklistConverter()
     converter.read()
+    ctx.obj = converter
 
-    # Invoke special action "json".
-    if action == "json":
-        converter.dump()
-        sys.exit()
 
-    # Either invoke specific action, or expand to all actions.
-    if action == "all":
-        subcommands = action_candidates
-    else:
-        subcommands = [action]
+@app.command()
+def pihole(ctx: typer.Context):
+    """
+    Produce blocklist for Pi-hole.
+    """
+    print("Invoking subcommand 'pihole'")
+    ctx.obj.pihole()
 
-    # Invoke all actions subsequently.
-    for action in subcommands:
-        print(f"Invoking subcommand '{action}'")
-        method = getattr(converter, action)
-        method()
+
+@app.command()
+def unbound(ctx: typer.Context):
+    """
+    Produce blocklist for Unbound DNS server.
+    """
+    print("Invoking subcommand 'unbound'")
+    ctx.obj.unbound()
+
+
+@app.command()
+def adguard(ctx: typer.Context):
+    """
+    Produce blocklist for AdGuard.
+    """
+    print("Invoking subcommand 'adguard'")
+    ctx.obj.adguard()
+
+
+@app.command()
+def categories(ctx: typer.Context):
+    """
+    Produce individual per-category blocklist files.
+    """
+    print("Invoking subcommand 'categories'")
+    ctx.obj.categories()
+
+
+@app.command()
+def all(ctx: typer.Context):
+    """
+    Generate all blocklist formats.
+    """
+    print("Invoking subcommand 'pihole'")
+    ctx.obj.pihole()
+    print("Invoking subcommand 'unbound'")
+    ctx.obj.unbound()
+    print("Invoking subcommand 'adguard'")
+    ctx.obj.adguard()
+    print("Invoking subcommand 'categories'")
+    ctx.obj.categories()
+
+
+@app.command(name="json")
+def json_output(ctx: typer.Context):
+    """
+    Output data in JSON format for debugging.
+    """
+    ctx.obj.dump()
 
 
 if __name__ == "__main__":
-
-    # Read subcommand from command line, with error handling.
-    action_candidates = ["pihole", "unbound", "adguard", "categories"]
-    special_candidates = ["all", "json"]
-    subcommand = None
-    try:
-        subcommand = sys.argv[1]
-    except:
-        pass
-    if subcommand not in action_candidates + special_candidates:
-        print(
-            f"ERROR: Subcommand not given or invalid, please use one of {action_candidates + special_candidates}"
-        )
-        sys.exit(1)
-
-    # Invoke subcommand.
-    run(subcommand)
+    app()
