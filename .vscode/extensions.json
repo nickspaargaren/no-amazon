@@ -1,5 +1,7 @@
 {
   "recommendations": [
-    "ms-python.mypy-type-checker"
+    "ms-python.mypy-type-checker",
+    "ms-python.python",
+    "ms-python.black-formatter"
   ]
 }
