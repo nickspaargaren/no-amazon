@@ -197,6 +197,14 @@ pip install -r requirements.txt
 pytest tests/
 ```
 
+**Type checking:**
+
+```bash
+mypy
+```
+
+Type checking runs automatically in CI on all pull requests.
+
 **Generating blocklist formats:**
 
 ```bash
