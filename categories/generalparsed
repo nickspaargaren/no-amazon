@@ -447,6 +447,7 @@ amazon.no
 amazon.or
 amazon.pl
 amazon.press
+amazon.prime.com
 amazon.pt
 amazon.re
 amazon.ro
@@ -614,6 +615,7 @@ beacon.sojern.com
 beacon.tunecore.com
 beam.hlserve.com
 bi-flogger-alb-ext-343643057.us-east-1.elb.amazonaws.com
+bleach.prime.com
 blobar.org
 blockmetrics.com
 blogs.aws.amazon.com
@@ -810,6 +812,7 @@ cscentral-eu.amazon.com
 cscentral-fe.amazon.com
 cscentral.amazon.com
 cxa.amazonaws.com
+cyber.prime.com
 d.254a.com
 d.adroll.com
 d.dc121677.com
@@ -871,6 +874,7 @@ dp-gw-na.amazon.com
 dp-rsm-prod.amazon.com
 dpreview.com
 dra.amazon-adsystem.com
+dragonball.prime.com
 drive.amazonaws.com
 drmalb-677588359.eu-west-3.elb.amazonaws.com
 dszw6uu4t9.execute-api.us-east-1.amazonaws.com
@@ -959,6 +963,7 @@ elemental.com
 email.us-east-1.amazonaws.com
 email.us-west-2.amazonaws.com
 embed-stats.rbl.ms
+emporia.prime.com
 endeavour.amazon.com
 eng.trkcnv.com
 engine.4chan-ads.org
@@ -968,6 +973,7 @@ engine.nectarads.com
 engine.widespace.com
 engine2.adzerk.net
 epowernetworktrackerimages.s3.amazonaws.com
+eriador.prime.com
 es.amazonaws.com
 ets-prd2-uw1-coll-elb-2013165758.us-west-2.elb.amazonaws.com
 eu-west-1.telemetry.insights.video.a2z.com
@@ -985,6 +991,7 @@ exitsplash.s3.amazonaws.com
 f.media-amazon.com
 f.monetate.net
 fabric.com
+fairytail.prime.com
 fba.amazon.com
 fe-pew1-ext-openapi-lb-547958838.eu-west-1.elb.amazonaws.com
 feanor.amazonaws.com
@@ -1042,6 +1049,7 @@ g2.gumgum.com
 gamedev.amazon.com
 games.amazon.com
 gaming.amazon.com
+gaming.prime.com
 gateways.s3.amazonaws.com
 gcs.amazonaws.com
 geo.amazonaws.com
@@ -1259,8 +1267,10 @@ meter-svc.nytimes.com
 metrics-api.librato.com
 metrics-collector.onscroll.com
 metrics.brightcove.com
+michigan.prime.com
 mix-test.uts.ngdata.com
 mmtrkpy.com
+mobapp.prime.com
 mobfox.com
 mobile.amazonaws.com
 mobileanalytics.us-east-1.amazonaws.com
@@ -1288,6 +1298,7 @@ my.mobfox.com
 n.targetctracker.com
 n4h9utzk4f.execute-api.us-east-1.amazonaws.com
 napi.lanistaads.com
+naruto.prime.com
 nationalpost-com.c.richmetrics.com
 nativead.s3.amazonaws.com
 ncads.s3.amazonaws.com
@@ -1325,10 +1336,12 @@ ocsp.rootg2.amazontrust.com
 ocsp.sca1b.amazontrust.com
 of.inviziads.com
 one.amazon.com
+onepiece.prime.com
 onlgc.voluumtrk.com
 opfcaptcha-prod.s3.amazonaws.com
 opsworks.us-east-1.amazonaws.com
 optimize.adpushup.com
+optimum.prime.com
 orca.qubitproducts.com
 org.amazon.com
 ortc-ws2-useast1-s0005.realtime.co
@@ -1878,7 +1891,9 @@ preview.leadmediapartners.com
 prime.amazon
 prime.amazon.com
 prime.amazon.eu
+prime.com
 primenow.amazon.com
+primerd.prime.com
 prod-0-dailykos-routing-lb-1067863233.us-west-2.elb.amazonaws.com
 prod-apne1-jamf-jpt-configs.s3.amazonaws.com
 prod-js.aws.y-track.com
@@ -2352,6 +2367,7 @@ vml1.s3.amazonaws.com
 voice-prod-78694282.us-west-2.elb.amazonaws.com
 voice-prod-clips-393eefd0cba28c270ced0f9587a4f6ae601ca91e.s3.dualstack.us-west-2.amazonaws.com
 vpc.altitude-arena.com
+vpn.prime.com
 vsp-alexa-eu.amazon.com
 vungle2-cdn-prod.s3.amazonaws.com
 w.usabilla.com
@@ -2371,6 +2387,7 @@ widgets.amazon.com
 widgets.kiosked.com
 wiki-prod-1394614349.us-west-2.elb.amazonaws.com
 wiki.pinion.gg
+wildcan.prime.com
 wildcard-ads-new-1653986885.useast-1.elb.amazonaws.com
 windowsphishingalert158.s3.amazonaws.com
 wireless.amazon.com
@@ -2511,6 +2528,7 @@ www.images-na.ssl-images-amazon.com
 www.joyo.com.cn
 www.media-amazon.com
 www.ntp-g7g.amazon.com
+www.prime.com
 www.s.amazon-adsystem.com
 www.unagi-na.amazon.com
 www.wholefoodsmarket.co.uk
