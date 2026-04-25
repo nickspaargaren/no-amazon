@@ -446,6 +446,7 @@
 0.0.0.0 amazon.or
 0.0.0.0 amazon.pl
 0.0.0.0 amazon.press
+0.0.0.0 amazon.prime.com
 0.0.0.0 amazon.pt
 0.0.0.0 amazon.re
 0.0.0.0 amazon.ro
@@ -613,6 +614,7 @@
 0.0.0.0 beacon.tunecore.com
 0.0.0.0 beam.hlserve.com
 0.0.0.0 bi-flogger-alb-ext-343643057.us-east-1.elb.amazonaws.com
+0.0.0.0 bleach.prime.com
 0.0.0.0 blobar.org
 0.0.0.0 blockmetrics.com
 0.0.0.0 blogs.aws.amazon.com
@@ -809,6 +811,7 @@
 0.0.0.0 cscentral-fe.amazon.com
 0.0.0.0 cscentral.amazon.com
 0.0.0.0 cxa.amazonaws.com
+0.0.0.0 cyber.prime.com
 0.0.0.0 d.254a.com
 0.0.0.0 d.adroll.com
 0.0.0.0 d.dc121677.com
@@ -870,6 +873,7 @@
 0.0.0.0 dp-rsm-prod.amazon.com
 0.0.0.0 dpreview.com
 0.0.0.0 dra.amazon-adsystem.com
+0.0.0.0 dragonball.prime.com
 0.0.0.0 drive.amazonaws.com
 0.0.0.0 drmalb-677588359.eu-west-3.elb.amazonaws.com
 0.0.0.0 dszw6uu4t9.execute-api.us-east-1.amazonaws.com
@@ -958,6 +962,7 @@
 0.0.0.0 email.us-east-1.amazonaws.com
 0.0.0.0 email.us-west-2.amazonaws.com
 0.0.0.0 embed-stats.rbl.ms
+0.0.0.0 emporia.prime.com
 0.0.0.0 endeavour.amazon.com
 0.0.0.0 eng.trkcnv.com
 0.0.0.0 engine.4chan-ads.org
@@ -967,6 +972,7 @@
 0.0.0.0 engine.widespace.com
 0.0.0.0 engine2.adzerk.net
 0.0.0.0 epowernetworktrackerimages.s3.amazonaws.com
+0.0.0.0 eriador.prime.com
 0.0.0.0 es.amazonaws.com
 0.0.0.0 ets-prd2-uw1-coll-elb-2013165758.us-west-2.elb.amazonaws.com
 0.0.0.0 eu-west-1.telemetry.insights.video.a2z.com
@@ -984,6 +990,7 @@
 0.0.0.0 f.media-amazon.com
 0.0.0.0 f.monetate.net
 0.0.0.0 fabric.com
+0.0.0.0 fairytail.prime.com
 0.0.0.0 fba.amazon.com
 0.0.0.0 fe-pew1-ext-openapi-lb-547958838.eu-west-1.elb.amazonaws.com
 0.0.0.0 feanor.amazonaws.com
@@ -1041,6 +1048,7 @@
 0.0.0.0 gamedev.amazon.com
 0.0.0.0 games.amazon.com
 0.0.0.0 gaming.amazon.com
+0.0.0.0 gaming.prime.com
 0.0.0.0 gateways.s3.amazonaws.com
 0.0.0.0 gcs.amazonaws.com
 0.0.0.0 geo.amazonaws.com
@@ -1258,8 +1266,10 @@
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-collector.onscroll.com
 0.0.0.0 metrics.brightcove.com
+0.0.0.0 michigan.prime.com
 0.0.0.0 mix-test.uts.ngdata.com
 0.0.0.0 mmtrkpy.com
+0.0.0.0 mobapp.prime.com
 0.0.0.0 mobfox.com
 0.0.0.0 mobile.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
@@ -1287,6 +1297,7 @@
 0.0.0.0 n.targetctracker.com
 0.0.0.0 n4h9utzk4f.execute-api.us-east-1.amazonaws.com
 0.0.0.0 napi.lanistaads.com
+0.0.0.0 naruto.prime.com
 0.0.0.0 nationalpost-com.c.richmetrics.com
 0.0.0.0 nativead.s3.amazonaws.com
 0.0.0.0 ncads.s3.amazonaws.com
@@ -1324,10 +1335,12 @@
 0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 of.inviziads.com
 0.0.0.0 one.amazon.com
+0.0.0.0 onepiece.prime.com
 0.0.0.0 onlgc.voluumtrk.com
 0.0.0.0 opfcaptcha-prod.s3.amazonaws.com
 0.0.0.0 opsworks.us-east-1.amazonaws.com
 0.0.0.0 optimize.adpushup.com
+0.0.0.0 optimum.prime.com
 0.0.0.0 orca.qubitproducts.com
 0.0.0.0 org.amazon.com
 0.0.0.0 ortc-ws2-useast1-s0005.realtime.co
@@ -1877,7 +1890,9 @@
 0.0.0.0 prime.amazon
 0.0.0.0 prime.amazon.com
 0.0.0.0 prime.amazon.eu
+0.0.0.0 prime.com
 0.0.0.0 primenow.amazon.com
+0.0.0.0 primerd.prime.com
 0.0.0.0 prod-0-dailykos-routing-lb-1067863233.us-west-2.elb.amazonaws.com
 0.0.0.0 prod-apne1-jamf-jpt-configs.s3.amazonaws.com
 0.0.0.0 prod-js.aws.y-track.com
@@ -2351,6 +2366,7 @@
 0.0.0.0 voice-prod-78694282.us-west-2.elb.amazonaws.com
 0.0.0.0 voice-prod-clips-393eefd0cba28c270ced0f9587a4f6ae601ca91e.s3.dualstack.us-west-2.amazonaws.com
 0.0.0.0 vpc.altitude-arena.com
+0.0.0.0 vpn.prime.com
 0.0.0.0 vsp-alexa-eu.amazon.com
 0.0.0.0 vungle2-cdn-prod.s3.amazonaws.com
 0.0.0.0 w.usabilla.com
@@ -2370,6 +2386,7 @@
 0.0.0.0 widgets.kiosked.com
 0.0.0.0 wiki-prod-1394614349.us-west-2.elb.amazonaws.com
 0.0.0.0 wiki.pinion.gg
+0.0.0.0 wildcan.prime.com
 0.0.0.0 wildcard-ads-new-1653986885.useast-1.elb.amazonaws.com
 0.0.0.0 windowsphishingalert158.s3.amazonaws.com
 0.0.0.0 wireless.amazon.com
@@ -2510,6 +2527,7 @@
 0.0.0.0 www.joyo.com.cn
 0.0.0.0 www.media-amazon.com
 0.0.0.0 www.ntp-g7g.amazon.com
+0.0.0.0 www.prime.com
 0.0.0.0 www.s.amazon-adsystem.com
 0.0.0.0 www.unagi-na.amazon.com
 0.0.0.0 www.wholefoodsmarket.co.uk
