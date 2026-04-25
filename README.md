@@ -109,6 +109,7 @@ If blocking everything is too extreme, you can block specific categories instead
 | **Twitch**       | Twitch streaming platform only      | Block Twitch but keep Prime Video      |
 | **IMDb**         | IMDb movie database only            | Block IMDb but keep other services     |
 | **Amazon Video** | Prime Video streaming only          | Block streaming but keep shopping      |
+| **Prime Video**  | Prime Video streaming only          | Block Prime Video specifically         |
 
 **Category list URLs:**
 
@@ -117,6 +118,7 @@ If blocking everything is too extreme, you can block specific categories instead
 - Twitch: `https://raw.githubusercontent.com/nickspaargaren/no-amazon/master/categories/twitchparsed`
 - IMDb: `https://raw.githubusercontent.com/nickspaargaren/no-amazon/master/categories/imdbparsed`
 - Amazon Video: `https://raw.githubusercontent.com/nickspaargaren/no-amazon/master/categories/amazonvideoparsed`
+- Prime Video: `https://raw.githubusercontent.com/nickspaargaren/no-amazon/master/categories/primevideoparsed`
 
 Add these URLs to your Pi-hole or AdGuard the same way as the main list.
 
