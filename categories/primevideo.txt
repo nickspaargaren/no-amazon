@@ -1,0 +1,52 @@
+# This blocklist helps to restrict access to Amazon and its domains. Contribute at https://github.com/nickspaargaren/no-amazon
+# Last updated: 2026-04-25
+# Prime Video
+
+0.0.0.0 alphadhimah.partnerapi.primevideo.com
+0.0.0.0 alphajavroch.partnerapi.primevideo.com
+0.0.0.0 alphaone.partnerapi.primevideo.com
+0.0.0.0 alphathree.partnerapi.primevideo.com
+0.0.0.0 api.primevideo.com
+0.0.0.0 app-geo.primevideo.com
+0.0.0.0 app.primevideo.com
+0.0.0.0 apx-security-br.primevideo.com
+0.0.0.0 apx-security-eu.primevideo.com
+0.0.0.0 apx-security-fe.primevideo.com
+0.0.0.0 apx-security-na.primevideo.com
+0.0.0.0 apx-security-roe-eu.primevideo.com
+0.0.0.0 atv-ps-eu-preprod.primevideo.com
+0.0.0.0 atv-ps-eu.primevideo.com
+0.0.0.0 atv-ps-fe-preprod.primevideo.com
+0.0.0.0 atv-ps-fe.primevideo.com
+0.0.0.0 atv-ps-preprod.primevideo.com
+0.0.0.0 atv-ps.primevideo.com
+0.0.0.0 beta.partnerapi.primevideo.com
+0.0.0.0 eu.primevideo.com
+0.0.0.0 fe.primevideo.com
+0.0.0.0 gamma.partnerapi.primevideo.com
+0.0.0.0 internal-campfire-eu.primevideo.com
+0.0.0.0 internal-campfire-fe.primevideo.com
+0.0.0.0 internal.campfire.primevideo.com
+0.0.0.0 na.primevideo.com
+0.0.0.0 overpass.primevideo.com
+0.0.0.0 partnerapi.primevideo.com
+0.0.0.0 partnercentral.primevideo.com
+0.0.0.0 planb.gamma.primevideo.com
+0.0.0.0 preflight-geo.primevideo.com
+0.0.0.0 preflight.primevideo.com
+0.0.0.0 primevideo.amazon
+0.0.0.0 primevideo.com
+0.0.0.0 r.eu.primevideo.com
+0.0.0.0 r.fe.primevideo.com
+0.0.0.0 r.na.primevideo.com
+0.0.0.0 sandbox.partnerapi.primevideo.com
+0.0.0.0 sessions.prod.bugs.firebat.prime-video.amazon.dev
+0.0.0.0 superbowl.primevideo.com
+0.0.0.0 tnf.primevideo.com
+0.0.0.0 tp.20f83058f-frontier.primevideo.com
+0.0.0.0 tp.88a48d6e0-frontier.primevideo.com
+0.0.0.0 tp.b90ed8215-frontier.primevideo.com
+0.0.0.0 tp.d348e87f6-frontier.primevideo.com
+0.0.0.0 watch.primevideo.com
+0.0.0.0 web-geo.primevideo.com
+0.0.0.0 www.primevideo.com

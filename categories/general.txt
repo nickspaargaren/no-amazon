@@ -1879,8 +1879,6 @@
 0.0.0.0 prime.amazon.com
 0.0.0.0 prime.amazon.eu
 0.0.0.0 primenow.amazon.com
-0.0.0.0 primevideo.amazon
-0.0.0.0 primevideo.com
 0.0.0.0 prod-0-dailykos-routing-lb-1067863233.us-west-2.elb.amazonaws.com
 0.0.0.0 prod-apne1-jamf-jpt-configs.s3.amazonaws.com
 0.0.0.0 prod-js.aws.y-track.com
@@ -2057,7 +2055,6 @@
 0.0.0.0 services.krxd.net
 0.0.0.0 services.webspectator.com
 0.0.0.0 sesblog.amazon.com
-0.0.0.0 sessions.prod.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 sgaas-vpc-garry-public-elb-644092612.eu-west-1.elb.amazonaws.com
 0.0.0.0 shareaholic.com
 0.0.0.0 shared-jamf-jpt-generic-packages.s3.amazonaws.com
