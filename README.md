@@ -245,6 +245,29 @@ python3 convert.py <command> --help
 
 ---
 
+## MCP Server (OpenCode / AI agents)
+
+The repo includes an MCP server that lets AI agents discover subdomains using [subfinder](https://github.com/projectdiscovery/subfinder). The subfinder binary is downloaded automatically on first run.
+
+> **Requirements:** macOS Apple Silicon, Python 3.12+, `pip install mcp`
+
+Add the following to your `opencode.json`:
+
+```json
+{
+  "mcp": {
+    "no-amazon": {
+      "type": "local",
+      "command": ["/path/to/repo/.venv/bin/python3", "/path/to/repo/mcp/server.py"]
+    }
+  }
+}
+```
+
+Once connected, the `find_subdomains` tool is available to query subdomains for any domain.
+
+---
+
 ## License
 
 This project is open source. Use it freely to protect your privacy and reduce your dependence on Amazon.
